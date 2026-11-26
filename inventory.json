@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 25,
+    "total_entries": 26,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -1336,6 +1336,62 @@
         "family grooming / community pressure"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-angikar-and-a-som-yajna.md"
+    },
+    {
+      "video_id": "e1umNwF9-p4",
+      "youtube_url": "https://www.youtube.com/watch?v=e1umNwF9-p4",
+      "title_gu": "વ્રજયાત્રા - લીલી પરિક્રમા એક ધંધો એક ઠગાઈ",
+      "title_en": "Allegations About Conduct at Vaishnav Gatherings",
+      "language": "gu",
+      "published_date": "2025-07-20",
+      "duration_seconds": 3120,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that people arranging large Vaishnav gatherings seek money and sexual encounters, and that activities presented as Raas are used to initiate sexual encounters. The speaker also alleges that old cutouts are reused for Thakorji’s religious observances.",
+      "claims": [
+        "Alleges that attention or smiles are used to draw people into a Baithakji to give money or have sex.",
+        "Alleges that people organize gatherings of about four thousand Vaishnavs and have sex with women there.",
+        "Alleges that activities presented as Raas are used to initiate sexual encounters.",
+        "Alleges that the same old cutouts are reused for Thakorji’s religious observances."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Vraj yatra"
+      ],
+      "flags": [
+        "gang_rape",
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.29,
+      "keywords": [
+        "haveli / હવેલી",
+        "Vraj yatra / વ્રજયાત્રા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Thakorji / ઠાકોરજી",
+        "satsang / સત્સંગ",
+        "brainwash / બ્રેન વોશ",
+        "gang rape / સામૂહિક બળાત્કાર",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual",
+        "blackmail / extortion",
+        "grooming"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-at-vaishnav-gatherings.md"
     }
   ]
 }
