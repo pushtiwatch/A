@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 27,
+    "total_entries": 28,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -1442,6 +1442,68 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/conversation-about-angikar-and-ritual-practices.md"
+    },
+    {
+      "video_id": "VGTz77rF1dk",
+      "youtube_url": "https://www.youtube.com/watch?v=VGTz77rF1dk",
+      "title_gu": "પ્રશ્નો ના જવાબ - જૂન 2025",
+      "title_en": "June 2025 Questions and Answers",
+      "language": "gu",
+      "published_date": "2025-06-07",
+      "duration_seconds": 6300,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that members of a religious leader’s group raped a woman after the leader left. The speaker also recounts a woman’s death by suicide and says that a mother and son were thrown out.",
+      "claims": [
+        "Alleges that people came out onto the road intent on taking someone to a religious leader.",
+        "Alleges that the religious leader left before members of his group raped a woman one after another.",
+        "Alleges that a woman died by suicide after being taken home and told never to return.",
+        "Alleges that a mother and son were both thrown out."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Goswami / Bawa",
+        "Victim silencing",
+        "First-hand"
+      ],
+      "flags": [
+        "murder_or_death",
+        "gang_rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "group_sexual_ritual",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.37,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Balaks",
+        "Bawa / બાવા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "FIR / एफआईआर",
+        "brainwash / બ્રેન વોશ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "murder / death"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/june-2025-questions-and-answers.md"
     }
   ]
 }
