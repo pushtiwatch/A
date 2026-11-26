@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 77,
+    "total_entries": 78,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4072,6 +4072,55 @@
         "sexual misconduct"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/surrender-and-devotional-service.md"
+    },
+    {
+      "video_id": "EMPcZp0clk8",
+      "youtube_url": "https://www.youtube.com/watch?v=EMPcZp0clk8",
+      "title_gu": "પ્રપંચ ની સેવા",
+      "title_en": "Devotional Service and Worldly Talk",
+      "language": "gu",
+      "published_date": "2025-08-27",
+      "duration_seconds": 1740,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker describes devotees discussing worldly affairs and criticizes what the speaker sees as reluctance to serve the deity. The speaker also refers to worship and religious practices outside that service.",
+      "claims": [
+        "Alleges that devotees gather or use the phone to gossip about worldly affairs.",
+        "Alleges that some devotees engage in other forms of worship or tantric practices.",
+        "Alleges that devotees are unwilling to apply themselves to serving the Lord.",
+        "Alleges that some wake and put the deity to rest early and regard it as a relief."
+      ],
+      "tags": [
+        "Angikar",
+        "Blackmail",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "child_harm_nonsexual",
+        "blackmail_extortion",
+        "sexual_misconduct_other",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.09,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Thakorji / ઠાકોરજી",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "child harm / kidnapping / custody",
+        "blackmail / extortion",
+        "sexual misconduct",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/devotional-service-and-worldly-talk.md"
     }
   ]
 }
