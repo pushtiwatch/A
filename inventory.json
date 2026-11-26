@@ -101,6 +101,26 @@
       "reviewed_at": null
     },
     {
+      "video_id": "hm6CWCSwXzQ",
+      "youtube_url": "https://www.youtube.com/watch?v=hm6CWCSwXzQ",
+      "slug": "poonamji-recounts-alleged-advances-by-a-babashri-on-vraj-yatra",
+      "title_gu": "વ્રજયાત્રા માં પણ વ્યાભિચાર (સત્યતા જાતે ચકાસવી)",
+      "title_en": "Poonamji Recounts Alleged Advances by a Babashri on Vraj Yatra",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "Poonamji",
+      "summary_en": "In this video, the speaker alleges that during a Vraj yatra about 15 years ago Babashri tried to hug her, that she was pressed to accept, and that even London devotees take part.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/poonamji-recounts-alleged-advances-by-a-babashri-on-vraj-yatra.md",
+      "status": "published",
+      "contains_named_private_persons": false,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T06:52:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    {
       "video_id": "uefQMLRAcZs",
       "youtube_url": "https://www.youtube.com/watch?v=uefQMLRAcZs",
       "slug": "vaishnav-alleges-an-elder-aimed-angikar-talk-at-his-wife",
