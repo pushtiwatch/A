@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 62,
+    "total_entries": 63,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3295,6 +3295,57 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/account-of-pressure-to-accept-initiation.md"
+    },
+    {
+      "video_id": "KmGj7-2_GkU",
+      "youtube_url": "https://www.youtube.com/watch?v=KmGj7-2_GkU",
+      "title_gu": "વ્યભિચારીઓ ની પોલ ખોલતા વૈષ્ણવ ક્રાંતિકારી બેન - ઓડિયો ની સત્યતા ની જવાબદારી આશિષ શાહ કે ચેનલ ની નથી",
+      "title_en": "Allegations of Persuasion and Threats",
+      "language": "gu",
+      "published_date": "2025-04-22",
+      "duration_seconds": 406,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that people used religious gatherings and promises to try to draw Vaishnavs into sexual misconduct. She also alleges that one person threatened to abduct her after she refused his proposal.",
+      "claims": [
+        "Alleges that religious gatherings were used to try to draw Vaishnavs into sexual misconduct.",
+        "Alleges that people gradually shifted their conversations toward trapping her.",
+        "Alleges that a man proposed marriage and promised an excellent son through rituals.",
+        "Alleges that she refused the proposal by phone.",
+        "Alleges that the man threatened to abduct her."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Coercion / trapping",
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "sexual_misconduct_other",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.12,
+      "keywords": [
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "satsang / સત્સંગ",
+        "FIR / एफआईआर",
+        "Junagadh / જૂનાગઢ",
+        "Sion",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "blackmail / extortion",
+        "grooming",
+        "family grooming / community pressure",
+        "sexual misconduct",
+        "angikar / અંગીકાર / अंगीकार"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-persuasion-and-threats.md"
     }
   ]
 }
