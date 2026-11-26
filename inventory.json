@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 84,
+    "total_entries": 85,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4440,6 +4440,57 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/challenge-over-alleged-sexual-misconduct.md"
+    },
+    {
+      "video_id": "CYZ5_0i-5ig",
+      "youtube_url": "https://www.youtube.com/watch?v=CYZ5_0i-5ig",
+      "title_gu": "અન્ય ભજન ના બહાના (રાંદેર તેડવા, સત્યનારાયણ ની પૂજા, કુળદેવી, કુળદેવતા પૂજા)",
+      "title_en": "Religious Practices and Angikar",
+      "language": "hi",
+      "published_date": "2023-12-09",
+      "duration_seconds": 1955,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker discusses Vaishnav religious practice and alleges that some religious figures perform rituals for money. The speaker also alleges a sexual motive behind some instances of Angikar.",
+      "claims": [
+        "Alleges that some religious figures perform chants and rituals in exchange for money.",
+        "Alleges that religious figures may distinguish between people based on caste.",
+        "Alleges that some fear losing their livelihood if they refuse requests.",
+        "Alleges that some instances of Angikar are motivated by a desire for sex."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Rape",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "gang_rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.45,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "Vaishnav / વૈષ્ણવ",
+        "gang rape / સામૂહિક બળાત્કાર",
+        "child sexual abuse / minor abuse",
+        "child harm / kidnapping / custody",
+        "kotadi satsang / group sex ritual",
+        "grooming",
+        "family grooming / community pressure",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/religious-practices-and-angikar.md"
     }
   ]
 }
