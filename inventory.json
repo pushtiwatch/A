@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 89,
+    "total_entries": 90,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4693,6 +4693,48 @@
         "blackmail / extortion"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-conduct-and-exploitation.md"
+    },
+    {
+      "video_id": "pAo1ZqxS6oo",
+      "youtube_url": "https://www.youtube.com/watch?v=pAo1ZqxS6oo",
+      "title_gu": "ચરણ ભેટ",
+      "title_en": "Offerings to Religious Leaders",
+      "language": "gu",
+      "published_date": "2025-08-01",
+      "duration_seconds": 1253,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker criticizes what he describes as hypocrisy surrounding traditional dress and offerings. He alleges exploitation and warns against sending children to Goswami religious leaders.",
+      "claims": [
+        "Alleges that someone changes into traditional dress to create a misleading impression.",
+        "Alleges that a Goswami religious leader engages in sexual misconduct.",
+        "Alleges that money is collected and people’s goodwill is exploited.",
+        "Alleges that children are sent to Goswami religious leaders after being taught the Yamunashtak."
+      ],
+      "tags": [
+        "Angikar",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Goswami / Bawa"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.1,
+      "keywords": [
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "child sexual abuse / minor abuse",
+        "angikar / અંગીકાર / अंगीकार",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/offerings-to-religious-leaders.md"
     }
   ]
 }
