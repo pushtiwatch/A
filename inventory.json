@@ -37,23 +37,14 @@
         "Victim silencing",
         "First-hand"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": true,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": true,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "sexual_misconduct_other",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.1,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -96,23 +87,10 @@
         "First-hand",
         "Recorded call"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": false,
-        "family_community_grooming": false,
-        "sexual_misconduct_other": false,
-        "angikar": false,
-        "black_magic_superstition": false,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.03,
       "keywords": [
         "Kacheguda",
@@ -164,23 +142,15 @@
         "First-hand",
         "Witness"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": true,
-        "child_sexual_abuse": true,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.24,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -229,23 +199,11 @@
         "First-hand",
         "Witness"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.12,
       "keywords": [
         "haveli",
@@ -291,23 +249,13 @@
         "Haveli",
         "Witness"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "child_sexual_abuse",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.17,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -359,23 +307,15 @@
         "First-hand",
         "Witness"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": true,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": true,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "sexual_misconduct_other",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.15,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -423,23 +363,12 @@
         "First-hand",
         "Hearsay"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "child_sexual_abuse",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.16,
       "keywords": [
         "Vraj yatra / વ્રજયાત્રા",
@@ -486,23 +415,13 @@
         "Victim silencing",
         "Witness"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "group_sexual_ritual",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.15,
       "keywords": [
         "satsang / સત્સંગ",
@@ -548,23 +467,13 @@
         "Vraj yatra",
         "Recorded call"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": true,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": true,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "blackmail_extortion",
+        "family_community_grooming",
+        "sexual_misconduct_other",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.18,
       "keywords": [
         "angikar / અંગીકાર / अंगીकार",
@@ -612,23 +521,12 @@
         "First-hand",
         "Hearsay"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "child_sexual_abuse",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.14,
       "keywords": [
         "Vraj yatra / વ્રજયાત્રા",
@@ -673,23 +571,11 @@
         "Home",
         "First-hand"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": true,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": false,
-        "sexual_misconduct_other": false,
-        "angikar": false,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "rape",
+        "individual_grooming",
+        "first_hand"
+      ],
       "explosive_score": 0.14,
       "keywords": [
         "angikar pratha / અંગીકાર પ્રથા",
@@ -737,23 +623,17 @@
         "Satsang",
         "Hearsay"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": true,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": true,
-        "blackmail_extortion": true,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": true,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "gang_rape",
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
       "explosive_score": 0.31,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -798,23 +678,13 @@
         "Victim silencing",
         "First-hand"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": true,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": true,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "blackmail_extortion",
+        "family_community_grooming",
+        "sexual_misconduct_other",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.09,
       "keywords": [
         "angikar pratha / અંગીકાર પ્રથા",
@@ -858,24 +728,16 @@
         "Coercion / trapping",
         "Sexual misconduct"
       ],
-      "flags": {
-        "murder_or_death": true,
-        "gang_rape": true,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "child_harm_nonsexual": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": true,
-        "blackmail_extortion": true,
-        "individual_grooming": false,
-        "family_community_grooming": false,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": true,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "murder_or_death",
+        "gang_rape",
+        "child_sexual_abuse",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
       "explosive_score": 0.33,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -918,24 +780,19 @@
         "Sexual misconduct",
         "Victim silencing"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": true,
-        "child_sexual_abuse": true,
-        "child_harm_nonsexual": true,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": true,
-        "blackmail_extortion": true,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "group_sexual_ritual",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.29,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -979,24 +836,13 @@
         "Victim silencing",
         "First-hand"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "child_harm_nonsexual": false,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": false,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "group_sexual_ritual",
+        "individual_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.16,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -1041,24 +887,20 @@
         "Sexual misconduct",
         "Victim silencing"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": true,
-        "child_sexual_abuse": true,
-        "child_harm_nonsexual": true,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": true,
-        "blackmail_extortion": true,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": true,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "group_sexual_ritual",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.43,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -1100,24 +942,14 @@
         "Rape",
         "Victim silencing"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": true,
-        "child_sexual_abuse": false,
-        "child_harm_nonsexual": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "rape",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.25,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -1162,24 +994,16 @@
         "Sexual misconduct",
         "Goswami / Bawa"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "child_harm_nonsexual": true,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": true,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": true,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
       "explosive_score": 0.28,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -1221,24 +1045,15 @@
         "Minor abuse",
         "Sexual misconduct"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": true,
-        "child_sexual_abuse": true,
-        "child_harm_nonsexual": false,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": false,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
       "explosive_score": 0.31,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -1284,24 +1099,17 @@
         "Goswami / Bawa",
         "Victim silencing"
       ],
-      "flags": {
-        "murder_or_death": true,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "child_harm_nonsexual": true,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": true,
-        "individual_grooming": false,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": true,
-        "cover_up": true,
-        "first_hand": true
-      },
+      "flags": [
+        "murder_or_death",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "blackmail_extortion",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
       "explosive_score": 0.33,
       "keywords": [
         "angikar / અંગીકાર / अंगીकार",
@@ -1346,24 +1154,15 @@
         "Sexual misconduct",
         "Goswami / Bawa"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": true,
-        "child_harm_nonsexual": false,
-        "group_sexual_ritual": true,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": true,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
       "explosive_score": 0.28,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
@@ -1405,24 +1204,13 @@
         "Coercion / trapping",
         "First-hand"
       ],
-      "flags": {
-        "murder_or_death": false,
-        "gang_rape": false,
-        "rape": false,
-        "child_sexual_abuse": false,
-        "child_harm_nonsexual": false,
-        "group_sexual_ritual": false,
-        "drugging_intoxication": false,
-        "sexual_health_risk": false,
-        "blackmail_extortion": false,
-        "individual_grooming": true,
-        "family_community_grooming": true,
-        "sexual_misconduct_other": false,
-        "angikar": true,
-        "black_magic_superstition": true,
-        "cover_up": false,
-        "first_hand": true
-      },
+      "flags": [
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
       "explosive_score": 0.15,
       "keywords": [
         "angikar / અંગીકાર / अंगीकार",
