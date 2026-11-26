@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 73,
+    "total_entries": 74,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3865,6 +3865,67 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-an-ahmedabad-farmhouse.md"
+    },
+    {
+      "video_id": "Z9z2637L5cc",
+      "youtube_url": "https://www.youtube.com/watch?v=Z9z2637L5cc",
+      "title_gu": "અંગીકાર પ્રથા પર કાનૂની સિકંજો કલમ 84 ભારતીય ન્યાય સંહિતા",
+      "title_en": "Allegations Concerning Satsang and Religious Leaders",
+      "language": "gu",
+      "published_date": "2024-12-23",
+      "duration_seconds": 6731,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges sexual misconduct involving people attending a satsang and a visiting religious figure. The speaker also refers to sending virgin girls to a place called the “doodhghar,” though the captioned account is fragmentary.",
+      "claims": [
+        "Alleges that couples attending a satsang engage in sexual activity with others.",
+        "Alleges that a visiting religious figure stays in devotees’ homes and approaches a woman after her husband leaves for work.",
+        "Alleges that a person was involved in sending virgin girls to the “doodhghar.”.",
+        "Alleges that someone has taken a child into their mouth and should stop."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Satsang",
+        "Victim silencing"
+      ],
+      "flags": [
+        "murder_or_death",
+        "rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "group_sexual_ritual",
+        "drugging_intoxication",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.28,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Vraj yatra / વ્રજયાત્રા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "Surat / सूरत",
+        "Junagadh / જૂનાગઢ",
+        "Shikshapatra",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "murder / death",
+        "rape / બળાત્કાર / बलात्कार"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-satsang-and-religious-leaders.md"
     }
   ]
 }
