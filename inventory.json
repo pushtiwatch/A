@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 83,
+    "total_entries": 84,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4392,6 +4392,54 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-gurus-and-alleged-conduct.md"
+    },
+    {
+      "video_id": "pVpySXh7uw4",
+      "youtube_url": "https://www.youtube.com/watch?v=pVpySXh7uw4",
+      "title_gu": "મારું અસ્ત્ર મારુ મૌન (ભાષા અમર્યાદિત )",
+      "title_en": "Challenge Over Alleged Sexual Misconduct",
+      "language": "gu",
+      "published_date": "2024-03-21",
+      "duration_seconds": 652,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges sexual misconduct involving people associated with the Angikar practice and their followers. The speaker challenges them and says that old audio clips could be played publicly.",
+      "claims": [
+        "Alleges that people involved in the Angikar practice and their followers engage in sexual misconduct.",
+        "Alleges that medical tests could reveal the extent of their alleged misconduct.",
+        "Alleges that audio clips involving some people went viral seven or eight years earlier.",
+        "Alleges that the named audio clips could expose those involved if a defamation case reaches court."
+      ],
+      "tags": [
+        "Angikar",
+        "Blackmail",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "blackmail_extortion",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.25,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Vallabhkul",
+        "Junagadh / જુનાગઢ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual",
+        "blackmail / extortion",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/challenge-over-alleged-sexual-misconduct.md"
     }
   ]
 }
