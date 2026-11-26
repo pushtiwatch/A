@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 16,
+    "total_entries": 17,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -1012,6 +1012,69 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/zoom-discussion-concerning-the-angikar-practice.md"
+    },
+    {
+      "video_id": "Qgit8_681to",
+      "youtube_url": "https://www.youtube.com/watch?v=Qgit8_681to",
+      "title_gu": "અંગીકાર પ્રથા (બેનો આ વીડિયો થી દુર રહે..ભાષા અમર્યાદિત છે...)",
+      "title_en": "Allegations Concerning the Angikar Practice",
+      "language": "hi",
+      "published_date": "2023-11-28",
+      "duration_seconds": 2040,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that the Angikar practice is being misused to manipulate Vaishnav families into exposing their daughters and daughters-in-law to sexual exploitation. The speaker urges the Vaishnav community to recognize and stop the alleged abuse.",
+      "claims": [
+        "Alleges that families are manipulated into sending their daughters for Angikar.",
+        "Alleges that angikar is used as a pretext for sexual gratification.",
+        "Alleges that newly married women are exposed to sexual exploitation.",
+        "Alleges that religious status is used to facilitate sexual abuse."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": {
+        "murder_or_death": false,
+        "gang_rape": false,
+        "rape": true,
+        "child_sexual_abuse": true,
+        "child_harm_nonsexual": true,
+        "group_sexual_ritual": true,
+        "drugging_intoxication": false,
+        "sexual_health_risk": true,
+        "blackmail_extortion": true,
+        "individual_grooming": true,
+        "family_community_grooming": true,
+        "sexual_misconduct_other": false,
+        "angikar": true,
+        "black_magic_superstition": true,
+        "cover_up": true,
+        "first_hand": true
+      },
+      "explosive_score": 0.43,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "Vaishnav / વૈષ્ણવ",
+        "gopi",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "child harm / kidnapping / custody",
+        "kotadi satsang / group sex ritual",
+        "HIV / STD / pregnancy / abortion",
+        "blackmail / extortion",
+        "grooming",
+        "family grooming / community pressure",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-the-angikar-practice.md"
     }
   ]
 }
