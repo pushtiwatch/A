@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 44,
+    "total_entries": 45,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -2331,6 +2331,58 @@
         "grooming"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-misconduct-in-religious-gatherings.md"
+    },
+    {
+      "video_id": "P-5ligYOuRU",
+      "youtube_url": "https://www.youtube.com/watch?v=P-5ligYOuRU",
+      "title_gu": "हद कर दी आपने",
+      "title_en": "Allegations Concerning Religious Gatherings and Sexual Conduct",
+      "language": "gu",
+      "published_date": "2024-02-06",
+      "duration_seconds": 2130,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that religious teachings are misused to encourage sexual conduct between family members and describes alleged sexual conduct at gatherings. The speaker also alleges that a person made a girl pregnant.",
+      "claims": [
+        "Alleges that religious texts are misused to encourage sexual relationships between family members.",
+        "Alleges that a gathering brings women together to kiss and touch each other sexually.",
+        "Alleges that a person made a girl from Rajkot pregnant and believed it was acceptable.",
+        "Alleges that instructions are given to engage in sexual conduct with parents and siblings."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "group_sexual_ritual",
+        "drugging_intoxication",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.19,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "Ahmedabad",
+        "gopi",
+        "kotadi satsang / group sex ritual",
+        "drugging / intoxication",
+        "HIV / STD / pregnancy / abortion",
+        "blackmail / extortion",
+        "family grooming / community pressure"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-religious-gatherings-and-sexual-conduct.md"
     }
   ]
 }
