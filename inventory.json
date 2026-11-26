@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 59,
+    "total_entries": 60,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3135,6 +3135,57 @@
         "grooming"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/response-to-a-viral-message.md"
+    },
+    {
+      "video_id": "YC8_UFf0iu0",
+      "youtube_url": "https://www.youtube.com/watch?v=YC8_UFf0iu0",
+      "title_gu": "અંગીકાર કુપ્રથા સ્વીકાર્ય ?? વૈષ્ણવ સમાજ સ્પષ્ટ કરે ?",
+      "title_en": "Allegations Concerning Conduct and Threats",
+      "language": "gu",
+      "published_date": "2025-08-22",
+      "duration_seconds": 3357,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges misconduct involving a ninth-grade girl and describes an incident involving a man’s ritual hair tuft. The speaker also alleges that Goswami religious figures issue death threats.",
+      "claims": [
+        "Alleges that a Goswami looked at a ninth-grade girl inappropriately.",
+        "Alleges that the girl fled and later experienced severe psychological distress.",
+        "Alleges that a daughter-in-law cut off a man’s ritual hair tuft after finding him with another woman.",
+        "Alleges that goswami religious figures make death threats."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Goswami / Bawa"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "blackmail_extortion",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.24,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "FIR / एफआईआर",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "charan sparsh / ચરણ સ્પર્શ",
+        "child sexual abuse / minor abuse",
+        "child harm / kidnapping / custody",
+        "blackmail / extortion",
+        "family grooming / community pressure"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-conduct-and-threats.md"
     }
   ]
 }
