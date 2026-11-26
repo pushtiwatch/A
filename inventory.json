@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 120,
+    "total_entries": 121,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -6186,6 +6186,53 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-initiation-and-conduct.md"
+    },
+    {
+      "video_id": "RQpbnBJm4Gg",
+      "youtube_url": "https://www.youtube.com/watch?v=RQpbnBJm4Gg",
+      "title_gu": "કૃષ્ણ ની નિષ્કામ ભક્તિ માં સમલૈગીકતા નો પ્રચાર કેમ ? જાતીય સંબધો થી સમલૈગીકતા-અંગીકાર ના નવા આયામ",
+      "title_en": "Allegations About Conduct Within a Religious Community",
+      "language": "gu",
+      "published_date": "2026-04-10",
+      "duration_seconds": 1163,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that religious leaders exploit young people and describes alleged sexual propositions and interactions. He also claims that such encounters made some young men gay.",
+      "claims": [
+        "Alleges that a religious leader takes young women who come alone.",
+        "Alleges that a young man was offered religious adornments in exchange for sexual conduct.",
+        "Alleges that a young man slept with a religious leader to obtain adornments.",
+        "Alleges that young men discuss sexual encounters with a religious leader."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Rape",
+        "Minor abuse",
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.21,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual",
+        "grooming",
+        "family grooming / community pressure"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-within-a-religious-community.md"
     }
   ]
 }
