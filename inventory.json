@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 115,
+    "total_entries": 116,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -5962,6 +5962,55 @@
         "family grooming / community pressure"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-sexual-conduct.md"
+    },
+    {
+      "video_id": "YeCKtpP1nT0",
+      "youtube_url": "https://www.youtube.com/watch?v=YeCKtpP1nT0",
+      "title_gu": "શૃંગાર ના શોખીન યુવા વર્ગ ચેતો",
+      "title_en": "Allegation of Sexual Exploitation of Boys",
+      "language": "gu",
+      "published_date": "2026-04-08",
+      "duration_seconds": 695,
+      "location": [
+        "Vadodara"
+      ],
+      "summary_en": "The speaker alleges that a man in Vadodara offered religious adornments and other items to boys in exchange for sex, and that many boys were caught in his trap. The speaker also alleges that a Goswami religious figure is involved and urges parents to understand the issue.",
+      "claims": [
+        "Alleges that a man offered boys religious adornments and other items in exchange for sex.",
+        "Alleges that many boys were caught in the man’s trap.",
+        "Alleges that the case concerns Vadodara.",
+        "Alleges that a Goswami religious figure is involved."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Goswami / Bawa"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.25,
+      "keywords": [
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Thakurji",
+        "Vadodara",
+        "child sexual abuse / minor abuse",
+        "blackmail / extortion",
+        "grooming",
+        "family grooming / community pressure",
+        "angikar / અંગીકાર / अंगीकार"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegation-of-sexual-exploitation-of-boys.md"
     }
   ]
 }
