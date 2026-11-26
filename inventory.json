@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 30,
+    "total_entries": 31,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -1594,6 +1594,60 @@
         "family grooming / community pressure"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-child-exploitation-in-pushtimarg.md"
+    },
+    {
+      "video_id": "7jBWeAj2VkI",
+      "youtube_url": "https://www.youtube.com/watch?v=7jBWeAj2VkI",
+      "title_gu": "સુરત નું અંગીકાર વિરુદ્ધ અભિયાન ..એક કડવો અનુભવ",
+      "title_en": "Surat Campaign Against Angikar: A Bitter Experience",
+      "language": "gu",
+      "published_date": "2025-07-26",
+      "duration_seconds": 2250,
+      "location": [
+        "Surat"
+      ],
+      "summary_en": "The speaker alleges that some families take teenage girls or newlyweds to religious leaders for ritual purposes. The speaker also describes a claim that sexual activity would bring spiritual salvation.",
+      "claims": [
+        "Alleges that some families take a 16-year-old girl to a religious leader when she first menstruates.",
+        "Alleges that a mother-in-law tells her son to refrain from touching his bride until she undergoes a ritual of complete surrender.",
+        "Alleges that sexual activity is presented as a way to bring spiritual salvation."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Goswami / Bawa",
+        "Victim silencing"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "drugging_intoxication",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.26,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Bawa / બાવા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Mahaprabhuji",
+        "FIR / एफआईआर",
+        "Surat / सूरत",
+        "Junagadh / જૂનાગઢ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "child sexual abuse / minor abuse",
+        "drugging / intoxication"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/surat-campaign-against-angikar-a-bitter-experience.md"
     }
   ]
 }
