@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 85,
+    "total_entries": 86,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4491,6 +4491,52 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/religious-practices-and-angikar.md"
+    },
+    {
+      "video_id": "DxbfC-Z7SMM",
+      "youtube_url": "https://www.youtube.com/watch?v=DxbfC-Z7SMM",
+      "title_gu": "ધર્મ શીખવા જાવ છો કે ધંધો....ધ્યાન થી સમજો",
+      "title_en": "Children and Religious Instruction",
+      "language": "gu",
+      "published_date": "2026-05-12",
+      "duration_seconds": 4005,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that sending a child to certain religious teachers could weaken the child’s devotion and expose the child to physical abuse. The speaker also discusses allowing children to play with a household deity and questions a devotional practice.",
+      "claims": [
+        "Alleges that sending a child to certain religious teachers could deprive the child of devotion.",
+        "Alleges that a child sent to such a teacher could be physically abused.",
+        "Alleges that some people keep children away from religious practice to prevent them from touching the household deity.",
+        "Alleges that a devotional practice involving repeated chanting of Radha’s name sidelines Krishna."
+      ],
+      "tags": [
+        "Angikar",
+        "Blackmail",
+        "Rape",
+        "Minor abuse"
+      ],
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "blackmail_extortion",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.25,
+      "keywords": [
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Thakurji",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "child harm / kidnapping / custody",
+        "blackmail / extortion",
+        "angikar / અંગીકાર / अंगीकार"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/children-and-religious-instruction.md"
     }
   ]
 }
