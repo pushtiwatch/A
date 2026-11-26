@@ -121,6 +121,26 @@
       "reviewed_at": null
     },
     {
+      "video_id": "eSk6YcBMN7A",
+      "youtube_url": "https://www.youtube.com/watch?v=eSk6YcBMN7A",
+      "slug": "lawyer-confronts-maganbhai-over-alleged-angikar-talk-on-vraj-yatra",
+      "title_gu": "અંગીકાર મેનિયાક મગન ને ટ્રેપ કરી એની સાન ઠેકાણે લાવવા નો પ્રયાસ",
+      "title_en": "Lawyer Confronts Maganbhai Over Alleged Angikar Talk on Vraj Yatra",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "not stated",
+      "summary_en": "In this video, the speaker confronts Maganbhai by phone, alleges that he asked three sisters about angikar on a Vraj yatra, and presses him to admit he wanted sexual pleasure.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/lawyer-confronts-maganbhai-over-alleged-angikar-talk-on-vraj-yatra.md",
+      "status": "published",
+      "contains_named_private_persons": true,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T07:07:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    {
       "video_id": "hm6CWCSwXzQ",
       "youtube_url": "https://www.youtube.com/watch?v=hm6CWCSwXzQ",
       "slug": "poonamji-recounts-alleged-advances-by-a-babashri-on-vraj-yatra",
