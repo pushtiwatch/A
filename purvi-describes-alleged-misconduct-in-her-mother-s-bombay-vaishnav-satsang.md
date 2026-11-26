@@ -203,12 +203,14 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [03:14](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=194s) you have committed a huge aparadh, "You  
 તમે તો બહુ ઓલા અપરાધ કરી લીધો ભાઈ તે તો  
+Tags: Victim silencing
 
 [03:18](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=198s) married into a Maharashtrian family, you must have  
 મહારાષ્ટ્રનમાં લગન કર્યું પણ તારી પર તો  
 
 [03:22](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=202s) committed a big aparadh, that's why you ended up  
 કે ને ક્યારે બહુ અપરાધ હશે એટલે આ ઘરમાં  
+Tags: Victim silencing
 
 [03:25](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=205s) in that house." Accepted, maybe I did, but  
 તું ગઈ હશે એક્સેપ્ટેડ હશે ગઈ પણ હશો બટ  
@@ -272,15 +274,18 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [04:34](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=274s) hugging each other like this, saying 'we are gopis'  
 કરો છો એકબીજા સાથે આમ ભેટીને ગોપી છે  
+Tags: Sexual misconduct
 
 [04:39](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=279s) so you hug, kiss each other, eat each other's  
 એટલે ભેટો એકબીજાને પપ્પીઓ કરો એકબીજાનું  
+Tags: Sexual misconduct
 
 [04:42](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=282s) juthan, and the height of it was that one day  
 જૂઠન ખાવો અને હાઈટ તો એટલી કે એક દિવસ  
 
 [04:47](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=287s) I saw my mom herself, with each other,  
 મેં મારી મમ્મીને પોતે જ એકબીજા સાથે  
+Tags: Sexual misconduct
 
 [04:52](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=292s) lips-to-lips—it was some ice cream or something,  
 લિપ્સ ટુ લિપ્સ કંઈક આઈસ્ક્રીમ હતું કઈ  
@@ -332,9 +337,11 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [05:40](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=340s) incur aparadh." I said, "I don't mind,  
 અપરાધ લાગશે મેં કીધું મને વાંધો ની  
+Tags: Victim silencing
 
 [05:42](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=342s) I've been walking around with aparadh since childhood anyway, let it  
 નાનપણથી જ આમે અપરાધ લઈને જ ચાલું છું ભલે  
+Tags: Victim silencing
 
 [05:45](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=345s) happen." Then again one day, I mean, when I came from my  
 લાગતું પછી ફરીથી હું એક દિવસ મતલબ મારા  
@@ -353,6 +360,7 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [06:02](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=362s) that again these people are hugging each other, and  
 છું તો ફરીથી આ લોકો એકબીજાને ભેટે અને  
+Tags: Sexual misconduct
 
 [06:04](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=364s) I said, "Today I definitely want to know  
 મેં કીધું આજે તો ભાઈ મારે આ જાણવું જ છે  
@@ -362,6 +370,7 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [06:11](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=371s) or why are they hugging?" So I  
 ભેટે છે કે શું કરવા ભેટે છે તો મેં  
+Tags: Sexual misconduct
 
 [06:14](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=374s) sat and watched everything. I told my mom  
 બેસીને બધું જોયું મે મારી મમ્મીને કીધું  
@@ -383,6 +392,7 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [06:34](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=394s) "I was offering milk to Thakorji, and I felt  
 મેં તો ઠાકોરજીને દૂધ ધરાવતી હતી મને એવું  
+Tags: Sexual misconduct
 
 [06:37](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=397s) that my breast became completely heavy,  
 લાગ્યું ઠાકોરજી મારું આમ સ્તન એકદમ હેવી  
@@ -428,6 +438,7 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [07:27](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=447s) matter, whatever is going on with angikar, that  
 વાત છે જે અંગીકારનું જે ચાલી રહ્યું છે એ  
+Tags: Angikar
 
 [07:30](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=450s) is very far. These leelas that are currently going on among  
 તો બહુ દૂર છે આલુકા જે અત્યારે વૈષ્ણવ  
@@ -443,6 +454,7 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [07:42](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=462s) Vaishnavs do angikar with each other. That is the  
 વૈષ્ણવ એકબીજાને અંગીકાર કરે છે. એવી આજની  
+Tags: Angikar
 
 [07:46](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=466s) situation as of today, and it is true, I have  
 તારીખમાં સિચ્યુએશન છે અને છે જ એ મેં  
@@ -551,6 +563,7 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [09:39](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=579s) Thakorji... Thakorji was doing  
 ઠાકોરજી જેતો અવાજ હતો ને એ ઠાકોરજી મારી  
+Tags: Sexual misconduct
 
 [09:42](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=582s) leela with me, that was the sound of it." Now  
 સાથે લીલા કરતા હતા એ એનો અવાજ હતો હવે  
@@ -671,6 +684,7 @@ In this video, the speaker alleges that women in her mother's Vaishnav satsang c
 
 [12:06](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=726s) kiss each other, touch each other's  
 હેવ કરવું એકબીજાને પપ્પીઓ કરવી એકબીજાના  
+Tags: Sexual misconduct
 
 [12:10](https://www.youtube.com/watch?v=Q_FjhHfPSQw&t=730s) secret places, body parts—  
 સિક્રેટ પ્લેસીસ બોડીના પાર્ટસને તમારે ટચ  

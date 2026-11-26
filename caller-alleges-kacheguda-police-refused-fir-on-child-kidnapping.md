@@ -37,6 +37,7 @@ In this video, the speaker alleges that a Kacheguda police officer would not fil
 
 [00:24](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=24s) in that, the illegal detention of my daughter  
 है वो उसमें मेरी बच्ची का इललीगल डिटेंशन  
+Tags: Minor abuse
 
 [00:28](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=28s) that he did in the office, there is a complaint about it,  
 किया था उसने ऑफिस में उसका कंप्लेंट है  
@@ -76,6 +77,7 @@ In this video, the speaker alleges that a Kacheguda police officer would not fil
 
 [00:57](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=57s) In this, allegations of kidnapping are involved.  
 है। इसमें एलगेशन किडनैपिंग इनवॉल्वड है।  
+Tags: Minor abuse
 
 [00:59](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=59s) Hawala, money laundering, threatening, and dowry  
 हवाला मनी लॉन्ड्रिंग धमकी देना और दरी  
@@ -166,12 +168,15 @@ In this video, the speaker alleges that a Kacheguda police officer would not fil
 
 [02:04](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=124s) delete it online. These things you are posting  
 ऑनलाइन में डिलीट कर लो। ये जो पोस्ट कर  
+Tags: Police / FIR refusal, Victim silencing
 
 [02:06](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=126s) on Instagram, Facebook, delete those.  
 रहे हैं ना Instagram, Facebook वो डिलीट  
+Tags: Police / FIR refusal, Victim silencing
 
 [02:08](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=128s) Delete them.  
 कर दो।  
+Tags: Police / FIR refusal, Victim silencing
 
 [02:10](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=130s) On what I posted, I am uploading evidence,  
 मैंने जो पोस्ट किया उसप मैं एविडेंस लोड  
@@ -199,9 +204,11 @@ In this video, the speaker alleges that a Kacheguda police officer would not fil
 
 [02:26](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=146s) this fair? You are not investigating  
 ये जायज है क्या आप मुझे आप तहकीकात  
+Tags: Police / FIR refusal
 
 [02:28](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=148s) kidnapping, you are not investigating money  
 किडनैपिंग का नहीं कर रहे आप तहकीकात मनी  
+Tags: Minor abuse, Police / FIR refusal
 
 [02:30](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=150s) laundering, hawala transactions, this dowry  
 लॉन्ड्रिंग हवाला ट्रांजैक्शन आप ये डोरी  
@@ -256,6 +263,7 @@ In this video, the speaker alleges that a Kacheguda police officer would not fil
 
 [03:04](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=184s) If your FIR is filed, then your evidence that  
 आप आपका एफआर हुआ तो आपका एविडेंस जो है  
+Tags: Police / FIR refusal, Victim silencing
 
 [03:07](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=187s) you are publishing online, then your  
 आप ऑनलाइन में पब्लिश कर रहे तो आपका  
@@ -289,6 +297,7 @@ WhatsApp मैसेज भेजा ठीक है वो WhatsApp
 
 [03:29](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=209s) Sir, the matter is serious here, sir, it's about the child's  
 सर मैटर सीरियस है यहां पे सर बच्ची के  
+Tags: Minor abuse
 
 [03:31](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=211s) safety, sir.  
 सेफ्टी का मैटर है सर  
@@ -298,6 +307,7 @@ WhatsApp मैसेज भेजा ठीक है वो WhatsApp
 
 [03:35](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=215s) what happened to the child was wrong,  
 के साथ जो हुआ गलत हुआ बोल के बोल रहे है  
+Tags: Minor abuse
 
 [03:37](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=217s) right?  
 ना  
@@ -385,12 +395,15 @@ YouTube पे सारी लेडिया यहां आ के बोल
 
 [04:40](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=280s) he had her sent to Abu Dhabi, my daughter.  
 इसको अबू धाबी भिजवा दिया मेरी बच्ची को  
+Tags: Minor abuse
 
 [04:43](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=283s) Sir, kidnapping, it is an international parental child  
 सर किडनैपिंग इंटरनेशनल पैरेंटल चाइल्ड  
+Tags: Minor abuse
 
 [04:45](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=285s) kidnapping case, it is a very severe matter,  
 किडनैपिंग का केस है बहुत सीवियर मैटर है  
+Tags: Minor abuse
 
 [04:47](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=287s) all of it.  
 सारा  
@@ -415,6 +428,7 @@ YouTube पे सारी लेडिया यहां आ के बोल
 
 [05:03](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=303s) "Brother, when it is a matter of a child's safety,  
 होंगे कि भाई जब बच्चे सेफ्टी का मैटर है  
+Tags: Minor abuse
 
 [05:06](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=306s) why did you focus on online posts, online posts?"  
 तो तुमने ऑनलाइन पोस्ट ऑनलाइन पोस्ट पे  
@@ -433,6 +447,7 @@ YouTube पे सारी लेडिया यहां आ के बोल
 
 [05:17](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=317s) lodge the FIR and send it to me.  
 एफआईआर ल्च करके मुझे भेजिए।  
+Tags: Police / FIR refusal
 
 [05:21](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=321s) Your father who is in Surat...  
 आपके फादर जो है ना सूरत में  
@@ -463,12 +478,14 @@ YouTube पे सारी लेडिया यहां आ के बोल
 
 [05:39](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=339s) at all.  
 भी।  
+Tags: Police / FIR refusal
 
 [05:39](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=339s) I am giving you good guidance. Tell your  
 आपको एक अच्छा गाइडेंस दे रहा हूं। आपके  
 
 [05:41](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=341s) father to come here and make a complaint. No sir,  
 फादर को इधर आके कमेंट करो। बोलो। नहीं सर  
+Tags: Police / FIR refusal
 
 [05:44](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=344s) I cannot send him because if they do  
 मैं नहीं भेज सकता क्योंकि मेरे फादर के  
@@ -481,6 +498,7 @@ YouTube पे सारी लेडिया यहां आ के बोल
 
 [05:50](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=350s) Then you don't file a complaint, you don't do anything.  
 तो फिर कंप्लेन नहीं करते कुछ भी नहीं  
+Tags: Police / FIR refusal
 
 [05:52](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=352s) You don't want to take a risk. The work has to  
 करते। रिस्क नहीं लेना चाह रहे हो। काम तो  
@@ -517,9 +535,11 @@ YouTube पे सारी लेडिया यहां आ के बोल
 
 [06:15](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=375s) they will ask, "Brother, what action did the police take?  
 पूछेंगे कि भाई पुलिस ने क्या एक्शन लिया?  
+Tags: Police / FIR refusal
 
 [06:17](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=377s) It is a matter of a child's safety. For six or seven months,  
 बच्ची के सेफ्टी का मामला है। छ सात महीने  
+Tags: Minor abuse
 
 [06:19](https://www.youtube.com/watch?v=1LoWd2IiKE0&t=379s) what action has been taken?" People will ask.  
 से क्या एक्शन लिया गया? पूछेंगे लोग।  

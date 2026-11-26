@@ -32,6 +32,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [00:06](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=6s) campaign against the angikar pratha that is going on,  
 અંગીકાર પ્રથાની જે ઝુંબેસ ચાલી રહી છે  
+Tags: Angikar
 
 [00:11](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=11s) in it, nowadays our sisters are also sharing their past  
 તેમાં આજકાલ આપણે બેનો પણ એના ભૂતકાળના  
@@ -149,6 +150,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [02:35](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=155s) operate at his signal—she gestured to my friend  
 એમના ઈશારાથી ચાલતા હોય તો એને મારી બેન  
+Tags: Angikar, Coercion / trapping
 
 [02:39](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=159s) and called her inside. Then  
 પણ એને ઈશારો કરીને બોલાવે અંદર પછી  
@@ -161,6 +163,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [02:48](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=168s) to accept angikar herself, saying Aapshri wants to bestow  
 પોતે અંગીકાર થવા માટેને આપશ્રી તારી પર  
+Tags: Angikar, Coercion / trapping
 
 [02:51](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=171s) kripa upon you, and your  
 કૃપા કરવા માંગે છે અને તારો  
@@ -176,6 +179,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [03:06](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=186s) made her sit on the bed in that room in the back section.  
 એ રૂમ જે છે પાછળના ભાગમાં તેમાં બેડમાં  
+Tags: Coercion / trapping
 
 [03:09](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=189s) She seated her  
 એને ત્યાં  
@@ -206,6 +210,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [03:34](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=214s) he did angikar with her, Aap bestowed kripa,  
 અંગીકાર એને કરી લીધી આપે કૃપા કરી  
+Tags: Angikar
 
 [03:41](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=221s) in the leela that goes on for attaining leela,  
 લીલા પ્રાપ્તિ માટેની જે લીલા જે ચાલી રહી  
@@ -278,6 +283,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [05:05](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=305s) Aap had sexual intercourse with me, which  
 મારો આપે મારી સાથે સહયોગ કર્યો જે  
+Tags: Sexual misconduct
 
 [05:09](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=309s) hearing, I trembled, I shook, and I  
 સાંભળીને હું ધ્રુજી ગઈ કંપી ગઈ અને મને  
@@ -296,6 +302,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [05:25](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=325s) and such angikar and such sexual intercourse?  
 બાલક અને આવો અંગીકાર અને આવ્યો સહયોગ  
+Tags: Angikar, Sexual misconduct
 
 [05:30](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=330s) And right now on such a festival, on the day of Pavitra  
 આવ્યો અને અત્યારે આવા ઉત્સવ પવિત્ર  
@@ -365,6 +372,7 @@ In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras 
 
 [06:54](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=414s) wake up! Ashishbhai has raised a storm against the angikar  
 જાગૃત બનો આશિષભાઈએ ધૂમ મચાવી છે અંગીકાર  
+Tags: Angikar
 
 [06:57](https://www.youtube.com/watch?v=I7_iuSWtXbg&t=417s) pratha and is fighting this battle today, so you  
 પ્રથાની આજે પોતે લડત લડી રહ્યા છે તો તમે  

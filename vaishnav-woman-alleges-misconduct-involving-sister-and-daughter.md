@@ -31,9 +31,11 @@ In this video, the speaker alleges that a man did not spare sisters, made a vide
 
 [00:07](https://www.youtube.com/watch?v=oCCmymmPIIg&t=7s) He doesn't even spare anyone's sisters.  
 તે કોઈની બહેનોને પણ છોડતો નથી.  
+Tags: Sexual misconduct
 
 [00:12](https://www.youtube.com/watch?v=oCCmymmPIIg&t=12s) He hadn't even touched my sister.  
 તેણે મારી બહેનને સ્પર્શ પણ નહોતો કર્યો.  
+Tags: Sexual misconduct
 
 [00:15](https://www.youtube.com/watch?v=oCCmymmPIIg&t=15s) He left a good home.  
 તેણે એક સારું ઘર છોડી દીધું.  
@@ -79,12 +81,14 @@ In this video, the speaker alleges that a man did not spare sisters, made a vide
 
 [01:04](https://www.youtube.com/watch?v=oCCmymmPIIg&t=64s) He could even video call my daughter.  
 તે મારી દીકરીને પણ વીડિયો કોલ કરી શકતો હતો.  
+Tags: Grooming
 
 [01:09](https://www.youtube.com/watch?v=oCCmymmPIIg&t=69s) Do you tell my daughter that you are in the room?  
 શું તમે મારી દીકરીને કહો છો કે તમે રૂમમાં છો?  
 
 [01:13](https://www.youtube.com/watch?v=oCCmymmPIIg&t=73s) If you are alone, I will talk to you.  
 જો તમે એકલા હોવ તો, હું તમારી સાથે વાત કરીશ.  
+Tags: Grooming
 
 [01:17](https://www.youtube.com/watch?v=oCCmymmPIIg&t=77s) She told you, yes I am alone.  
 તેણીએ તમને કહ્યું હા હું એકલો છું.  
@@ -100,12 +104,14 @@ In this video, the speaker alleges that a man did not spare sisters, made a vide
 
 [01:28](https://www.youtube.com/watch?v=oCCmymmPIIg&t=88s) Your waves of hair and mountain peaks said  
 તારા વાળના મોજા અને પર્વતની ટોચોએ કહ્યું  
+Tags: Sexual misconduct
 
 [01:32](https://www.youtube.com/watch?v=oCCmymmPIIg&t=92s) is coming down  
 નીચે આવી રહ્યું છે  
 
 [01:35](https://www.youtube.com/watch?v=oCCmymmPIIg&t=95s) You can figure out the meaning of mountain peaks.  
 તમે પર્વત શિખરોનો અર્થ શોધી શકો છો.  
+Tags: Sexual misconduct
 
 [01:38](https://www.youtube.com/watch?v=oCCmymmPIIg&t=98s) What  
 શું  

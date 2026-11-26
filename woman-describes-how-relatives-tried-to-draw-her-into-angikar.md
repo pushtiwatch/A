@@ -35,6 +35,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [00:10](https://www.youtube.com/watch?v=NZshN1PsKM8&t=10s) regarding the obscene leela going on among Vaishnav-Vaishnav,  
 વૈષ્ણવ વૈષ્ણવમાં ચાલતી અશ્લીલ લીલા માટે  
+Tags: Sexual misconduct
 
 [00:14](https://www.youtube.com/watch?v=NZshN1PsKM8&t=14s) what I had seen, what I had experienced,  
 મેં જે મેં જોયું હતું જે મેં અનુભવ કરેલો  
@@ -56,6 +57,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [00:33](https://www.youtube.com/watch?v=NZshN1PsKM8&t=33s) about the obscene leelas going on among Vaishnav-Vaishnav,  
 વૈષ્ણવ વૈષ્ણવમાં ચાલતી અશ્લીલ લીલાઓનું  
+Tags: Sexual misconduct
 
 [00:36](https://www.youtube.com/watch?v=NZshN1PsKM8&t=36s) but what happened with me, upon me, what  
 છે પણ જે મારી સાથે મારી ઉપર જે  
@@ -65,6 +67,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [00:44](https://www.youtube.com/watch?v=NZshN1PsKM8&t=44s) how they trap people for angikar,  
 અંગીકાર માટે કેવી રીતે લોકોને ટ્રેપ કરે  
+Tags: Angikar, Coercion / trapping
 
 [00:48](https://www.youtube.com/watch?v=NZshN1PsKM8&t=48s) and how upon me, that thing I  
 છે અને મારી ઉપર કેવી રીતે એ વસ્તુ મેં  
@@ -269,9 +272,11 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [04:28](https://www.youtube.com/watch?v=NZshN1PsKM8&t=268s) trapping they wanted to start on me, the  
 ટ્રેપિંગ એમને ચાલુ કરવું હતું જે  
+Tags: Coercion / trapping
 
 [04:30](https://www.youtube.com/watch?v=NZshN1PsKM8&t=270s) trapping they wanted to lay out, in preparation for that  
 ટ્રેપિંગ બિછાવું હતું એની તૈયારી માટે  
+Tags: Coercion / trapping
 
 [04:33](https://www.youtube.com/watch?v=NZshN1PsKM8&t=273s) they had come. So they asked my mom,  
 આવેલા એ લોકો હતો એટલે મારી મમ્મીને કે  
@@ -365,6 +370,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [06:09](https://www.youtube.com/watch?v=NZshN1PsKM8&t=369s) call came back saying, "I don't know, Thakorji  
 સામેથી ફોન આવ્યો કે ખબર નહી એમને ઠાકોરજી  
+Tags: Grooming
 
 [06:12](https://www.youtube.com/watch?v=NZshN1PsKM8&t=372s) gave him such prerna that 'No problem Manishaben,  
 એવું આમ પ્રેરણા કરી કે વાંધો ની મનીષાબેન  
@@ -422,6 +428,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [07:13](https://www.youtube.com/watch?v=NZshN1PsKM8&t=433s) is such a word of theirs that to trap the other person  
 એમનો એક એવો વર્ડ છે કે સામેવાળાને કેને  
+Tags: Coercion / trapping
 
 [07:16](https://www.youtube.com/watch?v=NZshN1PsKM8&t=436s) in a web, they use it.  
 આમ જાલમાં બસાવવા માટે અને આમ એ યુઝ  
@@ -440,6 +447,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [07:36](https://www.youtube.com/watch?v=NZshN1PsKM8&t=456s) misguided from this marg, but you have to do her uddhar.'"  
 મિસગાઈડ થઈ ગઈ છે પણ તારે આને ઉદ્ધાર  
+Tags: Grooming
 
 [07:40](https://www.youtube.com/watch?v=NZshN1PsKM8&t=460s) That Thakorji came to Manishbhai in a dream like this,  
 કરવાનો છે આવું મનીષભાઈને ઠાકોરજી સપનામાં  
@@ -746,6 +754,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [12:40](https://www.youtube.com/watch?v=NZshN1PsKM8&t=760s) so there is some trapping on me. So, but  
 છે તો કંઈક મારી ઉપર ટ્રેપિંગ છે એટલે પણ  
+Tags: Coercion / trapping
 
 [12:45](https://www.youtube.com/watch?v=NZshN1PsKM8&t=765s) I was also smart, I was going with the flow. So  
 હું પણ સ્માર્ટ કે ફ્લોમાં જતી હતી એટલે  
@@ -776,6 +785,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [13:15](https://www.youtube.com/watch?v=NZshN1PsKM8&t=795s) whole trapping started.  
 બધું આખું એક ટ્રેપિંગ સ્ટાર્ટ થઈ ગયું  
+Tags: Coercion / trapping
 
 [13:18](https://www.youtube.com/watch?v=NZshN1PsKM8&t=798s) So then I told my mom, but my  
 એટલે પછી મેં મારી મમ્મીને કીધું પણ મારી  
@@ -1271,6 +1281,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [22:23](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1343s) distance from him." I said, "Manishbhai, this  
 ડિસ્ટન્સ રાખવો પડશે મેં કીધું મનીષભાઈ આ  
+Tags: Grooming
 
 [22:27](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1347s) is not possible." So he said to me, "Then it will be very  
 પોસિબલ નથી તો મને કે કે તો તમારું બહુ  
@@ -1301,6 +1312,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [22:56](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1376s) you should go to a separate room and gradually  
 તમારે થોડું અલગ રૂમમાં જઈને તમારું ધીરે  
+Tags: Grooming
 
 [22:59](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1379s) sleep separately.  
 ધીરે અલગ સુવાનું  
@@ -1433,6 +1445,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [25:15](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1515s) I go to a separate room and sleep,  
 સૂતી નથી હું અલગ રૂમમાં જઈને સુવું છું  
+Tags: Grooming
 
 [25:17](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1517s) there is nothing physical at all between the two of us."  
 અમારી બંને વચ્ચે કંઈ પણ ફિઝિકલ કઈ જ નથી  
@@ -1541,6 +1554,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [27:08](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1628s) in very obscene language. So I felt very  
 માખણ મિશ્રીનો ભાવ સમજાયો એટલે હું બહુ આમ  
+Tags: Sexual misconduct
 
 [27:13](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1633s) bad too, like suddenly what happened  
 મને ખરાબ પણ લાગ્યું કે અચાનક આ  
@@ -1553,9 +1567,11 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [27:24](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1644s) Then he explained the bhaav of makhan mishri to me in a very  
 અચાનક એમ પછીમા માખણ મિશ્રીનો મને ભાવ બહુ  
+Tags: Grooming, Sexual misconduct
 
 [27:28](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1648s) obscene way, then he explained a very dirty meaning  
 અશ્લીલ તરીકે એમને સમજાયો પછી મને સખડી  
+Tags: Sexual misconduct
 
 [27:33](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1653s) of sakhdi bhog, a very dirty meaning of shringar—  
 ભોગનો બહુ ગંદો મિનિંગ સમજાયો શ્ૃંગારનો  
@@ -1568,6 +1584,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [27:42](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1662s) obscene way. And then  
 અશ્લીલ રીતે બધા ક્રમ બતાવ્યા અને પછી  
+Tags: Sexual misconduct
 
 [27:47](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1667s) after showing them, he says to me, "I don't know why  
 બતાવ્યા પછી મને કે છે કે મને ખબર નહી કે  
@@ -1694,12 +1711,14 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [30:04](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1804s) angikar, that's when I memorized Subodhiniji.'"  
 અંગીકાર કર્યો ને ત્યારે મને સુબોધજીની  
+Tags: Angikar
 
 [30:09](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1809s) I said, "What kind of thing is that,  
 મોડે થઈ ગયું મેં કીધું એવું કેવું  
 
 [30:11](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1811s) he does angikar and you memorize Subodhiniji?"  
 અંગીકાર કરે અને સુબોધિજીની મોડે થઈ જાય  
+Tags: Angikar
 
 [30:14](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1814s) She said to me, "Yes, that is Bava's..."  
 મને કે હા એજ તો છે બાબાનું એમ  
@@ -1721,6 +1740,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [30:40](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1840s) She said, "Bava may have done my angikar once or twice,  
 છો કે મને તો બાવાએ એક બે વાર અંગીકાર કરી  
+Tags: Angikar
 
 [30:43](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1843s) but that Bava, whenever he goes to her house,  
 હશે પણ એ કે એ બાવા તો જ્યારે પણ એમના ઘરે  
@@ -1733,6 +1753,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [30:54](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1854s) that many times he has done Rashmi's angikar,  
 એટલી વાર રશ્મીનો એમને તો અંગીકાર કર્યો  
+Tags: Angikar
 
 [30:56](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1856s) so Rashmi is his favorite." I was  
 છે એટલે કે રશ્મિ તો એમની ફેવરેટ છે. હું  
@@ -1751,12 +1772,14 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [31:13](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1873s) first of all every single time he does Rashmi's angikar first,  
 સૌથી પહેલા દર વખતે રશ્મિને જ પહેલા  
+Tags: Angikar
 
 [31:16](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1876s) Rashmi is his favorite." She said,  
 અંગીકાર કરે રશ્મી તો એમની ફેવરેટ એ કે  
 
 [31:19](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1879s) "Till now Bava has done Rashmi's angikar so many times,  
 અત્યાર સુધી તો બાવાએ કેટલી વાર રશ્મીને  
+Tags: Angikar
 
 [31:22](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1882s) that's why today Rashmi  
 અંગીકાર કર્યો છે એટલે તો કે આજે રશ્મિને  
@@ -1814,9 +1837,11 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [32:16](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1936s) for angikar, saying "We ourselves  
 અંગીકાર માટે કે ભાઈ અમે આટલા અમે પોતે  
+Tags: Angikar
 
 [32:19](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1939s) went and got angikar done," so indirectly she  
 જઈને અંગીકાર થયા છે એટલે ઇનડિરેક્ટલી એ  
+Tags: Angikar
 
 [32:22](https://www.youtube.com/watch?v=NZshN1PsKM8&t=1942s) wanted to tell me that "You also, I mean if you also  
 મને કહેવા માંગતી હતી કે તું પણ મતલબ તારે  
@@ -1874,6 +1899,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [33:26](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2006s) instead of—if someone talks such obscene things to her own daughter,  
 ઇન્સ્ટેડ કે પોતાની છોકરી સાથે કોઈ આવી  
+Tags: Sexual misconduct
 
 [33:29](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2009s) what would a mother do?  
 રીતે આવી અશ્લીલ વાતો કરે તો એ માં તો સુએ  
@@ -1952,6 +1978,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [34:59](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2099s) because as they say, "You stay quiet and I stay quiet."  
 કારણ કે ઓલું કહીએ ને તેરી ભી ચૂપ મેરી ભી  
+Tags: Victim silencing
 
 [35:01](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2101s) I called a Betiji who is from our  
 ચૂપ મેં એક બેટીજીને ફોન કર્યો જે અમારા  
@@ -2135,12 +2162,14 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [38:27](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2307s) So he was that interested in trapping me.  
 દીધું એટલે એ એટલા ઓલા હતા મને ફસાવવા  
+Tags: Coercion / trapping
 
 [38:31](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2311s) So their plan was  
 માટે ઇન્ટરેસ્ટેડ એટલે એમનું કહેવું એવું  
 
 [38:34](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2314s) that first I do angikar with Tusharbhai  
 હતું કે પહેલા હું તુષારભાઈ સાથે અંગીકાર  
+Tags: Angikar
 
 [38:36](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2316s) as Vaishnav-Vaishnav, then Tusharbhai  
 થવું વૈષ્ણવ વૈષ્ણવ તરીકે પછી તુષારભાઈ  
@@ -2159,6 +2188,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [38:48](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2328s) So that was the whole trapping.  
 એટલે એ આખું ટ્રેપિંગ હતું  
+Tags: Coercion / trapping
 
 [38:52](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2332s) Then I also gave it to Manisha Bhabhi properly,  
 પછી તો મેં મનીષા ભાભીને પણ એવા લીધા છે  
@@ -2213,6 +2243,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [39:45](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2385s) mentally, and for angikar with Bava,  
 મેન્ટલી અને બાવા પાસે અંગીકાર માટે એ  
+Tags: Angikar
 
 [39:47](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2387s) it's their whole group."  
 લોકાનું આ આખું ગ્રુપ જ  
@@ -2333,9 +2364,11 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [42:09](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2529s) is that they will blackmail you. Once you  
 છે કે તમને બ્લેકમેલ કરશે એકવાર તમે એમની  
+Tags: Blackmail
 
 [42:12](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2532s) do angikar with them by mistake or under brainwashing,  
 સાથે અંગીકાર ભૂલે ભટકેમાં બ્રેન વોચમાં  
+Tags: Angikar, Grooming
 
 [42:15](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2535s) then they will tell you, "I'll tell your dad,"  
 કરી લીધું પછી તમને કહેશે કે તારા પપ્પાને  
@@ -2354,30 +2387,37 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [42:32](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2552s) do angikar even with Vaishnav-Vaishnav,  
 વૈષ્ણવ વૈષ્ણવ સાથે પણ અંગીકાર કર્યો ને  
+Tags: Angikar
 
 [42:35](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2555s) you will definitely fall into such a trap  
 તો ડેફિનેટલી તમે એક એવા ટ્રેપમાં પડી જશો  
+Tags: Coercion / trapping
 
 [42:40](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2560s) that first you will do angikar with Vaishnav-Vaishnav,  
 કે પહેલા વૈષ્ણવ વૈષ્ણવ સાથે અંગીકાર કરશો  
+Tags: Angikar
 
 [42:43](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2563s) then its blackmailing will start, then on that same  
 એટલે એનું બ્લેકમેલિંગ સ્ટાર્ટ થશે પછી એ  
+Tags: Blackmail
 
 [42:46](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2566s) blackmailing and that same video they will tell you,  
 જ બ્લેકમેલિંગને એજ જ વિડીયો પર તમને  
+Tags: Blackmail
 
 [42:48](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2568s) "Now go to Bavashri, if you don't go  
 કહેશે હવે બાવાશ્રી પાસે જાઓ નહીં જાવ તો  
 
 [42:51](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2571s) I will show your angikar with me to your husband,  
 મારી સાથેનો અંગીકાર તમને હું તમારા પતિ  
+Tags: Angikar
 
 [42:54](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2574s) your dad." So in this cycle and this  
 તમારા પપ્પા એને બતાવીશ એટલે આ સાયકલ ને આ  
 
 [42:58](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2578s) vicious circle you will get trapped such that you will never  
 ચક્રમાં તમે એવા ફસી જશો કે તમે ક્યારે  
+Tags: Coercion / trapping
 
 [43:01](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2581s) be able to come out. And then the same will happen, then  
 બહાર નહી આવી શકો અને પછી એ જ થશે પછી  
@@ -2390,6 +2430,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 
 [43:12](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2592s) blackmail you that if you don't bring someone else,  
 બ્લેકમેલ કરશે કે બીજાને નહી લાવો તો  
+Tags: Blackmail
 
 [43:14](https://www.youtube.com/watch?v=NZshN1PsKM8&t=2594s) yours will come out. So all this is a very dirty cycle.  
 તમારું બહાર એટલે આ બધું બહુ ગંધો ચક્ર છે  

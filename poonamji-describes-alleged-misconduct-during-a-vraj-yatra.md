@@ -89,6 +89,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [01:01](https://www.youtube.com/watch?v=PbSBVgR00y4&t=61s) made gestures to hug me and such. I said, "I  
 ભેટવાની ને એવી ચેષ્ટા કરી મેં કીધું મને  
+Tags: Sexual misconduct
 
 [01:03](https://www.youtube.com/watch?v=PbSBVgR00y4&t=63s) am not interested in that, mind you, but I will do your charan  
 એમાં તો રસ નથી જોજે પણ હું આપના ચરણ  
@@ -113,12 +114,14 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [01:24](https://www.youtube.com/watch?v=PbSBVgR00y4&t=84s) Mukhiyaji and all those who were there, they all  
 મુખિયાજીને એ બધા હતા ને એ બધા મને  
+Tags: Community pressure
 
 [01:26](https://www.youtube.com/watch?v=PbSBVgR00y4&t=86s) came to me one by one and started saying that  
 વારાફરતી વારાફરતી આવીને કહેવા માંડ્યા કે  
 
 [01:28](https://www.youtube.com/watch?v=PbSBVgR00y4&t=88s) "You are making a big mistake, Bawashri himself  
 તમે બહુ ભૂલ કરો છો તમને એમ સામેથી  
+Tags: Community pressure
 
 [01:30](https://www.youtube.com/watch?v=PbSBVgR00y4&t=90s) told you from his own side, and this and that." Then I  
 બાવાશ્રીએ કીધું છે ને આમને તેમને પછી મેં  
@@ -137,6 +140,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [01:42](https://www.youtube.com/watch?v=PbSBVgR00y4&t=102s) And Mukhiyaji was arguing intensely with me  
 અને હું મુખિયાજી મારી હારે એકદમ ચર્ચા  
+Tags: Community pressure
 
 [01:44](https://www.youtube.com/watch?v=PbSBVgR00y4&t=104s) asking, "Why did you say no?" I said,  
 કરતો હતો ને કે તમે શું કામ ના પાડી મેં  
@@ -158,6 +162,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [02:01](https://www.youtube.com/watch?v=PbSBVgR00y4&t=121s) Then all the sakhis used to go to bathe him, those who  
 તો બધી સખીઓ એને નવડાવાને જતી હતી જેની  
+Tags: Sexual misconduct
 
 [02:04](https://www.youtube.com/watch?v=PbSBVgR00y4&t=124s) lived nearby, they would all say, "Come on,  
 આજુબાજુમાં રહેતા હતા ને એ બધા એમ કે હાલો  
@@ -176,6 +181,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [02:17](https://www.youtube.com/watch?v=PbSBVgR00y4&t=137s) he doesn't bathe himself," she said. So all this was going on  
 નથી નાતા ઈ કે એટલે આવું બધું ચાલતું હતું  
+Tags: Sexual misconduct
 
 [02:20](https://www.youtube.com/watch?v=PbSBVgR00y4&t=140s) there too. And when I was having  
 ત્યાં પણ અને હું જ્યારે મુખિયાજી સાથે  
@@ -194,6 +200,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [02:33](https://www.youtube.com/watch?v=PbSBVgR00y4&t=153s) my name, let him take my turn quickly."  
 કયો ને મારું નામ જલ્દી મારો વારો લઈ લે  
+Tags: Coercion / trapping
 
 [02:36](https://www.youtube.com/watch?v=PbSBVgR00y4&t=156s) Like that, she said, "I am in a big hurry to leave, I  
 એમ એ કે મને મને બહુ જાવાની ઉતાવળ છે હું  
@@ -209,6 +216,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [02:47](https://www.youtube.com/watch?v=PbSBVgR00y4&t=167s) himself and you aren't going to take the laabh, look at all these people  
 બોલાવે તો તમે લાભ નથી લેવા જતા આ બધા જો  
+Tags: Coercion / trapping
 
 [02:49](https://www.youtube.com/watch?v=PbSBVgR00y4&t=169s) how much they plead, after how many years," he said,  
 કેટલી વિનંતી કરે કેટલા વર્ષે ઈ કે એ  
@@ -218,6 +226,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [02:54](https://www.youtube.com/watch?v=PbSBVgR00y4&t=174s) And that London woman herself held my hand  
 કરતા હતા અને એ લંડન વાળા બેન જ મને હાથ  
+Tags: Coercion / trapping, Community pressure
 
 [02:57](https://www.youtube.com/watch?v=PbSBVgR00y4&t=177s) and took me there. And that London woman's  
 પકડીને લઈ ગયા હતા ત્યાં અને લંડન વાળાની  
@@ -227,6 +236,7 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [03:02](https://www.youtube.com/watch?v=PbSBVgR00y4&t=182s) son—she had an affair. So this London  
 દીકરા સાથે એને અફેર હતું તો આ લંડન  
+Tags: Sexual misconduct
 
 [03:05](https://www.youtube.com/watch?v=PbSBVgR00y4&t=185s) woman thought that he would marry her  
 વાલીને એમ જ હતું કે આ જાણે મારી સાથે લગન  
@@ -332,12 +342,14 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [04:38](https://www.youtube.com/watch?v=PbSBVgR00y4&t=278s) brings his own daughter, her biological father,  
 એની દીકરીને લઈને આવે છે સગ્ગો બાપ હોય ને  
+Tags: Sexual misconduct
 
 [04:41](https://www.youtube.com/watch?v=PbSBVgR00y4&t=281s) brings his daughter to Babashri and  
 એની દીકરીને લઈને આવે બાબાશ્રી પાસે અને  
 
 [04:44](https://www.youtube.com/watch?v=PbSBVgR00y4&t=284s) leaves her for the whole night." So I have heard all this,  
 રાત આખી મૂકી જાય છે એટલે આવું બધું  
+Tags: Sexual misconduct
 
 [04:47](https://www.youtube.com/watch?v=PbSBVgR00y4&t=287s) but I mean, what I want to say is that  
 સાંભળ્યું છે પણ મથલ મારો કહેવાનો મતલબ કે  
@@ -362,12 +374,14 @@ In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Baw
 
 [05:06](https://www.youtube.com/watch?v=PbSBVgR00y4&t=306s) said, "If you have your own daughter-in-law or daughter, send them  
 કીધું તમે તમારી વહુ દીકરી હોય તો મોકલો  
+Tags: Community pressure
 
 [05:08](https://www.youtube.com/watch?v=PbSBVgR00y4&t=308s) like this to Bawashri." So all of them told me yes,  
 આવી રીતે બાવાસરા તો એ લોકોએ બધાએ મને હા  
 
 [05:12](https://www.youtube.com/watch?v=PbSBVgR00y4&t=312s) they said, "Yes, we do send our daughters-in-law and daughters."  
 પાડી કે હા અમે તો અમારી વહુ દીકરીઓને  
+Tags: Community pressure
 
 [05:14](https://www.youtube.com/watch?v=PbSBVgR00y4&t=314s) That's what they said.  
 મોકલીએ જ છીએ એવી રીતે કીધેલું  

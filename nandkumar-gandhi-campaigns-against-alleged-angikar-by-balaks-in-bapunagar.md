@@ -320,9 +320,11 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [05:29](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=329s) Yogesh was having an affair, Bhagvat, with another girl  
 હારે યોગેશ ચાલુ હતો ભગવત એકબીજા છોકરી  
+Tags: Sexual misconduct
 
 [05:33](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=333s) Yogesh was having an affair, girl meaning suppose  
 જોડે યોગેશ ચાલુ હતમ છોકરીને એટલે માનોને  
+Tags: Sexual misconduct
 
 [05:36](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=336s) she must be younger than Talna, oh, shapely and dark-skinned  
 કે તાલનાથી નાની હશે અછા નમણી અને કાળી  
@@ -332,6 +334,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [05:44](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=344s) is having an affair with Naina, each other Vallabh  
 છે નૈનાની સાથે ચાલુ છે બ એકબીજા વલ્લભ  
+Tags: Sexual misconduct
 
 [05:49](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=349s) understand, understood, then after defaming her, he started with Nita  
 સમજતા સમજા પછી એને બદનામ કરીને નીતા હારે  
@@ -719,6 +722,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [12:48](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=768s) then is he in angikruti (sexual initiation), listen  
 પછી એમાં છે અંગીકૃતિમાં જો તમે સાંભળો  
+Tags: Angikar, Sexual misconduct
 
 [12:52](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=772s) Sharda, Dhirubhai's wife, can't do without it for a moment  
 શારદાને એના ધીરુભાઈના ઘરવાળાને ઘડીકે  
@@ -872,6 +876,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [15:29](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=929s) in angikruti, no, no, not him, no, I don't know  
 અંગીકૃતિમાં છે ના ના એ કોઈ ના એનો ખ્યાલ  
+Tags: Angikar
 
 [15:33](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=933s) about him, he goes to all manoraths (festivals) every day  
 નથી એનો એ આ બધા રોજે બધા મનોરથમાં જાય છે  
@@ -890,6 +895,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [15:47](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=947s) right, yes, if trapped, what's in it, he  
 બરાબરને હા ફસાયા તો હોય એમાં હું છે એ  
+Tags: Coercion / trapping
 
 [15:51](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=951s) how many times, how old is that Bhikhabhai  
 કેટલી વાર તમે એ ભીખાભાઈ કેટલા વર્ષના છે  
@@ -962,12 +968,14 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [17:10](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1030s) have brainwashed every person so much  
 હાથ વ્યક્તિને એવો જે એ ભરમાવી દીધું છે  
+Tags: Grooming
 
 [17:13](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1033s) that seven glimpses, first listen, in them they have  
 કે સાતે ઝલક પેલા સાંભળી લો એનામાં એવું  
 
 [17:16](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1036s) brainwashed that only if you go to all seven balaks  
 ભરમાવી દીધું છે કે સાતેય બાળકો પાસે જવાય  
+Tags: Grooming, Coercion / trapping
 
 [17:19](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1039s) do you get residence in leela (leela ma vas)  
 તો જ લીલા માં વાસ થાય  
@@ -998,6 +1006,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [17:50](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1070s) comes, if you do angikruti with balaks then you get Bhagvat  
 આવે બાળકોની સાથે અંગીકૃતિ કરાવે તો ભગવત  
+Tags: Angikar
 
 [17:53](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1073s) prapti (attainment of God), say so, yes, you get Bhagvat prapti  
 પ્રાપ્તિ થાય એમ કહું હા ભગવત પ્રાપ્તિ  
@@ -1019,6 +1028,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [18:10](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1090s) we again get angikruti done, like that  
 પાસેથી પાછું આપણે અંગીકૃતિ કરાવી લઈએ એમ  
+Tags: Angikar
 
 [18:12](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1092s) is it, yes, yes, write, write, write, adharamrut in the form of patal (leaf-plate)  
 કેવું છે હા હા લખો લખો લખો અધરામથી પાતાળ  
@@ -1169,9 +1179,11 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [20:49](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1249s) an unmarried girl got pregnant  
 કુંવારી છોકરીને છોકરું રહી ગયું હતું  
+Tags: Sexual misconduct
 
 [20:51](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1251s) listen, an unmarried girl got pregnant, okay, yes  
 સાંભળો કુંવારી છોકરીનું છોકરું રહી ગયું  
+Tags: Sexual misconduct
 
 [20:53](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1253s)  
 હો હા  
@@ -1184,6 +1196,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [21:00](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1260s) who got pregnant, her father and mother, they  
 જેને છોટું થઈ ગયું એની એની બાપ અને બા એ  
+Tags: Sexual misconduct
 
 [21:04](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1264s) are all in this, all in this, used to go in seva, where  
 બધા આમાં બધા આમાં છે એવામાં જતા ક્યાં  
@@ -1196,6 +1209,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [21:15](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1275s) Madhav, yes, his daughter, these balaks did angikar (accepted/slept with) her  
 માધવ હા એની છોકરીને આ બાળકો અંગીકાર કરી  
+Tags: Angikar, Sexual misconduct
 
 [21:20](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1280s) then took her as prasad, meaning when balaks are not there  
 પછી પ્રસાદ રૂપે લીધી એટલે બાળકો ન હોય  
@@ -1205,6 +1219,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [21:25](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1285s) goes for chores, so they take turns using her, she got pregnant  
 કામકાજમાં જાય તો વારા વાપરે એને છોકરું  
+Tags: Coercion / trapping, Sexual misconduct
 
 [21:27](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1287s) so  
 રહી ગયું એટલે  
@@ -1220,6 +1235,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [21:36](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1296s) and did prasadi, in that prasadi she got pregnant  
 અને પ્રસાદી કરી એ પ્રસાદીમાં એને છોકરું  
+Tags: Sexual misconduct
 
 [21:39](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1299s) like that, yes, then to abort it  
 થઈ ગયું એમ હા પછી એને પડાવવા માટે  
@@ -1274,6 +1290,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [22:35](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1355s) tour, the doctor's mother-in-law was in my  
 પ્રવાસમાં ડોક્ટર છે ને એના સાસુ મારા  
+Tags: Grooming
 
 [22:38](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1358s) tour  
 પ્રવાસમાં હતા  
@@ -1298,15 +1315,18 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [22:58](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1378s) in India Colony, then his mother-in-law was with us  
 ઇન્ડિયા કોલોનીમાં પછી એના સાસુ અમારી  
+Tags: Grooming
 
 [23:02](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1382s) a whole vehicle was from Surat, from Surat, his  
 ભેગા એક ગાડી આખી સુરતથી હતી સુરતથી એના  
 
 [23:04](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1384s) mother-in-law, this doctor's, doctor's  
 સાસુ આ ડોક્ટરના ડોક્ટરના  
+Tags: Grooming
 
 [23:08](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1388s) yes, so his mother-in-law's  
 હા એટલે એના સાસુની  
+Tags: Grooming
 
 [23:12](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1392s) in my school, the whole group was from Surat  
 તો મારી સ્કૂલમાં સુરતથી આખું ગ્રુપ હતું  
@@ -1337,6 +1357,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [23:36](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1416s) samagri made her pregnant  
 સામગ્રીના કારણે એને પ્રેગ્નેન્ટ કરી દીધી  
+Tags: Sexual misconduct
 
 [23:39](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1419s) and then went to abort it, otherwise the name  
 અને પછી પડાવા ગયા એટલે એટલે નહી તો નામ  
@@ -1712,6 +1733,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [30:05](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1805s) by giving perverse teachings of angikruti leela  
 હેતુથી ઉલટી સીધી અંગીકૃતિ લીલાના ઉદેશો  
+Tags: Angikar
 
 [30:09](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1809s) misusing unmarried, married, as well as widows  
 આપીને કુંવારી પરણેલી તેમજ વિધવાઓનો ગેર  
@@ -1904,9 +1926,11 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [33:15](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1995s) such balaks of Vallabh, and they themselves enjoy women  
 ધર્મ પાળવા માટે આપણે આગ્રહ કરે છે  
+Tags: Sexual misconduct
 
 [33:17](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=1997s) during menstruation (masik dharm), this  
 વલ્લભના આવા બાળકો અને પોતે માસ્ટિક  
+Tags: Sexual misconduct
 
 [33:20](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=2000s) new point I am telling you, Pritibhav, all of them  
 ધર્મમાં સ્ત્રીઓ સાથે આનંદ માણે છે આ  
@@ -1952,9 +1976,11 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [33:59](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=2039s) explain to them that this is called khata goras (sour milk/curd)  
 દિવસ અને સ્ત્રીઓ રાજી સુધી જાય છે એને  
+Tags: Sexual misconduct
 
 [34:03](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=2043s) khata goras, doing this during menstruation, they call it khata goras  
 સમજાવે કે આતો ખાટા ગોરસ કહેવાય ખાટાના  
+Tags: Sexual misconduct
 
 [34:09](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=2049s) there is a kirtan  
 ગોરસા અટકામાં આવું કરે એને ખાટા ગોરસ  
@@ -1997,6 +2023,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 
 [34:52](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=2092s) then it's called khata goras right, yes, then  
 ખાટું આરોગાય મીઠું આરોગાય ખાટું આરોગ  
+Tags: Sexual misconduct
 
 [34:55](https://www.youtube.com/watch?v=tK-KGhFtwX8&t=2095s) khata  
 મીઠું આ એક પોઈન્ટ બધા ઘણા લાઈનમાં હોય  

@@ -86,6 +86,7 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [01:01](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=61s) and he made gestures to hug me and things like that.  
 પાસે ગઈ ને તો એણે મને ભેટવાની ને એવી  
+Tags: Sexual misconduct
 
 [01:04](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=64s) I said, "I have no interest in that,  
 ચેષ્ટા કરી મેં કીધું મને એમાં તો રસ નથી  
@@ -113,9 +114,11 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [01:28](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=88s) started coming to me one by one and saying,  
 મને વારાફર વારાફરતી આવીને કહેવા માંડ્યા  
+Tags: Community pressure
 
 [01:30](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=90s) "You are making a big mistake, Bawashri himself  
 કે તમે બહુ ભૂલ કરો છો ને તમને એમ સામેથી  
+Tags: Community pressure
 
 [01:33](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=93s) asked for you," and this and that. Then I  
 બાવાશ્રીએ કીધું છે ને આમને તેમને પછી મેં  
@@ -134,6 +137,7 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [01:45](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=105s) Mukhiyaji was arguing intensely with me,  
 મુખિયાજી મારી હારે એકદમ ચર્ચા કરતો હતો  
+Tags: Community pressure
 
 [01:47](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=107s) asking, "Why did you say no?" I said, "How did you  
 ને કે તમે શું કામ ના પાડી મે તને કેવી  
@@ -155,6 +159,7 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [02:05](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=125s) to bathe him, the ones who stayed around him.  
 નવડાવાને જતી હતી જેની આજુબાજુમાં રહેતા  
+Tags: Sexual misconduct
 
 [02:07](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=127s) They would all say, "Come on, it's time for Jeje  
 હતા ને એ બધા એમ કે હાલો જે જેને નાવાનો  
@@ -170,6 +175,7 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [02:17](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=137s) said, "Look, yes, he doesn't bathe on his own."  
 કે કે જોને ઈ કે હા રે આ નથી નાતા ઈ કે  
+Tags: Sexual misconduct
 
 [02:21](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=141s) So all this stuff was going on there too. And  
 એટલે આવું બધું ચાલતું હતું ત્યાં પણ અને  
@@ -203,6 +209,7 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [02:48](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=168s) he calls you himself and you don't go to take the Laabh,  
 કે તમને સામેથી બોલાવ તો તમે લાભ નથી લેવા  
+Tags: Coercion / trapping
 
 [02:51](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=171s) look how much all these people plead, after how many  
 જતા આ બધા જો કેટલી વિનંતી કરે કેટલા  
@@ -215,12 +222,15 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [02:59](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=179s) who had held my hand and taken me there. And  
 મને હાથ પકડીને લઈ ગયા હતા ત્યાં અને  
+Tags: Coercion / trapping, Community pressure
 
 [03:01](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=181s) that London woman's daughter had an affair with his son,  
 લંડનવાળાની દીકરી છે ને એના દીકરા સાથે  
+Tags: Sexual misconduct
 
 [03:03](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=183s) she had an affair with Babashri's son. So this  
 બાબાશ્રીના દીકરા સાથે એને અફેર હતું તો આ  
+Tags: Sexual misconduct
 
 [03:07](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=187s) London girl thought that he would  
 લંડનવાળીને એમ જ હતું કે આ જાણે મારી સાથે  
@@ -326,12 +336,14 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [04:41](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=281s) his daughter—her own biological father brings  
 દીકરીને લઈને આવે છે સગો બાપ હોય ને એની  
+Tags: Sexual misconduct
 
 [04:43](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=283s) his daughter to Babashri and leaves her  
 દીકરીને લઈને આવે બાબાશ્રી પાસે અને રાત  
 
 [04:46](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=286s) for the whole night." So I have heard  
 આખી મૂકી જાય છે એટલે એટલે આવું બધું  
+Tags: Sexual misconduct
 
 [04:49](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=289s) all this, but what I mean to say is that  
 સાંભળ્યું છે પણ મથલ મારો કહેવાનો મતલબ કે  
@@ -359,6 +371,7 @@ In this video, the speaker alleges that during a Vraj yatra about 15 years ago B
 
 [05:11](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=311s) agreed and said, "Yes, we do send our daughters-in-law  
 હા પાડી કે હા અમે તો અમારી વહુ દીકરીઓને  
+Tags: Community pressure
 
 [05:13](https://www.youtube.com/watch?v=hm6CWCSwXzQ&t=313s) and daughters." That's what they said.  
 મોકલીએ જ છીએ એવી રીતે કીધેલું  

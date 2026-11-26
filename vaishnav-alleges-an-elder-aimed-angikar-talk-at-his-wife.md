@@ -44,6 +44,7 @@ In this video, the speaker alleges that an elderly Vaishnav turned a health visi
 
 [00:22](https://www.youtube.com/watch?v=uefQMLRAcZs&t=22s) you people speak up about this, about the Angikar pratha.  
 તમે લોકો બોલો આના વિશે અંગીકાર પ્રથા  
+Tags: Angikar
 
 [00:25](https://www.youtube.com/watch?v=uefQMLRAcZs&t=25s) And I had been thinking and thinking about it for a long time.  
 વિશે પણ ઘણા ટાઈમથી વિચાર વિચાર કરતો હતો  
@@ -107,6 +108,7 @@ In this video, the speaker alleges that an elderly Vaishnav turned a health visi
 
 [01:26](https://www.youtube.com/watch?v=uefQMLRAcZs&t=86s) he changed the topic to Angikar. Now,  
 ટોપિક એમણે ચેન્જ કર્યો અંગીકાર ઉપર એટલે  
+Tags: Angikar
 
 [01:28](https://www.youtube.com/watch?v=uefQMLRAcZs&t=88s) my wife wouldn't understand that much because  
 મારી વાઇફને તેટલી ખબર પડે નહીં કારણ કે  
@@ -116,12 +118,15 @@ In this video, the speaker alleges that an elderly Vaishnav turned a health visi
 
 [01:33](https://www.youtube.com/watch?v=uefQMLRAcZs&t=93s) said that the tilak that Thakorji wears, right,  
 એવું કીધું કે ઠાકોરજી જે તિલક કરે છે ને  
+Tags: Angikar, Sexual misconduct
 
 [01:36](https://www.youtube.com/watch?v=uefQMLRAcZs&t=96s) he said that it is of Swamiji's genitals—the  
 કે છે કે એ કે સ્વામીજીના ગુપ્તાંગ જે  
+Tags: Sexual misconduct
 
 [01:39](https://www.youtube.com/watch?v=uefQMLRAcZs&t=99s) female genitals, that part is what the tilak is of.  
 સ્ત્રીનું ગુપ્તાંગ હોય એ ભાગનું તિલક કરે  
+Tags: Sexual misconduct
 
 [01:41](https://www.youtube.com/watch?v=uefQMLRAcZs&t=101s) So I was completely shocked at first,  
 છે એટલે મને એકદમ આમ શોખ લાગી ગયો પહેલા  
@@ -131,6 +136,7 @@ In this video, the speaker alleges that an elderly Vaishnav turned a health visi
 
 [01:49](https://www.youtube.com/watch?v=uefQMLRAcZs&t=109s) Baba hasn't partaken of beautiful samagri for a long time.  
 બાબાએ બહુ ટાઈમથી સુંદર સામગ્રી નથી આરોગી  
+Tags: Sexual misconduct
 
 [01:53](https://www.youtube.com/watch?v=uefQMLRAcZs&t=113s) Meaning, by samagri, he must have been speaking with  
 એટલે સામગ્રી એટલે મારી વાઇફના  
@@ -194,6 +200,7 @@ In this video, the speaker alleges that an elderly Vaishnav turned a health visi
 
 [02:49](https://www.youtube.com/watch?v=uefQMLRAcZs&t=169s) well to me—about all this Angikar pratha,  
 સમજાવ્યું મને કે આ બધું અંગીકાર પ્રથા  
+Tags: Angikar
 
 [02:52](https://www.youtube.com/watch?v=uefQMLRAcZs&t=172s) what goes on and what doesn't—that's when I found  
 વિશે કે શું ચાલે છે શું નહીં ત્યારે ખબર  
@@ -314,6 +321,7 @@ In this video, the speaker alleges that an elderly Vaishnav turned a health visi
 
 [04:41](https://www.youtube.com/watch?v=uefQMLRAcZs&t=281s) even despite receiving threats to kill him,  
 એમને મારી નાખવા સુધીની ધમકીઓ મળવા છતાં  
+Tags: Victim silencing
 
 [04:44](https://www.youtube.com/watch?v=uefQMLRAcZs&t=284s) without worrying about his children and wife,  
 બી એમના છોકરાને વાઇફનું પરવાહ કર્યા વગર  

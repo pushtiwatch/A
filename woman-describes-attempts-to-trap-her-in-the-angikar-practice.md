@@ -53,12 +53,14 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [00:30](https://www.youtube.com/watch?v=FInbRTgpox4&t=30s) So a Goswami Balak mentally tortured me so  
 એટલે એક ગોસ્વામી બાલકે મને મેન્ટલી એટલી  
+Tags: Angikar, Coercion / trapping
 
 [00:34](https://www.youtube.com/watch?v=FInbRTgpox4&t=34s) much because I was not at all ready to participate in his  
 બધી ટોર્ચર કરી છે કારણ કે હું એમના  
 
 [00:38](https://www.youtube.com/watch?v=FInbRTgpox4&t=38s) Angikar Leela.  
 અંગીકાર લીલામાં સાથ દેવા બિલકુલ તૈયાર  
+Tags: Angikar
 
 [00:41](https://www.youtube.com/watch?v=FInbRTgpox4&t=41s) He harassed me so much, to the extent  
 નહોતી બહુ જ એને મને હેરાન કરી છે એટલી હદ  
@@ -167,6 +169,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [02:40](https://www.youtube.com/watch?v=FInbRTgpox4&t=160s) wants to do your Angikar. I asked,  
 તને તારો અંગીકાર કરવા માંગે છે મેં કીધું  
+Tags: Angikar
 
 [02:43](https://www.youtube.com/watch?v=FInbRTgpox4&t=163s) "What does Angikar mean?"  
 અંગીકાર એટલે  
@@ -257,6 +260,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [04:23](https://www.youtube.com/watch?v=FInbRTgpox4&t=263s) and immediately hugged me, kissed me on my forehead.  
 અને તરત મને હગ કર્યું મારા ફોરેડ પર કિસ  
+Tags: Sexual misconduct
 
 [04:26](https://www.youtube.com/watch?v=FInbRTgpox4&t=266s) I said, "JJ, do whatever you want to do.  
 કરી મેં કીધું જે આપને જે કરવું હોય એ કરો  
@@ -281,6 +285,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [04:47](https://www.youtube.com/watch?v=FInbRTgpox4&t=287s) Leela, your Angikar Leela." So  
 લીલામાં નથી પડવાની તમારી અંગીકાર લીલા તો  
+Tags: Angikar
 
 [04:51](https://www.youtube.com/watch?v=FInbRTgpox4&t=291s) JJ must have gotten scared—I don't know, it must have been  
 જે જે ડરી ગયા હશે ખબર નહીં મારા પર  
@@ -440,6 +445,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [07:38](https://www.youtube.com/watch?v=FInbRTgpox4&t=458s) is nowhere else. And the mental torture that I  
 છે ને એ બીજે ક્યાંય નથી અને મેં જે  
+Tags: Coercion / trapping
 
 [07:42](https://www.youtube.com/watch?v=FInbRTgpox4&t=462s) have suffered—  
 ભોગવ્યું છે ને મેન્ટલી  
@@ -467,6 +473,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [08:06](https://www.youtube.com/watch?v=FInbRTgpox4&t=486s) It was the Sharad Manorath. She told me, "Come sister, I'll take you  
 શરદનો મનોરથ હતો મને કે ચાલ બેન તને આગળથી  
+Tags: Angikar
 
 [08:09](https://www.youtube.com/watch?v=FInbRTgpox4&t=489s) to the front for Darshan." I have an eye problem,  
 હું દર્શન કરાવું મને આંખનો પ્રોબ્લેમ છે  
@@ -476,6 +483,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [08:15](https://www.youtube.com/watch?v=FInbRTgpox4&t=495s) I refused a lot, but she forced me so much  
 તો મેં બહુ જ ના પાડી પણ એને બહુ ફોર્સ  
+Tags: Coercion / trapping
 
 [08:18](https://www.youtube.com/watch?v=FInbRTgpox4&t=498s) that I told the Vaishnav with me,  
 કર્યો ને એટલે મેં મારા સાથેના વૈષ્ણવને  
@@ -497,12 +505,14 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [08:38](https://www.youtube.com/watch?v=FInbRTgpox4&t=518s) she had explained Angikar to me, saying, "Sister,  
 એને મને અંગીકાર વિશે સમજાવ્યું છે કે બેન  
+Tags: Angikar
 
 [08:42](https://www.youtube.com/watch?v=FInbRTgpox4&t=522s) this is Vrajbhoomi, a sacred land, in this JJ  
 આ વ્રજભૂમિ પવિત્ર ભૂમિ એમાં તું જે જે  
 
 [08:46](https://www.youtube.com/watch?v=FInbRTgpox4&t=526s) will directly do your Angikar." I said, "I don't  
 તારો અંગીકાર કરશે સાક્ષાત મેં કીધું નથી  
+Tags: Angikar
 
 [08:50](https://www.youtube.com/watch?v=FInbRTgpox4&t=530s) want to do it, whoever wants to go can go." And I was so  
 કરવું જેને જવું હોય એ જાઉં અને હું એટલી  
@@ -665,6 +675,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [11:45](https://www.youtube.com/watch?v=FInbRTgpox4&t=705s) handsome, so any girl or lady would get trapped.  
 તો હેન્ડસમ તો કોઈ બી છોકરીઓ લેડીઝ ફસાઈ  
+Tags: Coercion / trapping
 
 [11:50](https://www.youtube.com/watch?v=FInbRTgpox4&t=710s)  
 જતી  
@@ -701,15 +712,18 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [12:27](https://www.youtube.com/watch?v=FInbRTgpox4&t=747s) does? First he calls their husband—  
 કરે ખબર છે કે એ છે ને પેલા એમના હસબંડને  
+Tags: Grooming
 
 [12:30](https://www.youtube.com/watch?v=FInbRTgpox4&t=750s) and not just theirs, wherever  
 ફોન કરે અને ખાલી એમના નહીં એને જ્યાં બી  
 
 [12:33](https://www.youtube.com/watch?v=FInbRTgpox4&t=753s) he wants to go to a Vaishnav's house to do Angikar,  
 જે વૈષ્ણવના ઘરે અંગીકાર કરવા જવું હોય ને  
+Tags: Angikar, Grooming
 
 [12:37](https://www.youtube.com/watch?v=FInbRTgpox4&t=757s) he first calls her husband and asks, "Where  
 તો એ પેલા એના હસબંડને ફોન કરે કે તમે  
+Tags: Grooming
 
 [12:39](https://www.youtube.com/watch?v=FInbRTgpox4&t=759s) are you? I had some work with you." So the  
 ક્યાં છો જરા તમારું કામ હતું તો ઓલા એમના  
@@ -731,6 +745,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [12:57](https://www.youtube.com/watch?v=FInbRTgpox4&t=777s) who live alone, without a mother-in-law in the house,  
 કે જે એકલા રહેતા હોય સાસુ સાસુ વાળું ઘર  
+Tags: Grooming
 
 [13:00](https://www.youtube.com/watch?v=FInbRTgpox4&t=780s)  
 ના  
@@ -893,6 +908,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [15:53](https://www.youtube.com/watch?v=FInbRTgpox4&t=953s) so he can come at night and do all this Leela. I  
 તો રાતના આવે ને આવું બધી લીલા કરે મેં  
+Tags: Grooming
 
 [15:57](https://www.youtube.com/watch?v=FInbRTgpox4&t=957s) flatly refused. I said, "I have  
 ચોખ્ખી ના પાડી દીધી હતી મેં કીધું મારી  
@@ -1022,6 +1038,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [18:12](https://www.youtube.com/watch?v=FInbRTgpox4&t=1092s) were having sexual fun (rang-raliya), and I saw it  
 જે રંગ રલીયા મનાવતા હતા અને મેં જોયું  
+Tags: Sexual misconduct
 
 [18:16](https://www.youtube.com/watch?v=FInbRTgpox4&t=1096s) with my own eyes." I said, "Go on now, will you touch his feet  
 નજરે મેં કીધું જા હવે આને તું ચરણ સ્પર્શ  
@@ -1229,9 +1246,11 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [21:53](https://www.youtube.com/watch?v=FInbRTgpox4&t=1313s) "I have a strong desire, Bena, that today  
 છે કે મને બહુ જ ઈચ્છા છે બેના કે આજે જે  
+Tags: Angikar
 
 [21:57](https://www.youtube.com/watch?v=FInbRTgpox4&t=1317s) JJ does your Angikar here." And the fear  
 જે તારો અહીંયા અંગીકાર કર કરે અને જે મને  
+Tags: Angikar
 
 [22:01](https://www.youtube.com/watch?v=FInbRTgpox4&t=1321s) I felt—how do I get out of here now,  
 ડર લાગ્યો છે કે હવે હું અહીંયાથી કેવી  
@@ -1241,6 +1260,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [22:07](https://www.youtube.com/watch?v=FInbRTgpox4&t=1327s) "If Angikar happens, the merits of so many lifetimes bear fruit!"  
 એને મને સમજાવ્યો અંગીકાર થાય આપણા તો  
+Tags: Angikar
 
 [22:09](https://www.youtube.com/watch?v=FInbRTgpox4&t=1329s) That lady is so old,  
 કેટલા જન્મના પુણ્ય ફળે કે એ આપણને એ લેડી  
@@ -1343,6 +1363,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [23:48](https://www.youtube.com/watch?v=FInbRTgpox4&t=1428s) Because seven years ago I had an affair,  
 કારણ કે મારું સાત વર્ષ પહેલા અફેર હતું  
+Tags: Sexual misconduct
 
 [23:51](https://www.youtube.com/watch?v=FInbRTgpox4&t=1431s) which my parents also knew about, and for some  
 જે મારા પેરેન્ટ્સને બી ખબર હતી અને કોઈ  
@@ -1478,6 +1499,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [26:07](https://www.youtube.com/watch?v=FInbRTgpox4&t=1567s) 99% of everyone was in agreement with JJ in the Angikar  
 99% બધા જે જેની વાતમાં હતા અંગીકાર  
+Tags: Angikar
 
 [26:11](https://www.youtube.com/watch?v=FInbRTgpox4&t=1571s) Leela; only one or two of us were such that we  
 લીલામાં અમે એક બે જણા જ એવા હતા કે અમે  
@@ -1613,12 +1635,14 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [28:32](https://www.youtube.com/watch?v=FInbRTgpox4&t=1712s) JJ called me and said, "Don't you feel  
 જે જે મને ફોન કર્યો કે તને એમ નથી થતું  
+Tags: Angikar
 
 [28:36](https://www.youtube.com/watch?v=FInbRTgpox4&t=1716s) that you have come to Nathdwara and here your  
 કે નાથ દ્વારામાં આવી છું અને અહીં તારો  
 
 [28:39](https://www.youtube.com/watch?v=FInbRTgpox4&t=1719s) complete Angikar should happen?" I said, "No, I  
 સંપૂર્ણપણે અંગીકાર થાય મેં કીધું ના મને  
+Tags: Angikar
 
 [28:43](https://www.youtube.com/watch?v=FInbRTgpox4&t=1723s) don't feel like that, sorry." And because I used to  
 નથી થતું એવું સોરી અને કારણ કે હું તો  
@@ -1766,6 +1790,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [31:17](https://www.youtube.com/watch?v=FInbRTgpox4&t=1877s) "If you ever fall into this Angikar Leela,  
 અંગીકાર લીલામાં જો તું ક્યારે બી પડી તો  
+Tags: Angikar
 
 [31:21](https://www.youtube.com/watch?v=FInbRTgpox4&t=1881s) understand that for lifetimes you will be separated from Prabhu,  
 સમજી લેજે જન્મો જનમ તને પ્રભુનો અંતરાય  
@@ -1847,6 +1872,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [32:41](https://www.youtube.com/watch?v=FInbRTgpox4&t=1961s) wanted him to do her Angikar. Now  
 થતું હતું કે આ મારો અંગીકાર કરે હવે  
+Tags: Angikar
 
 [32:44](https://www.youtube.com/watch?v=FInbRTgpox4&t=1964s) Hariraiji was omniscient (Trikal-gyani), he  
 હરિરાયજી તો ત્રિકાલ જ્ઞાની હતા એમને ખબર  
@@ -2042,9 +2068,11 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [36:14](https://www.youtube.com/watch?v=FInbRTgpox4&t=2174s) know that her Angikar—  
 ખબર છે કે આનો અંગીકાર  
+Tags: Angikar
 
 [36:16](https://www.youtube.com/watch?v=FInbRTgpox4&t=2176s) Thakorji did her Angikar, and only after that  
 ઠાકોરજી એનો અંગીકાર કર્યો લીલામાં પછી જ  
+Tags: Angikar
 
 [36:19](https://www.youtube.com/watch?v=FInbRTgpox4&t=2179s) did they enter the Leela?" I said, "JJ,  
 એ લોકોનો પ્રવેશ થયો છે મેં કીધું જે જે  
@@ -2075,6 +2103,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 
 [36:50](https://www.youtube.com/watch?v=FInbRTgpox4&t=2210s) 'We are Thakorji, we do Angikar, only then  
 કે અમે ઠાકોરજી છીએ અંગીકાર કરીએ છીએ તો જ  
+Tags: Angikar
 
 [36:54](https://www.youtube.com/watch?v=FInbRTgpox4&t=2214s) do you enter the Leela'—  
 તમારો લીલામાં પ્રવેશ  

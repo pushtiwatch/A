@@ -38,6 +38,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [00:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=13s) feeling that she gets angikar, and I feel that  
 છે કે એ અંગીકાર થાય ને મારે એવું છે કે  
+Tags: Angikar
 
 [00:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=16s) fine, if some grace is showering on her, then you  
 ભલે એની પર કઈ કૃપા વરસતી હોય તો તમે કઈ  
@@ -140,6 +141,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [02:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=120s) do angikar for everyone. That's not our job, okay  
 બધાને અંગીકાર કરીએ છે એ આપણું કામ ની હો  
+Tags: Angikar
 
 [02:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=124s) brother. You weren't saying that? No, no, no. Then Dada  
 ભાઈ તમે નોતા કહેતા એવું ની ની ન તે દાદા  
@@ -218,12 +220,14 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [05:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=330s) we can find out that he talks about doing angikar  
 જરા ખબર પડે કે એ વૈષ્ણવોને અંગીકાર  
+Tags: Angikar
 
 [05:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=332s) for Vaishnavs, so let's explain to him  
 કરવાની વાત કરે છે ને તો એમને સમજાવવું કે  
 
 [05:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=334s) how angikar is done. Give him the  
 અંગીકાર કેવી રીતે કરાવાય છે આપો એમને જરા  
+Tags: Angikar
 
 [05:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=336s) phone. But he is here, he has gone outside. Just five  
 ફોન પણ આયા છે બહાર ગયા છે હમણાં પાંચ  
@@ -242,6 +246,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [05:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=350s) remember that now, the fun he gets from doing angikar  
 છે હવે યાદ રાખે એમને જે ગામ ભરના બૈરાઓને  
+Tags: Angikar
 
 [05:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=353s) with women from all over the village at this age,  
 અંગીકાર કરવાની મજા આવે છે ને આટલી ઉંમરે  
@@ -293,6 +298,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [06:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=392s) "Do you want to get angikar?" Tell me  
 છે કે તમારે અંગીકાર થવું છે? મને એમ  
+Tags: Angikar
 
 [06:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=394s) how old is he? Tell the truth  
 જણાવો એમની ઉંમર કેટલી છે? સાચું કહો તમા  
@@ -314,6 +320,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [06:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=412s) angikar to some Bawa? I don't  
 અંગીકારમાં જાવ છો કોઈ બાવા પાસે મને એ  
+Tags: Angikar
 
 [06:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=415s) know anything about that, brother. Then Masi, in the whole  
 બાબતની કઈ ખબર નથી ભાઈ તો માસી એ આખા  
@@ -323,6 +330,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [06:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=419s) gets it up so much that he wants to do angikar  
 એટલું બધું ઉઠે છે કે એમને આ બધી બૈરાઓને  
+Tags: Angikar
 
 [07:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=422s) with all these women? Haven't you had children  
 અંગીકાર કરવા છે તમારા ઘરમાં વસ્તા તમે  
@@ -521,21 +529,25 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [09:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=587s) from your own mouth. I said about angikar.  
 મોઢેથી મારે સાંભળવું છે અંગીકારનું કીધું  
+Tags: Angikar
 
 [09:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=590s) What angikar? What does doing angikar mean?  
 તું શું અંગીકાર અંગીકાર કરવું એટલે શું  
+Tags: Angikar
 
 [09:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=592s) Explain it in plain language, I want to understand.  
 જરા સમજાવો ચોખી ભાષામાં તો સમજવું છે  
 
 [09:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=595s) That we have to pamper Thakorji and  
 મારે એ ઠાકોરજીને આપણે લાડ લડાવાના અને  
+Tags: Angikar
 
 [10:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=600s) please the Vaishnavs— Maganbhai, if you don't want to hear  
 વૈષ્ણવના પ્રસન્ન મગનભાઈ માં બેનની ગાળો  
 
 [10:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=603s) mother-sister abuses, speak straight, what does doing angikar  
 ના ખાવી હોય તો સીધું સીધું બોલો અંગીકાર  
+Tags: Angikar
 
 [10:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=605s) mean? Otherwise I'll kick your ass  
 કરવું એટલે શું? નહી તો ગાંડે લાત મારીશ  
@@ -554,12 +566,14 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [10:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=624s) asked him what angikar means, so he tells me  
 મેં પૂછ્યું મે અંગીકાર એટલે શું તો મને  
+Tags: Angikar
 
 [10:25](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=625s) pampering the Vaishnavs' Thakorjis.  
 કે વૈષ્ણવના ઠાકોરજીઓને લાડ લડાવવાના એ  
 
 [10:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=628s) What is the meaning of angikar, let him tell the truth  
 અંગીકારનો અર્થ શું છે એમને સાચું બોલે  
+Tags: Angikar
 
 [10:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=631s) Masi, let him tell the truth. Look, you listen  
 માસી સાચું બોલે હ જો એ તમે છે ને મારી  
@@ -584,21 +598,25 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [10:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=654s) Hello. Huh? That's what I said, what else did I say? What does angikar  
 હલો હ એજ કીધું બીજું કીધું અંગીકાર એટલે  
+Tags: Angikar
 
 [10:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=659s) mean? What? Huh? What does angikar mean?  
 શું શું હ અંગીકાર એટલે શું  
 
 [11:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=664s) I don't know anything else about angikar, this is what we—  
 અંગીકાર એટલે મને બીજી કાઈ ખબર નથી આ આપણે  
+Tags: Angikar
 
 [11:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=666s) Okay, what does angikar mean? One minute, why  
 બરાબર અંગીકાર એટલે શું એક મિનિટ કેમ  
 
 [11:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=669s) did you go ask women about angikar, why  
 બૈરાઓને પૂછવા ગયા અંગીકારનું કેમ  
+Tags: Angikar
 
 [11:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=672s) didn't you ask men about angikar?  
 પુરુષોને ના પૂછ્યું અંગીકારનું  
+Tags: Angikar
 
 [11:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=676s) Bhosadina, I will teach you, speak first!  
 ભોસડીના તને શીખવાડી દઈશ બોલ પેલા  
@@ -629,15 +647,18 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [11:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=714s) That's what I said, but what's the mistake? What does angikar  
 ઈ તો મેં કીધું પણ ભૂલ શું અંગીકાર એટલે  
+Tags: Angikar
 
 [11:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=717s) mean, what mistake happened? Angikar means doing Thakorji's  
 શું ભૂલ શું થઈ ગઈ અંગીકાર એમ તો ઠાકોરજી  
+Tags: Angikar
 
 [11:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=719s) seva, you said, so what mistake happened in Thakorji's  
 ની સેવા દઈને તે કીધું તો ઠાકોરજીની  
 
 [12:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=721s) seva? Tell the truth, what does angikar  
 સેવામાં શું ભૂલ થઈ ગઈ સાચું બોલ અંગીકાર  
+Tags: Angikar
 
 [12:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=723s) mean, what was your meaning?  
 એટલે શું તારો અર્થ શું હતો  
@@ -653,6 +674,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [12:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=740s) That's what I said— What did you say? What does angikar  
 એમ તો મે કીધું શું કીધું અંગીકાર એટલે  
+Tags: Angikar
 
 [12:23](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=743s) mean? Explain straight in simple language so  
 શું? સીધે સીધું સાદી ભાષામાં સમજાવો એટલે  
@@ -662,9 +684,11 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [12:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=747s) That thing, what angikar is called, I don't  
 જાય એ આપણે ઓલું અંગીકાર શું કહેવાય એ મને  
+Tags: Angikar
 
 [12:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=752s) know what it's called. You don't know what angikar means?  
 ખબર હું કહેવાય અંગીકાર એટલે શું નથી ખબર  
+Tags: Angikar
 
 [12:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=755s) Have you had children with Masi or not, huh?  
 તમને માસીથી વસ્તાર થયો છે કે નથી થયો હે  
@@ -698,12 +722,14 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [13:11](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=791s) what angikar means.  
 અંગીકાર એટલે  
+Tags: Angikar
 
 [13:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=794s) Now tell me, to which Bawas  
 શું હવે મને કો તો કયા કયા બાવા પાસે  
 
 [13:17](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=797s) do you send them to do angikar?  
 મોકલો છો તમે અંગીકાર કરવા માટે  
+Tags: Angikar
 
 [13:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=801s) I haven't gone anywhere, I don't know anything about it.  
 હું ક્યાય ગયો નથી હું કઈ એમાં જાણતો નથી  
@@ -728,12 +754,14 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [13:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=820s) a mistake just now? Doing angikar is like making a mistake,  
 ભૂલ હમણાં અંગીકાર કરવું એટલે ભૂલ કરવા  
+Tags: Angikar
 
 [13:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=822s) right? Something is wrong, right?  
 જેવું છે ને કશું કશું ખોટું છે ને  
 
 [13:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=824s) Doing angikar means—  
 અંગીકાર કરવા એટલે  
+Tags: Angikar
 
 [13:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=828s) I don't understand much about it, so  
 એમાં પાછી મને બહુ ખબર ન પડતી હોય એટલે  
@@ -743,12 +771,15 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [13:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=833s) done angikar for anyone, right? No, no, no, no.  
 અંગીકાર નથી કર્યાને તમે ની ની ની ન  
+Tags: Angikar
 
 [13:56](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=836s) You haven't done angikar, right? So you went for the first  
 અંગીકાર કર્યા નથી કર્યા ને તો તમે પહેલી  
+Tags: Angikar
 
 [13:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=838s) time to do angikar for someone?  
 વાર ગયા હતા કોકને અંગીકાર  
+Tags: Angikar
 
 [14:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=842s) Do you have a son or a daughter, first tell me  
 કરવા તમારે દીકરો છે દીકરી છે પહેલા એ  
@@ -791,12 +822,14 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [14:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=885s) And in this, no Balaks do angikar,  
 અને આમાં બાલકો કોઈ અંગીકાર નથી  
+Tags: Angikar
 
 [14:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=889s) I was saying—  
 કરતા મારી મારી મારું હું કેતો  
 
 [14:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=895s) So you do angikar? No, I don't do it to anyone,  
 તો તો તમે અંગીકાર કરો છો અને હું કોઈને  
+Tags: Angikar
 
 [14:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=899s) but among Vaishnavs, some do it,  
 કરતો નહી પણ વૈષ્ણવમાં અમુક અમુક કરે છે  
@@ -806,27 +839,32 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [15:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=904s) So I was asking "Have you had angikar  
 એટલે હું એમ પૂછતો તો તમે અંગીકાર થઈ ગયા  
+Tags: Angikar
 
 [15:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=907s) or not?" So what does having had angikar  
 કે નથી થયા એમ એટલે અંગીકાર થઈ ગયા એટલે  
+Tags: Angikar
 
 [15:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=909s) mean, explain that to me, I want to understand now.  
 શું હોય એ તો સમજાવો મને હમજવું છે હવે  
 
 [15:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=913s) They say that angikar means meeting/embracing Vaishnavs—  
 એટલે એમ કહેતા હોય કે અંગીકાર વૈષ્ણવને આ  
+Tags: Angikar
 
 [15:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=916s) Okay, fine, have you had your  
 ભેસતા હોય આપણે સારું ચાલો તમે તમારી  
 
 [15:19](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=919s) daughter do angikar or not, now  
 છોકરીને અંગીકાર કરાય છે કે નથી કરાય હવે  
+Tags: Angikar
 
 [15:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=921s) tell me that. No, no, we haven't had her do anything. You  
 એવું કહી દો ની ની અમે કાઈ નથી કરાય તમે  
 
 [15:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=924s) haven't had her do it, and you make the village girls do angikar!  
 નથી કરાઈ અને તમે ગામ ની છોકરીઓને અંગીકાર  
+Tags: Angikar
 
 [15:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=926s)  
 કરાવો છો  
@@ -860,6 +898,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [15:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=955s) so doing angikar is not a mistake, right?  
 થઈ ગઈ તો તમે અંગીકાર કરવો ભૂલ નથી ને  
+Tags: Angikar
 
 [15:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=958s) Why a  
 એટલે કેમ  
@@ -878,6 +917,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [16:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=973s) is not telling the truth about what angikar means.  
 સાચું બોલતા નથી કે અંગીકાર એટલે શું?  
+Tags: Angikar
 
 [16:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=978s) I'm telling you— Masi, Masi, listen to me,  
 હું તમને હું માસી માસી મારી વાત સાંભળો  
@@ -914,6 +954,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [16:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1007s) I'm asking what angikar means, let him  
 નહી હું પૂછું છું અંગીકાર એટલે શું એ મને  
+Tags: Angikar
 
 [16:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1009s) answer me and the matter ends. He has no brains,  
 જવાબ આપે એટલે વાર્તા પતે એને બુદ્ધિ નથી  
@@ -932,9 +973,11 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [17:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1023s) Masi, angikar means, Masi angikar  
 માસી અંગીકાર એટલે છે ને માસી અંગીકાર  
+Tags: Angikar
 
 [17:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1027s) means bodily pleasure (sex), don't try to explain to me, this is not  
 એટલે શરીર સુખ તમે સમજાવતા ન મને કે આ કઈ  
+Tags: Sexual misconduct
 
 [17:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1030s) the first time that I wouldn't understand,  
 પહેલી વખતની વાત નથી કે હું સમજતો નથી  
@@ -1016,12 +1059,14 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [18:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1096s) that getting angikar means making Vaishnavs do seva,  
 કે અંગીકાર થવું એટલે વૈષ્ણવોને સેવા  
+Tags: Angikar
 
 [18:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1098s) then what is the mistake in that? Let him tell the truth  
 કરાવડાવી તો એમાં ભૂલ શું છે સાચું બોલે  
 
 [18:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1101s) about what doing angikar means. It must mean what you say,  
 ને કે અંગીકાર કરવું એટલે શું એ તમે કયો એ  
+Tags: Angikar
 
 [18:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1104s) I don't know, I have never done such a thing sir,  
 જ અર્થ થાતો હોય છે મને નથી ખબર મે એવું  
@@ -1154,6 +1199,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [20:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1216s) That is what they do with each other, angikar. What  
 દઉં એ ઈ હોય એકા બીજા કરે એ અંગીકાર શું  
+Tags: Angikar
 
 [20:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1222s) do they do? Just say it, what do they do,  
 કરે એટલે કહી દો ખાલી ખાલી કરે એટલે શું  
@@ -1190,6 +1236,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [20:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1254s) angikar should definitely happen, right or not?  
 અંગીકાર તો થવું જ જોઈએ પછી બરાબર કે નહી  
+Tags: Angikar
 
 [20:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1257s) Not all of us Vaishnavs become that, those who are Thakorji's  
 એવું આપણે બધાય વૈષ્ણવ ન થાય ઠાકોરજીના  
@@ -1199,6 +1246,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [21:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1264s) that angikar does not mean bodily pleasure (sex), right?  
 છો ને કે અંગીકાર એટલે શરીર સુખ નહી બરાબર  
+Tags: Angikar, Sexual misconduct
 
 [21:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1266s) Yes. Tomorrow when the police come, you'll tell the truth,  
 ને હા કાલે પોલીસ આવે એટલે તમે સાચું  
@@ -1298,12 +1346,14 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [22:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1360s) from his own mouth, he wanted to enjoy sexual pleasure,  
 મોઢે બોલાવડાવો એને જાતીય સુખ માણવું તું  
+Tags: Sexual misconduct
 
 [22:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1363s) right? Make him say the truth from his own mouth, did you want to enjoy  
 ને સાચું બોલાવડાવો એના મોઢે તમે જાતિ સુખ  
 
 [22:46](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1366s) sexual pleasure? Yes, yes, yes. Speak then, what did you want  
 માણવું તું હા હા હા બોલો તો શું માણવું  
+Tags: Sexual misconduct
 
 [22:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1369s) to enjoy?  
 તું તમારે  
@@ -1325,15 +1375,18 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [23:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1383s) say it from your mouth, you wanted to enjoy bodily pleasure (sex),  
 તમારા મોઢે બોલો શરીર સુખ માણવું તું ને  
+Tags: Sexual misconduct
 
 [23:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1385s) right? Yes. Speak, yes, speak from your mouth, say the words  
 તમારે હા બોલો હા બોલો મોડામાંથી જવા શરીર  
 
 [23:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1390s) "bodily pleasure"! Yes, like that, wanted to enjoy  
 સુખ શબ્દ બોલો તમે હા એમ તો શરીર સુખ  
+Tags: Sexual misconduct
 
 [23:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1394s) bodily pleasure. You wanted to enjoy it, right?  
 માણવું તું એમ કતો માણું તુંને તમારે  
+Tags: Sexual misconduct
 
 [23:17](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1397s) How old are you, Kaka? Huh, how old are  
 કેટલી ઉંમર છે તમારી કાકા હ કેટલી ઉંમર છે  
@@ -1343,9 +1396,11 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [23:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1404s) to enjoy bodily pleasure? Huh, can you even get it up that  
 શરીર સુખ માણવું છે હે તમારું ઉઠે છે કે  
+Tags: Sexual misconduct
 
 [23:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1408s) you want to enjoy bodily pleasure?  
 તમારે શરીર સુખ માણવું છે  
+Tags: Sexual misconduct
 
 [23:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1411s) No, no, no. Aren't your son and daughter married?  
 ની ની ની તમારા છોકરા છોકરીને લગન નથી થયા  
@@ -1469,18 +1524,21 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 [25:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1545s) how such lowly people trap people.  
 કે આવા નીચ માણસો કેવી રીતે લોકોને ફસલાવે  
+Tags: Coercion / trapping
 
 [25:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1548s) This incident happened just now, a  
 છે આ કિસ્સો બન્યો તો હમણાં જ એક  
 
 [25:51](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1551s) Vraj Yatra just ended, in that Vraj Yatra, this Kaka  
 વ્રજયાત્રા પૂરી થઈ એ વ્રજયાત્રામાં ત્રણ  
+Tags: Angikar
 
 [25:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1554s) had this kind of conversation with three sisters,  
 બહેનો સાથે આ કાક કાએ આ રીતે સંવાદ કર્યો  
 
 [25:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1557s) asking "Have you had angikar or not?" Vaishnavs,  
 તો કે તમે અંગીકાર થયા છો કે નહીં વૈષ્ણવો  
+Tags: Angikar
 
 [26:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1561s) if anything like this happens, you must call me,  
 આવું કશું પણ બને તમારે મને ફોન  

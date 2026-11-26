@@ -1,0 +1,122 @@
+{
+  "facets": [
+    {
+      "name": "harm",
+      "use_in_line_tags": true,
+      "tags": [
+        {
+          "tag": "Angikar",
+          "definition": "Alleged angikar practice, or an attempt to draw someone into it."
+        },
+        {
+          "tag": "Grooming",
+          "definition": "Alleged stepwise targeting, isolation, or conditioning of a person toward sexual or angikar activity."
+        },
+        {
+          "tag": "Blackmail",
+          "definition": "Alleged threats to expose, coerce, or control someone, including with a recording or a secret."
+        },
+        {
+          "tag": "Rape",
+          "definition": "Alleged forced or non-consensual sexual intercourse."
+        },
+        {
+          "tag": "Minor abuse",
+          "definition": "Alleged sexual or other serious abuse of a child or minor."
+        },
+        {
+          "tag": "Coercion / trapping",
+          "definition": "Alleged pressure, trapping, or forced participation, other than blackmail."
+        },
+        {
+          "tag": "Sexual misconduct",
+          "definition": "Alleged sexual acts, advances, or exploitation that are not already tagged as rape or minor abuse."
+        }
+      ]
+    },
+    {
+      "name": "accused role",
+      "use_in_line_tags": false,
+      "tags": [
+        {
+          "tag": "Goswami / Bawa",
+          "definition": "The accused is alleged to be a Goswami, Balak, Bawa, Bavashri, or similar religious authority."
+        },
+        {
+          "tag": "Haveli staff",
+          "definition": "The accused is alleged to be haveli staff, a mukhiyaji, khavas, dalal, or other associate acting for the haveli."
+        },
+        {
+          "tag": "Satsang elder",
+          "definition": "The accused is alleged to be a satsang elder, a senior Vaishnav, or another lay religious figure."
+        },
+        {
+          "tag": "Relative",
+          "definition": "The accused is alleged to be a relative of the speaker or of the person targeted."
+        }
+      ]
+    },
+    {
+      "name": "setting",
+      "use_in_line_tags": false,
+      "tags": [
+        {
+          "tag": "Haveli",
+          "definition": "The alleged conduct is said to have taken place in a haveli."
+        },
+        {
+          "tag": "Vraj yatra",
+          "definition": "The alleged conduct is said to have taken place on a Vraj yatra or similar pilgrimage."
+        },
+        {
+          "tag": "Satsang",
+          "definition": "The alleged conduct is said to have taken place in a satsang or similar gathering."
+        },
+        {
+          "tag": "Home",
+          "definition": "The alleged conduct is said to have taken place in a private home."
+        }
+      ]
+    },
+    {
+      "name": "institutional response",
+      "use_in_line_tags": true,
+      "tags": [
+        {
+          "tag": "Police / FIR refusal",
+          "definition": "Police or authorities are alleged to have refused or failed to take a complaint or file an FIR."
+        },
+        {
+          "tag": "Victim silencing",
+          "definition": "Alleged pressure to stay quiet, disbelieve those who speak, delete evidence, or punish disclosure."
+        },
+        {
+          "tag": "Community pressure",
+          "definition": "Alleged pressure from followers, family, or the community to accept, comply, or not object."
+        }
+      ]
+    },
+    {
+      "name": "evidence type",
+      "use_in_line_tags": false,
+      "tags": [
+        {
+          "tag": "First-hand",
+          "definition": "The speaker describes what they say happened to them."
+        },
+        {
+          "tag": "Witness",
+          "definition": "The speaker describes what they say they saw or heard happen to someone else."
+        },
+        {
+          "tag": "Hearsay",
+          "definition": "The speaker reports what they were told by others."
+        },
+        {
+          "tag": "Recorded call",
+          "definition": "The record includes a recorded call, such as with police or a person who is accused."
+        }
+      ]
+    }
+  ]
+}

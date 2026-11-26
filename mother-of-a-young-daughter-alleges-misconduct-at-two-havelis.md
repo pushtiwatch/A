@@ -34,6 +34,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [00:08](https://www.youtube.com/watch?v=0EcgVii6gfY&t=8s) video, saying this video is not true and this matter  
 વિડીયો ઉપર કે આ વિડીયો સાચો નથી ને આ વાત  
+Tags: Victim silencing
 
 [00:12](https://www.youtube.com/watch?v=0EcgVii6gfY&t=12s) is wrong, and who is the Bawa? Hey, if you have so  
 ગલત છે ને કોણ બાવા છે અરે તમને એટલું  
@@ -121,6 +122,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [01:48](https://www.youtube.com/watch?v=0EcgVii6gfY&t=108s) This thing, I have heard it twice, meaning from two different  
 આ વસ્તુ છે ને મને બે વાર એટલે બે અલગ અલગ  
+Tags: Coercion / trapping
 
 [01:52](https://www.youtube.com/watch?v=0EcgVii6gfY&t=112s) Havelis, understand? So this  
 હવેલીઓ માંથી સુણવા મળી છે સમજો તો આ  
@@ -148,6 +150,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [02:23](https://www.youtube.com/watch?v=0EcgVii6gfY&t=143s) first of all, there is no point in making a video  
 તો પહેલી વાત તો વિડીયો બનાવવાનો કોઈ મતલબ  
+Tags: Victim silencing
 
 [02:26](https://www.youtube.com/watch?v=0EcgVii6gfY&t=146s) at all. In my—I mean, I'm just saying that  
 નથી જ મારા તો મતલબ હું તો કહી દઉં છું કે  
@@ -157,6 +160,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [02:32](https://www.youtube.com/watch?v=0EcgVii6gfY&t=152s) to people, because I feel that about Angikar,  
 લોકોને કેમ મને એવું લાગે છે કે અંગીકાર  
+Tags: Angikar
 
 [02:34](https://www.youtube.com/watch?v=0EcgVii6gfY&t=154s) if any lady or anyone talks about it, then  
 વિશે અગર કોઈ લેડી કે કોઈ વાત કરશે ને તો  
@@ -178,6 +182,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [02:51](https://www.youtube.com/watch?v=0EcgVii6gfY&t=171s) question her? First of all, you are men,  
 રીતે ક્વેશ્ચન કરી શકો છો પહેલે તો પુરુષ  
+Tags: Victim silencing
 
 [02:53](https://www.youtube.com/watch?v=0EcgVii6gfY&t=173s) you people don't have any right at all,  
 વર્ગ છો તમે લોકો તમે લોકોને કોઈ રાઈટ જ  
@@ -238,6 +243,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [03:55](https://www.youtube.com/watch?v=0EcgVii6gfY&t=235s) they will have three or four affairs each, it's like that.  
 એમના તીન તીન ચાર ચાર અફેર હશે એમ એવા તો  
+Tags: Sexual misconduct
 
 [03:59](https://www.youtube.com/watch?v=0EcgVii6gfY&t=239s) They definitely do. Look, I know personally, so  
 હોય જ એમ જો હું તો પર્સનલી મને ખબર છે તો  
@@ -253,6 +259,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [04:09](https://www.youtube.com/watch?v=0EcgVii6gfY&t=249s) affairs too. When we listen to their talk,  
 અફેર્સ પણ હોય છે એ લોકોની વાતો આપણે  
+Tags: Sexual misconduct
 
 [04:12](https://www.youtube.com/watch?v=0EcgVii6gfY&t=252s) we feel that—I mean, when I was  
 સાંભળીએ તો આપણે લાગે કે એ મતલબ જે હું તો  
@@ -292,12 +299,14 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [04:56](https://www.youtube.com/watch?v=0EcgVii6gfY&t=296s) Angikar practice at all, in our Marg there is no such  
 પ્રથા કંઈ છે જ નથી આપણા માર્ગમાં તો એવું  
+Tags: Angikar
 
 [04:59](https://www.youtube.com/watch?v=0EcgVii6gfY&t=299s) thing at all, Bawa is Vallabh himself." Those who say all  
 છે જ નથી નથી બાવા બાવા જ વલ્લભ છે એવી સૌ  
 
 [05:03](https://www.youtube.com/watch?v=0EcgVii6gfY&t=303s) such things, there is a greater need to stay away from them,  
 વાતો કરેને એ લોકોથી વધારે વચવાની જરૂરત  
+Tags: Angikar
 
 [05:06](https://www.youtube.com/watch?v=0EcgVii6gfY&t=306s) understand, in today's  
 છે સમજો આજની  
@@ -313,6 +322,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [05:23](https://www.youtube.com/watch?v=0EcgVii6gfY&t=323s) thinking "if this Angikar practice exists,  
 લેતા કે જો આ અંગીકાર પ્રથા હશે  
+Tags: Angikar
 
 [05:28](https://www.youtube.com/watch?v=0EcgVii6gfY&t=328s) we'll see, and why would it come to our house?"  
 અને મતલબ દેખી લઈશું અને કાં આપણા ઘેરમાં  
@@ -334,6 +344,7 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [05:50](https://www.youtube.com/watch?v=0EcgVii6gfY&t=350s) a week, those people are slowly lured in.  
 જતું હોય એ લોકોને ધીરે ધીરે ફૂસલાવવામાં  
+Tags: Grooming, Victim silencing
 
 [05:53](https://www.youtube.com/watch?v=0EcgVii6gfY&t=353s) Look, understand  
 આવે જો સમજો  
@@ -379,9 +390,11 @@ In this video, the speaker asks Vaishnavs not to question women who speak about 
 
 [06:45](https://www.youtube.com/watch?v=0EcgVii6gfY&t=405s) he also has the exact same habit of  
 એમને એ એમની પણ એવી જ હેબીટ છે કે બૈરો  
+Tags: Sexual misconduct
 
 [06:50](https://www.youtube.com/watch?v=0EcgVii6gfY&t=410s) using women.  
 વાપરવાની  
+Tags: Sexual misconduct
 
 [06:52](https://www.youtube.com/watch?v=0EcgVii6gfY&t=412s) I mean, understand, at that time, I mean  
 એને મતલબ સમજો તો મને તે ટાઈમ પર મતલબ  

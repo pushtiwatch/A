@@ -56,6 +56,7 @@ In this video, the speaker explains that after a Balak came to her house at nigh
 
 [00:33](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=33s) that the day JJ had graced my house  
 કે જે દિવસે જે જે મારા ઘરે પધાર્યા હતા  
+Tags: Grooming
 
 [00:37](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=37s) at night, after that I have not gone upstairs in the Haveli,  
 રાતના પછી તેથી હું હવેલીમાં ઉપર નથી  
@@ -158,6 +159,7 @@ In this video, the speaker explains that after a Balak came to her house at nigh
 
 [02:23](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=143s) mental torture, you know how? That  
 મેન્ટલી ટોર્ચર એટલે કેવી રીતના ખબર છે કે  
+Tags: Coercion / trapping
 
 [02:25](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=145s) what happened with the Balak was my first  
 બાળકનું થયું એ મારી માટે ફર્સ્ટ  
@@ -218,9 +220,11 @@ In this video, the speaker explains that after a Balak came to her house at nigh
 
 [03:21](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=201s) But what does mental torture mean,  
 દીધું પણ મેન્ટલી ટોર્ચર નો અર્થ શું છે  
+Tags: Coercion / trapping
 
 [03:25](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=205s) do you know? That when JJ had come at night,  
 ખબર છે તમને કે જ્યારે જે જે રાતના  
+Tags: Grooming
 
 [03:28](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=208s) believe it or not, for so many  
 પધાર્યા હતા તમે માનો કે ન માનો હું કેટલી  
@@ -275,6 +279,7 @@ In this video, the speaker explains that after a Balak came to her house at nigh
 
 [04:19](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=259s) This was mental torture for me.  
 આ મારી માટે મેન્ટલી ટોર્ચર હતો  
+Tags: Coercion / trapping
 
 [04:23](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=263s) As for the question of Vraj Yatra, four to five  
 રહ્યો સવાલ વ્રજ યાત્રાનો તો ચાર થી પાંચ  
@@ -479,6 +484,7 @@ In this video, the speaker explains that after a Balak came to her house at nigh
 
 [07:52](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=472s) caused mental torture. One sister  
 બધાને જોતી તે મેન્ટલી ટોર્ચર થતું એક બેન  
+Tags: Coercion / trapping
 
 [07:56](https://www.youtube.com/watch?v=GrTlSA2xf2I&t=476s) had come who tried to take me  
 આવ્યા હતા જે મને લઈ જવાની કોશિશ કરી  
