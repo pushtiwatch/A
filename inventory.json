@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "video_id": "Q_FjhHfPSQw",
+      "youtube_url": "https://www.youtube.com/watch?v=Q_FjhHfPSQw",
+      "slug": "purvi-describes-alleged-misconduct-in-her-mother-s-bombay-vaishnav-satsang",
+      "title_gu": "કહેવાતા વૈષ્ણવો ની અંદરોઅંદર ની બીભત્સ લીલા નું વર્ણન કરતા એક જાગૃત વૈષ્ણવ બેન (સત્યતા ચકાસવી)",
+      "title_en": "Purvi Describes Alleged Misconduct in Her Mother's Bombay Vaishnav Satsang",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "Purvi",
+      "summary_en": "In this video, the speaker alleges that women in her mother's Vaishnav satsang circle in Bombay engage in intimate physical conduct and claim divine encounters with Thakorji, and argues that this defames the marg.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/purvi-describes-alleged-misconduct-in-her-mother-s-bombay-vaishnav-satsang.md",
+      "status": "published",
+      "contains_named_private_persons": true,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T06:36:26Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  ]
+}
