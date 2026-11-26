@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 29,
+    "total_entries": 30,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -1550,6 +1550,50 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/conversation-about-angikar-and-devotional-gatherings.md"
+    },
+    {
+      "video_id": "HdipdT4oSAw",
+      "youtube_url": "https://www.youtube.com/watch?v=HdipdT4oSAw",
+      "title_gu": "पुष्टिमार्ग में लगे दाग - समलैंगिक संबद्ध / अंगीकार / बालशोषण - (बच्चे दूर रहे वीडियो से)",
+      "title_en": "Allegations of Child Exploitation in Pushtimarg",
+      "language": "gu",
+      "published_date": "2024-04-13",
+      "duration_seconds": 1555,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that girls and boys are singled out during Angikar and describes incidents of sexual exploitation involving minors.",
+      "claims": [
+        "Alleges that when it happens to young boys, to minors, it’s called child abuse, and this has been going on for a long time. You see, there are some Vaishnav devotees in the temple who are gay, and they look at these young boys with improper intentions and touch them in inappropriate….",
+        "Alleges that what happens during Angikar? There are girls aged 16 or 18, or young women aged 20, and you take them to the haveli. That person looks at the girl with improper intentions and says, “She performs devotional service so well. She’s so beautiful. Look at her artwork. She’s….",
+        "Alleges that just watch. This is how all these problems arise. Then they assign a woman to act as a go-between, and she persuades the girl to go with this religious leader. The same thing happens with your young sons, even boys as young as 12, or 14. In the case of a girl who is alone..."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Witness"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.24,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "child sexual abuse / minor abuse",
+        "grooming",
+        "family grooming / community pressure"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-child-exploitation-in-pushtimarg.md"
     }
   ]
 }
