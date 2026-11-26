@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 82,
+    "total_entries": 83,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4339,6 +4339,59 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/brahma-sambandh-and-religious-conduct.md"
+    },
+    {
+      "video_id": "XifVixgavaI",
+      "youtube_url": "https://www.youtube.com/watch?v=XifVixgavaI",
+      "title_gu": "पुष्टिमार्ग में गुरु कौन ?",
+      "title_en": "Questions About Gurus and Alleged Conduct",
+      "language": "gu",
+      "published_date": "2024-07-22",
+      "duration_seconds": 3620,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that some religious figures engage in occult practices and recounts an alleged unwanted embrace during Brahma Sambandh. The speaker also refers to a video-call incident involving a schoolgirl, but the excerpt does not state what was said.",
+      "claims": [
+        "Alleges that some religious figures engage in occult practices.",
+        "Alleges that a religious figure made a video call to a girl in tenth grade.",
+        "Alleges that a religious figure embraced a woman during Brahma Sambandh without her consent.",
+        "Alleges that the woman pushed him away and fled."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Victim silencing",
+        "First-hand"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "blackmail_extortion",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.27,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Vraj yatra / વ્રજયાત્રા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Brahma Sambandh / બ્રહ્મસંબંધ",
+        "Junagadh / જુનાગઢ",
+        "child sexual abuse / minor abuse",
+        "blackmail / extortion",
+        "family grooming / community pressure",
+        "black magic / superstition / તંત્ર-મંત્ર",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-gurus-and-alleged-conduct.md"
     }
   ]
 }
