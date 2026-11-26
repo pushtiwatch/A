@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 15,
+    "total_entries": 16,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -952,6 +952,66 @@
         "HIV / STD / pregnancy / abortion"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/alleged-rescue-and-testimony-of-an-angikar-victim.md"
+    },
+    {
+      "video_id": "yvbPHqjGIfY",
+      "youtube_url": "https://www.youtube.com/watch?v=yvbPHqjGIfY",
+      "title_gu": "અંગીકાર પ્રથા ઝૂમ મીટીંગ ૧  વિડીયો રેકોર્ડિંગ",
+      "title_en": "Zoom Discussion Concerning the Angikar Practice",
+      "language": "gu",
+      "published_date": "2025-04-15",
+      "duration_seconds": 1835,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that Angikar is defended as a religious practice despite harmful consequences for participants and insufficient community accountability. The discussion includes an account of Angikar involving married women and concerns about the values imparted to future generations.",
+      "claims": [
+        "Alleges that participants in Angikar do not receive adequate dignity or lifelong support.",
+        "Alleges that affected individuals are driven to suicide.",
+        "Alleges that angikar has involved multiple women together.",
+        "Alleges that surrendering one's body to a religious figure is presented as a legitimate religious practice.",
+        "Alleges that the practice raises concerns about the values transmitted to future generations."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Sexual misconduct",
+        "Victim silencing",
+        "First-hand"
+      ],
+      "flags": {
+        "murder_or_death": false,
+        "gang_rape": false,
+        "rape": false,
+        "child_sexual_abuse": false,
+        "child_harm_nonsexual": false,
+        "group_sexual_ritual": true,
+        "drugging_intoxication": false,
+        "sexual_health_risk": false,
+        "blackmail_extortion": false,
+        "individual_grooming": true,
+        "family_community_grooming": false,
+        "sexual_misconduct_other": false,
+        "angikar": true,
+        "black_magic_superstition": false,
+        "cover_up": true,
+        "first_hand": true
+      },
+      "explosive_score": 0.16,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Bawa / બાવા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "Sion",
+        "brainwash / બ્રેન વોશ",
+        "kotadi satsang / group sex ritual",
+        "grooming",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/zoom-discussion-concerning-the-angikar-practice.md"
     }
   ]
 }
