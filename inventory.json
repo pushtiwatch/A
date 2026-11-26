@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 46,
+    "total_entries": 47,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -2441,6 +2441,64 @@
         "drugging / intoxication"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-abuse-and-coercion.md"
+    },
+    {
+      "video_id": "aECukF1G0lY",
+      "youtube_url": "https://www.youtube.com/watch?v=aECukF1G0lY",
+      "title_gu": "પુષ્ટિ માર્ગીય ક્રાંતિકારીણિ - Advocate મોહિની પટેલ ના વિચારો",
+      "title_en": "Concerns About Influence and Coercion",
+      "language": "gu",
+      "published_date": "2025-04-29",
+      "duration_seconds": 1285,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that impressionable girls are misled and subjected to psychological abuse and coercion. She also alleges that threats and repeated unwanted touching can cause lasting harm.",
+      "claims": [
+        "Alleges that impressionable girls are led to believe that what is happening is right.",
+        "Alleges that girls experience psychological abuse even where physical sex does not occur.",
+        "Alleges that girls are threatened with the release of photographs and audio recordings.",
+        "Alleges that repeated touching by different people can affect a woman’s capacity for emotional connection."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "murder_or_death",
+        "gang_rape",
+        "child_sexual_abuse",
+        "drugging_intoxication",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.31,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "FIR / एफआईआर",
+        "Sion",
+        "murder / death",
+        "gang rape / સામૂહિક બળાત્કાર",
+        "child sexual abuse / minor abuse",
+        "drugging / intoxication",
+        "blackmail / extortion"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-influence-and-coercion.md"
     }
   ]
 }
