@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 32,
+    "total_entries": 33,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -1708,6 +1708,49 @@
         "gang rape / સામૂહિક બળાત્કાર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/responses-to-comments.md"
+    },
+    {
+      "video_id": "DcxnB7Z03h0",
+      "youtube_url": "https://www.youtube.com/watch?v=DcxnB7Z03h0",
+      "title_gu": "પુષ્ટિમાર્ગ માં ભવાડા કે ભવાડા ઓ માં ફસાયેલ પુષ્ટિમાર્ગ",
+      "title_en": "Questions About Pushtimarg Customs and Darshan",
+      "language": "gu",
+      "published_date": "2026-01-16",
+      "duration_seconds": 4569,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that the teachings of the Shikshapatra are being set aside and questions how customs are applied. The speaker also uses a hypothetical five-crore-rupee payment to raise a question about personal access to Thakurji.",
+      "claims": [
+        "Alleges that the teachings of the Shikshapatra are being set aside.",
+        "Alleges that citing a Vahuji’s passing as the occasion for writing the Shikshapatra does not justify limiting its recitation to such occasions.",
+        "Alleges that the custom is to avoid saying Swamiji’s name directly.",
+        "Alleges that a payment of five crore rupees might secure access to touch Thakurji’s feet."
+      ],
+      "tags": [
+        "Angikar",
+        "Coercion / trapping"
+      ],
+      "flags": [
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.18,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Thakurji",
+        "satsang / સત્સંગ",
+        "Sion",
+        "Shikshapatra",
+        "Barsana",
+        "charan sparsh / ચરણ સ્પર્શ",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-pushtimarg-customs-and-darshan-dcxnb7z03h0.md"
     }
   ]
 }
