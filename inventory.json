@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 112,
+    "total_entries": 113,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -5813,6 +5813,64 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/conflict-and-religious-violence.md"
+    },
+    {
+      "video_id": "dFnfcDO4i0o",
+      "youtube_url": "https://www.youtube.com/watch?v=dFnfcDO4i0o",
+      "title_gu": "धर्म रक्षा अभियान",
+      "title_en": "Religious Protection and Allegations of Exploitation",
+      "language": "gu",
+      "published_date": "2024-08-20",
+      "duration_seconds": 2965,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that women and girls are being trapped and sexually exploited, and accuses intermediaries of helping facilitate it. The speaker threatens to target those intermediaries first.",
+      "claims": [
+        "Alleges that girls may be trapped and sexually exploited.",
+        "Alleges that women relatives are sent to sleep with people before others are offered to them.",
+        "Alleges that intermediaries facilitate the exploitation.",
+        "Alleges that young girls are given sexual explanations involving Krishna."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.32,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "FIR / एफआईआर",
+        "Surat / सूरत",
+        "Junagadh / જુનાગઢ",
+        "charan sparsh / ચરણ સ્પર્શ",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "child harm / kidnapping / custody",
+        "HIV / STD / pregnancy / abortion"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/religious-protection-and-allegations-of-exploitation.md"
     }
   ]
 }
