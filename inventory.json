@@ -21,6 +21,26 @@
       "reviewed_at": null
     },
     {
+      "video_id": "FInbRTgpox4",
+      "youtube_url": "https://www.youtube.com/watch?v=FInbRTgpox4",
+      "slug": "woman-describes-attempts-to-trap-her-in-the-angikar-practice",
+      "title_gu": "અંગીકાર પ્રથા માં ફસાવા નો. પ્રયત્ન કરાયેલી એક પીડાતા વૈષ્ણવ ની આપવીતી",
+      "title_en": "Woman Describes Attempts to Trap Her in the Angikar Practice",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "not stated",
+      "summary_en": "In this video, the speaker alleges that a Goswami Balak tried to pull her into angikar leela, came to her house at night, and that she saw the same practice on yatra and in other homes.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/woman-describes-attempts-to-trap-her-in-the-angikar-practice.md",
+      "status": "published",
+      "contains_named_private_persons": true,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T06:52:56Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    {
       "video_id": "GrTlSA2xf2I",
       "youtube_url": "https://www.youtube.com/watch?v=GrTlSA2xf2I",
       "slug": "speaker-explains-why-she-still-visited-the-haveli-after-misconduct",
