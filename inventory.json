@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 92,
+    "total_entries": 93,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4831,6 +4831,45 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-during-pilgrimages.md"
+    },
+    {
+      "video_id": "3q35vReV-7A",
+      "youtube_url": "https://www.youtube.com/watch?v=3q35vReV-7A",
+      "title_gu": "પુષ્ટિમાર્ગ - નિષ્કામ ભક્તિ માર્ગ - એક સંવાદ",
+      "title_en": "Devotion and Religious Practice in Pushtimarg",
+      "language": "gu",
+      "published_date": "2024-03-05",
+      "duration_seconds": 2282,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker rejects the idea that sex can purify a person or grant access to divine play, and discusses devotion and religious teachings. The speaker urges listeners to attend to foundational texts before discussing more advanced devotional themes.",
+      "claims": [
+        "Alleges that some people claim sex can purify them or grant access to divine play.",
+        "Alleges that such a claim is incompatible with the purpose of the body given for service.",
+        "Alleges that describes a transformation of rajoguna in connection with devotional depictions.",
+        "Alleges that urges listeners to study foundational texts before discussing advanced devotional themes."
+      ],
+      "tags": [
+        "Angikar",
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "group_sexual_ritual",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.1,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "FIR / एफआईआर",
+        "Pichwai",
+        "charan sparsh / ચરણ સ્પર્શ",
+        "kotadi satsang / group sex ritual"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/devotion-and-religious-practice-in-pushtimarg.md"
     }
   ]
 }
