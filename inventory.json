@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 66,
+    "total_entries": 67,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3503,6 +3503,57 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/campaign-against-the-angikar-practice-mqkygqzq97e.md"
+    },
+    {
+      "video_id": "2eVzkh9uiQU",
+      "youtube_url": "https://www.youtube.com/watch?v=2eVzkh9uiQU",
+      "title_gu": "અંગીકાર પ્રથા માં પોતાની બેન અને દીકરી સાથે થયેલ ઘટના  વૈષ્ણવ બેન",
+      "title_en": "A Woman’s Account of Her Sister and Daughter",
+      "language": "hi",
+      "published_date": "2025-05-04",
+      "duration_seconds": 127,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that a man associated with a temple harmed her sister and made an inappropriate remark to her daughter during a video call.",
+      "claims": [
+        "Alleges that a temple-associated man did not spare her sister.",
+        "Alleges that her sister became mentally unwell.",
+        "Alleges that the man asked whether her daughter was alone during a video call.",
+        "Alleges that he made a suggestive remark about her daughter’s hair and mountain peaks."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "First-hand"
+      ],
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.22,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Thakurji",
+        "Mahaprabhuji",
+        "video call",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "grooming",
+        "family grooming / community pressure",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/a-womans-account-of-her-sister-and-daughter.md"
     }
   ]
 }
