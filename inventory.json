@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 94,
+    "total_entries": 95,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4925,6 +4925,52 @@
         "blackmail / extortion"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/threats-accounts-and-allegations.md"
+    },
+    {
+      "video_id": "ZOd8QPmPqwE",
+      "youtube_url": "https://www.youtube.com/watch?v=ZOd8QPmPqwE",
+      "title_gu": "જાદુ તેરી નઝર",
+      "title_en": "Requests for Information and Proposed Action",
+      "language": "gu",
+      "published_date": "2025-04-29",
+      "duration_seconds": 585,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges sexual misconduct and asks for names, addresses, and information about people he says are involved in the Angikar practice. He says he intends to involve police and take further action.",
+      "claims": [
+        "Alleges that people are involved in the Angikar practice.",
+        "Alleges that a chairman had sex with someone's sister.",
+        "Alleges that people are running brothels.",
+        "Alleges that those concerned should face adultery accusations."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.13,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "Vaishnav / વૈષ્ણવ",
+        "police",
+        "gopi",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual",
+        "grooming",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/requests-for-information-and-proposed-action.md"
     }
   ]
 }
