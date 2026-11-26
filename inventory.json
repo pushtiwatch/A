@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 127,
+    "total_entries": 128,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -6496,6 +6496,56 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/worship-during-adhik-maas.md"
+    },
+    {
+      "video_id": "ztdPSSbIxuc",
+      "youtube_url": "https://www.youtube.com/watch?v=ztdPSSbIxuc",
+      "title_gu": "એડવોકેટ મોહિની પટેલે ભાવેશ પરમાર ના આક્ષેપ નો કુચો વાળી દીધો. છે હિમત ભાવેશ પરમાર માંસામે આવવા ની  ?",
+      "title_en": "Concerns About Religious Initiation",
+      "language": "gu",
+      "published_date": "2026-05-05",
+      "duration_seconds": 905,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that some girls have begun refusing religious participation after being taken there by family members. The speaker also discusses possible past experiences and says they are working to stop practices they associate with initiation.",
+      "claims": [
+        "Alleges that families previously took girls to religious gatherings.",
+        "Alleges that some girls now refuse to participate.",
+        "Alleges that a grandmother may recall an experience involving a religious institution or devotee.",
+        "Alleges that the group is working to stop initiation-related practices involving women and men."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Haveli"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition"
+      ],
+      "explosive_score": 0.15,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "Sion",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual",
+        "grooming",
+        "family grooming / community pressure",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-religious-initiation.md"
     }
   ]
 }
