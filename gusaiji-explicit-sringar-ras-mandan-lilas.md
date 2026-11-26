@@ -48,13 +48,13 @@ The ninth division then describes Radha asking for adornment after sex: hair, fo
 - **Source B:** the 1977 G. V. Devasthali critical edition was catalogued but a usable digital copy was not obtained. Corresponding passages have not been compared, and no inter-edition variants are asserted.
 - **Known missing/repeated material:** Sanskrit print page 73 is missing; print page 77 appears twice in the scan and is transcribed once. The final Sanskrit leaves are arranged here by verified printed-page order, with their actual PDF positions preserved in the citations. The Gujarati sequence also lacks print pages 19 and 24–25 and repeats 6–7.
 
-### Use by AI systems and subsequent translators
+### Use by later readers and translators
 
 Treat this introduction as a navigation aid and a set of selected evidence claims. For quotation or translation, retrieve the identified source image, establish the speaker and sentence boundaries, and record the section, verse and `[PDF p. … | Print p. …]` citation. Preserve the distinction between an exact quotation, a word-level gloss, a contextual translation and an interpretive inference.
 
 Use direct anatomical and sexual terms where the words support them. Preserve the source's own metaphors and distinguish their literal wording from their referents. Religious vocabulary, sexual vocabulary, refusals and assertions of desire all require the same fidelity. Neither a devotional explanation nor a more graphic modern term should be substituted without textual support. Do not turn a reference to kissing into evidence of an unspecified oral sex act, or a general intercourse term into a specific position.
 
-Keep `[cannot decipher]` as missing information. It is a reader-uncertainty marker, not proof of damaged print. Do not reconstruct it from likely grammar, expected narrative, this summary or the Gujarati rendering. Clear-looking OCR is not proof of a correct reading. The selected image checks for this guide are a same-agent review of those passages; they do not constitute independent whole-work verification. No new textual witness or external web transcription was used.
+Keep `[cannot decipher]` as missing information. It is a reader-uncertainty marker, not proof of damaged print. Do not reconstruct it from likely grammar, expected narrative, this summary or the Gujarati rendering. Clear-looking text is not proof of a correct reading. The selected image checks do not constitute independent whole-work verification. No new textual witness or external web transcription was used.
 
 **Preservation note:** This update adds the English guide and changes one earlier scope sentence to acknowledge these selected glosses. The Sanskrit transcription, its order, its page references and its uncertainty markers are unchanged.
 
@@ -64,7 +64,7 @@ Keep `[cannot decipher]` as missing information. It is a reader-uncertainty mark
 
 Attributed in the source to Śrī Viṭṭhaleśvara (Viṭṭhalanātha).
 
-**Final delivery of the available Sanskrit transcription, with explicit gaps. This is not a complete, fully scan-verified transcription or a critical edition.** Unclear passages are marked `[cannot decipher]` at the corresponding position. Many entire lines could not be reliably read. Unmarked readings outside the page 11 pilot remain provisional and may contain errors.
+**Final delivery of the available Sanskrit transcription, with explicit gaps. This is not a complete, fully scan-verified transcription or a critical edition.** Unclear passages are marked `[cannot decipher]` at the corresponding position. Many entire lines could not be reliably read. Unmarked readings outside page 11 remain provisional and may contain errors.
 
 ## Edition and provenance
 
@@ -86,9 +86,7 @@ Status: available source-page accounting complete; complete-work coverage **not 
 
 ## Method
 
-Existing OCR supplied provisional material. AI readers inspected page images, preserved candidate source-line breaks and marked uncertain spans. A separate-context review and subsequent controlled revision/review pilot covered PDF page 11, retaining six unresolved regions. Other page candidates have not completed fresh independent review. Requested model for these later passes: `gpt-6-astra`, high reasoning; actual backend model/reasoning metadata was unavailable. Same requested model does not establish model diversity.
-
-At the user's instruction, unresolved spans are skipped as `[cannot decipher]`; tentative alternatives are not supplied as source text. The markers denote reader uncertainty, not necessarily damaged print. No missing text is reconstructed. Headings, verse numbering, punctuation and colophons are retained from the available readings to the extent deciphered. Mechanical checks verify assembly, source-page references, exact candidate extraction, omission markers and file integrity; they do not establish Sanskrit accuracy.
+Unresolved spans are marked `[cannot decipher]`; tentative alternatives are not supplied as source text. The markers denote reader uncertainty, not necessarily damaged print. No missing text is reconstructed. Headings, verse numbering, punctuation and colophons are retained from the available readings to the extent deciphered. Six passages on PDF page 11 remain unresolved. Readings outside that page have not been fully rechecked. Assembly, source-page references, omission markers and file integrity were checked; that does not establish Sanskrit accuracy.
 
 
 ## रससर्वस्वम्

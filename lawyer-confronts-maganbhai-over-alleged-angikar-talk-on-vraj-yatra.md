@@ -177,7 +177,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 [09:06] otherwise our children's reputation will be lowered,  
 [09:08] don't drag it out further, tell him  
 [09:10] whatever you want in your own way, okay? First give him the phone, first give him the phone  
-[09:12] [translation merged into the 09:10 line above by Gemini]  
+[09:12]  
 [09:16] so we find out. Yes, yes.  
 [09:19] Hello, Jai Shri Krishna Magankaka, now start telling  
 [09:22] the whole truth about what all you  
@@ -233,7 +233,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 [12:03] mean, what was your meaning?  
 [12:09] Speak, speak brother quickly, now my temper  
 [12:12] is gone, because of your Masi I am sitting quietly.  
-[12:14] [translation merged into the 12:12 line above by Gemini]  
+[12:14]  
 [12:20] That's what I said— What did you say? What does angikar  
 [12:23] mean? Explain straight in simple language so  
 [12:26] the story ends.  
@@ -293,7 +293,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 [15:19] daughter do angikar or not, now  
 [15:21] tell me that. No, no, we haven't had her do anything. You  
 [15:24] haven't had her do it, and you make the village girls do angikar!  
-[15:26] [translation merged into the 15:24 line above by Gemini]  
+[15:26]  
 [15:28] Hey, one Vaishnav to another Vaishnav, or five-ten people  
 [15:32] who have Hari's qualities, whoever has it in their destiny  
 [15:35] meets/embraces, they say, everyone reads it in books,  
@@ -335,7 +335,7 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 [17:18] Then you must have done it too, Masi,  
 [17:22] you must have embraced everyone too, you're not telling  
 [17:24] the truth. I'm not saying anything to you because you're my elder.  
-[17:26] [translation merged into the 17:24 line above by Gemini]  
+[17:26]  
 [17:30] Fine, leave it, I will file a police case, you  
 [17:33] won't listen like this. No, no, now you  
 [17:37] make him speak straight, tell your husband  

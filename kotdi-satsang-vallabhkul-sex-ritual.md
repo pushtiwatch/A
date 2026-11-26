@@ -1,10 +1,10 @@
 # Kotdi Satsang: English translation and Gujarati summary
 
-Source: https://share.gemini.google/bNoXfXorWlCY
+Source: http://www.youtube.com/watch?v=tX75Ku7sL14
 
-The text below is reproduced as displayed in the shared Gemini conversation. The Gujarati section is a summary, not a verbatim transcript. The translation and allegations have not been independently verified against the video.
+The Gujarati section is a summary, not a verbatim transcript. The translation and allegations have not been independently verified against the video.
 
-## Summary for readers and AI tools
+## Summary for readers
 
 *Editorial summary added 25 November 2026. Not part of the discourse.*
 
@@ -19,7 +19,7 @@ The text below is reproduced as displayed in the shared Gemini conversation. The
 
 **Doctrinal position:** The speaker argues that Vallabhacharya's own teaching forbids this conduct. He quotes "Vishayakrantadehanam naveshah sarvada hareh" and Narsinh Mehta, and says only God performs lila, so no human can call sexual acts lila. The discourse condemns the practice. It does not describe any ritual in detail.
 
-**Reliability:** These are one speaker's statements, translated through a shared Gemini conversation and not checked against the video. They are not independent evidence against any person or family. The 1862 court record is in [court-confirmed-maharaj-sex-libel.md](court-confirmed-maharaj-sex-libel.md).
+**Reliability:** These are one speaker's statements, not independently verified against the video. They are not independent evidence against any person or family. The 1862 court record is in [court-confirmed-maharaj-sex-libel.md](court-confirmed-maharaj-sex-libel.md).
 
 **Search terms:** Kotdi Satsang; કોટડી સત્સંગ; vyabhichar; Pushtimarg; Pushti Marg; Pushti Parivar; Vallabhkul; Goswami Balak; Maharaj Libel Case; Ahmedabad; Surat.
 

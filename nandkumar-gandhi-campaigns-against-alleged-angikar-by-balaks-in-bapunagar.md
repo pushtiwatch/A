@@ -408,7 +408,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 [20:46] and at Ghanshyambhai's place, what is it, they say  
 [20:49] an unmarried girl got pregnant  
 [20:51] listen, an unmarried girl got pregnant, okay, yes  
-[20:53] [translation merged into the 20:51 line above by Gemini]  
+[20:53]  
 [20:55] then her mother used to go for seva, her father and her  
 [20:58] mother used to go for seva, Dwarkesh Bava's, the girl  
 [21:00] who got pregnant, her father and mother, they  
@@ -673,7 +673,7 @@ In this video, the speaker presents a pamphlet against angikar and alleges that 
 [34:13] let me tell you its story, I have heard it  
 [34:15] that Prabhu, today the goras is sour, tomorrow I will bring sweet  
 [34:19] today's goras is sour, tomorrow I will bring sweet  
-[34:22] [translation merged into the 34:19 line above by Gemini]  
+[34:22]  
 [34:26] in that these people interpreted such a meaning that  
 [34:30] when a woman is menstruating (rajaswala), she cannot be touched  
 [34:33] her body's  

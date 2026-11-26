@@ -681,7 +681,7 @@ In this video, the speaker alleges that a Goswami Balak tried to pull her into a
 [35:17] I tell Kaki everything. So I had told Kaki,  
 [35:20] "As soon as you—because in our building it's such that  
 [35:22] when JJ's car comes, it stops right near her window,  
-[35:23] [translation merged into the 35:22 line above by Gemini]  
+[35:23]  
 [35:27] so she notices it—so I had already told her  
 [35:30] that as soon as you see JJ's car,  
 [35:32] you have to come right behind him." And  

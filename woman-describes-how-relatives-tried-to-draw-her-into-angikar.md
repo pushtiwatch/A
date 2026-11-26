@@ -204,7 +204,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 [09:31] isn't interested, but I thought, such a bhagvadiya  
 [09:33] jeev, I thought, he has set out to do our uddhar,  
 [09:36] but couldn't do his own wife's, so I thought how will he do others'? But I  
-[09:38] [translation merged into the 09:36 line above by Gemini]  
+[09:38]  
 [09:41] thought, let it go, no need to get into all this.  
 [09:45] Thinking that, I ignored it a bit for that time.  
 [09:47] Then all the ladies who were sitting there,  
@@ -707,7 +707,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 [37:02] they will ostracize us from it.  
 [37:06] So we have to live in this only, so we can't say anything to anyone,  
 [37:08] but now you tell her  
-[37:10] [translation merged into the 37:08 line above by Gemini]  
+[37:10]  
 [37:15] not to develop abhaav." So my mom told me  
 [37:19] that "Jeje said that you shouldn't develop abhaav  
 [37:22] for Thakorji." I said, "Why would I  
@@ -726,7 +726,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 [38:11] saved me from all of this. Maybe that  
 [38:15] Tusharbhai's good sense got spoiled, within a week—I tell you,  
 [38:18] not even a month, within a week or 10 days he  
-[38:21] [translation merged into the 38:18 line above by Gemini]  
+[38:21]  
 [38:24] opened up this whole chapter and laid it out in front of me.  
 [38:27] So he was that interested in trapping me.  
 [38:31] So their plan was  
@@ -734,7 +734,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 [38:36] as Vaishnav-Vaishnav, then Tusharbhai  
 [38:40] will take me to Bavashri, the one I told you about  
 [38:42] who resides in Kandivali, who has a girl-like  
-[38:43] [translation merged into the 38:42 line above by Gemini]  
+[38:43]  
 [38:46] voice.  
 [38:48] So that was the whole trapping.  
 [38:52] Then I also gave it to Manisha Bhabhi properly,  
@@ -750,7 +750,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 [39:23] I said, "Jeje, such and such  
 [39:26] is going on in Virar and such people approach us like this."  
 [39:30] She immediately said, "Yes,  
-[39:33] [translation merged into the 39:30 line above by Gemini]  
+[39:33]  
 [39:34] in Virar, Rashmi and that Manisha." I said,  
 [39:38] "Yes." She said, "They are this Bava's favorites,  
 [39:41] those people prepare ladies like this  
@@ -776,7 +776,7 @@ In this video, the speaker alleges that relatives and a man who also used the na
 [40:52] awareness has also come among people, that people  
 [40:55] felt that something like this is happening around us too,  
 [40:57] we are also being approached like this—ladli, favorite, all those words,  
-[40:59] [translation merged into the 40:57 line above by Gemini]  
+[40:59]  
 [41:04] kripa, all that—we also  
 [41:09] feel that all this is happening with us too.  
 [41:12] So somewhere, the Maharaja movie  

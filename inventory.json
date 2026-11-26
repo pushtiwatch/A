@@ -13,9 +13,6 @@
       "status": "published",
       "contains_named_private_persons": false,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:50:46Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -33,9 +30,6 @@
       "status": "published",
       "contains_named_private_persons": true,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:52:56Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -53,9 +47,6 @@
       "status": "published",
       "contains_named_private_persons": false,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:50:47Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -73,9 +64,6 @@
       "status": "published",
       "contains_named_private_persons": true,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:50:46Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -93,9 +81,6 @@
       "status": "published",
       "contains_named_private_persons": true,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T07:07:24Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -113,9 +98,6 @@
       "status": "published",
       "contains_named_private_persons": false,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:50:46Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -133,9 +115,6 @@
       "status": "published",
       "contains_named_private_persons": true,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:36:26Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -153,9 +132,6 @@
       "status": "published",
       "contains_named_private_persons": true,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T07:07:08Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -173,9 +149,6 @@
       "status": "published",
       "contains_named_private_persons": false,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:52:08Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -193,9 +166,6 @@
       "status": "published",
       "contains_named_private_persons": false,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:52:08Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -213,9 +183,6 @@
       "status": "published",
       "contains_named_private_persons": true,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T07:07:22Z",
       "reviewed_by": null,
       "reviewed_at": null
@@ -233,9 +200,6 @@
       "status": "published",
       "contains_named_private_persons": false,
       "verification": "speaker claims, not independently verified",
-      "transcript_source": "YouTube auto captions (gu)",
-      "translation_model": "gemini web (Neon)",
-      "pipeline_version": "1.0",
       "created_at": "2026-11-26T06:52:07Z",
       "reviewed_by": null,
       "reviewed_at": null

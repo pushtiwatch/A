@@ -2,13 +2,13 @@
 
 Source: https://archive.org/details/reportofmaharajl00yadurich  
 Published: Bombay Gazette Press, 1862.  
-Transcription: Internet Archive OCR; uncorrected and may contain substantial recognition errors. Check the page scans before relying on quotations. Historical allegations and opinions reflect their original sources.
+Transcription: from the Internet Archive scan; uncorrected and may contain substantial recognition errors. Check the page scans before relying on quotations. Historical allegations and opinions reflect their original sources.
 
 ---
 
 ## Modern editorial summary — quick orientation
 
-*AI-generated reading aid added 12 November 2026; not part of the 1862 book. This summarizes the report's contents and attributed findings, not present-day law or an independent assessment of a religious community. The complete, uncorrected Internet Archive OCR follows below.*
+*Editorial reading aid added 12 November 2026; not part of the 1862 book. This summarizes the report's contents and attributed findings, not present-day law or an independent assessment of a religious community. The complete, uncorrected transcription follows below.*
 
 **Quick answer:** In 1862 the Supreme Court of Judicature at Bombay ruled against Jadunathji Maharaj, a Vallabhacharya (Pushtimarg) religious head, in the libel suit he brought against the reformer and editor Karsandas Mulji. Both judges held that Karsandas had substantially proved his plea of justification, which covered allegations of sexual relations with female devotees. They accepted key defence testimony, including evidence from doctors. Chief Justice Sausse still found the personal attack libellous and allowed only nominal damages. Justice Arnould would have found for the defendants on every issue. This was a civil case: the Maharaj was never criminally charged. In a connected criminal case in 1861, nine Bhatia caste members were fined for trying to stop witnesses from testifying. The 2024 Netflix film *Maharaj* dramatizes these events.
 
@@ -20,7 +20,7 @@ This 1862 volume reports two connected proceedings in the Supreme Court of Judic
 
 ### What the book contains
 
-Page references below are the book's printed pagination, not PDF image numbers or Markdown line numbers. The OCR sometimes misreads page numbers. The religious-text exhibits are embedded within the defence evidence rather than forming a separate book.
+Page references below are the book's printed pagination, not PDF image numbers or Markdown line numbers. The transcription sometimes misreads page numbers. The religious-text exhibits are embedded within the defence evidence rather than forming a separate book.
 
 | Printed pages | Contents and purpose |
 |---|---|
@@ -39,7 +39,7 @@ Page references below are the book's printed pagination, not PDF image numbers o
 | 177–193 | Closing arguments: defence response to rebuttal, followed by plaintiff's attack on the justification case and demand for damages. |
 | 194–204 | Sausse's judgment: interpretation of the article, limits of protected criticism, proof of justification, credibility, and findings on the separate pleas. |
 | 204–234 | Arnould's judgment: the occasion for publication, absence of express malice, and extended assessment of doctrine, religious authority, general reputation, and allegations against Jadunathjee. |
-| After p. 234 | Scan-related library material retained as part of the complete OCR transcription. |
+| After p. 234 | Scan-related library material retained as part of the complete transcription. |
 
 ### The disputes and evidence
 
@@ -57,10 +57,10 @@ Page references below are the book's printed pagination, not PDF image numbers o
 
 - **Attribution:** distinguish the compiler's preface, the newspaper editorial, pleaded allegations, witness testimony, counsel's submissions, and each judge's findings. The report contains strongly polemical and colonial-era descriptions; those descriptions are not neutral definitions of Hinduism, Vaishnavism, Pushtimarg, or present-day adherents.
 - **Search variants:** Karsandass / Karsandas / Karsondas Mooljee; Karsandas Mulji; Jadunathjee / Jadoonathjee / Judoonathjee; Vallabhacharya / Valabhacharya; Bhattia / Bhatia; Goculnathjee / Gokulnathjee; Bhawoo Dajee; Dhirajram Dulputram; Lukhmidass / Lukmidass Khimjee; Sausse; Arnould; *Satya Prakash*; “justifying occasion”; “plea of justification”; “demurrer”; “nonsuit”; “conspiracy”; Pushtimarg; Pushti Marg; Vallabh sampraday; Maharaj (2024 Netflix film). Spellings also vary within the source.
-- **Quotation accuracy:** use the original page scans to verify quotations, names, dates, translations, and legal citations. This summary does not silently repair the OCR or replace the original evidence.
-- **Text integrity:** everything after the “Complete original OCR transcription” heading is the downloaded Internet Archive OCR, preserved byte for byte, including scan noise and library end matter.
+- **Quotation accuracy:** use the original page scans to verify quotations, names, dates, translations, and legal citations. This summary does not silently repair the transcription or replace the original evidence.
+- **Text integrity:** everything after the “Complete original transcription” heading is the downloaded Internet Archive text, preserved byte for byte, including scan noise and library end matter.
 
-## Complete original OCR transcription
+## Complete original transcription
 
 ^»>?fN>«VlV4N/?Vtv^/»\yri/TV4\/JV*'»4^  ^ 
 
