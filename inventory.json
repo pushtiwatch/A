@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 40,
+    "total_entries": 41,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -2109,6 +2109,62 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/response-to-requests-for-a-victims-details.md"
+    },
+    {
+      "video_id": "sQQtF9zk8bY",
+      "youtube_url": "https://www.youtube.com/watch?v=sQQtF9zk8bY",
+      "title_gu": "અંધશ્રદ્ધા અજ્ઞાન અસત્ય અને વ્યક્તિ પૂજા ના વિષચક્ર મા પુષ્ટિમાર્ગ- ઘટસ્ફોટ",
+      "title_en": "Allegations About Religious Leaders and Exploitation",
+      "language": "gu",
+      "published_date": "2024-08-29",
+      "duration_seconds": 5240,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that religious figures exploit followers and describes alleged sexual misconduct involving women and an 18-year-old girl. The speaker urges listeners to question the belief that these figures are Krishna.",
+      "claims": [
+        "Alleges that a religious figure pursued a devotional singer’s wife.",
+        "Alleges that an 18-year-old girl was also pursued.",
+        "Alleges that a religious figure has prolonged sex after taking Viagra and shilajit.",
+        "Alleges that women are passed to three other men, which the speaker calls rape.",
+        "Alleges that followers mistakenly believe these figures are Krishna."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "gang_rape",
+        "child_sexual_abuse",
+        "blackmail_extortion",
+        "individual_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.37,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "FIR / एफआईआर",
+        "Surat / सूरत",
+        "Junagadh / જૂનાગઢ",
+        "gang rape / સામૂહિક બળાત્કાર",
+        "child sexual abuse / minor abuse",
+        "blackmail / extortion",
+        "grooming"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-religious-leaders-and-exploitation.md"
     }
   ]
 }
