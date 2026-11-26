@@ -5,7 +5,6 @@
 **Channel:** Satya ane Samvad (सत्य -संवाद) (Ashish Shah)  
 **Speaker:** not stated  
 **Published:** 2025-05-04  
-**Gujarati original:** [lawyer-confronts-maganbhai-over-alleged-angikar-talk-on-vraj-yatra.gu.md](lawyer-confronts-maganbhai-over-alleged-angikar-talk-on-vraj-yatra.gu.md)
 
 > Speaker's claims, not independently verified. See babawatch.org/legal.
 
@@ -23,506 +22,1507 @@ In this video, the speaker confronts Maganbhai by phone, alleges that he asked t
 
 **Search terms:** angikar અંગીકાર, Vraj yatra વ્રજ યાત્રા, Maganbhai, Magankaka, Bhesan, Marjadi, Thakorji, Vaishnav, Junagadh, Bhavnagar, Ramnikbhai, Balaks, Vaikunth
 
-## Transcript (English, timestamped, smoothed)
+## Transcript (timestamped)
 
-[00:02] Thakorji resides, yes Dada, Thakorji resides, okay  
-[00:05] Thakorji resides at home, but for us it's like something  
-[00:07] Bhagavat ras is attained, of a Vaishnav like you  
-[00:10] we get company, and for us nothing Dada, she has such a strong  
-[00:13] feeling that she gets angikar, and I feel that  
-[00:16] fine, if some grace is showering on her, then you  
-[00:18] show us some way  
-[00:21] Nothing happens ahead, looking at that, nothing happens in a bike  
-[00:26] doesn't happen, the bike matter is different first, that's true  
-[00:29] Dada, that's true, but Dada who does that,  
-[00:32] whom to go to, I don't know  
-[00:36] I have to find out, but I haven't gone deep into it yet  
-[00:39] haven't gone in yet, like that. Dada, you not at all, you, to you Dada  
-[00:42] tell the truth, you have my oath, you, you, you  
-[00:45] tell me, can't you shower any grace? You  
-[00:48] are such a senior Vaishnav, Ramnik  
-[00:50] Dada told me that he is very far ahead, so Dada you  
-[00:55] tell us something, like that, Ramnikbhai  
-[00:58] Huh  
-[01:00] Ramnikbhai, that Ramnikbhai from Bhavnagar  
-[01:03] Hello, then wait, my farm has come, it's like that, hey Dada  
-[01:08] Dada, listen to me, Dada your matter  
-[01:10] listen Dada, yes yes, what I am saying is you  
-[01:14] find some way so our fortune opens, that's what I'm saying  
-[01:16] that's true, but the farm is coming up for us  
-[01:20] this farm is about to arrive. So Dada, you  
-[01:24] were the one who went on the Vraj Yatra, right?  
-[01:27] That's my brother, I haven't gone since  
-[01:31] before, I got caught up in the season today. You  
-[01:35] didn't go on the Vraj Yatra? No, who here  
-[01:38] knows what a Vraj Yatra is like. So you  
-[01:42] didn't go anywhere on the Vraj Yatra? I  
-[01:43] heard you went on the Vraj Yatra and you  
-[01:45] showered a lot of grace on the Vaishnavs there, Dada  
-[01:49] That's someone else, you must have dialed a wrong number then  
-[01:53] No, no Dada, how could it be a wrong number? You  
-[01:55] are the one talking, right? Didn't you go, you met those  
-[01:58] sisters here and you were saying that we  
-[02:00] do angikar for everyone. That's not our job, okay  
-[02:04] brother. You weren't saying that? No, no, no. Then Dada  
-[02:09] someone will find out someday, okay, don't lie  
-[02:12] Speak now, tell the truth, you have my oath  
-[02:14] now look. Okay, we'll meet. No Dada, Dada, Dada  
-[02:19] don't do that Dada, listen to me, you  
-[02:21] listen to me, you went, didn't you, you  
-[02:24] tell the truth, didn't you go on the Vraj Yatra  
-[02:26] go  
-[02:28] Bah  
-[03:10] The person you  
-[03:46] [Music]  
-[03:52] You jiv  
-[04:51] Hello  
-[04:52] Maganbhai speaking? Who is speaking, Masi? Maganbhai  
-[04:57] went on the Vraj Yatra?  
-[05:00] Huh? Did Maganbhai go on the Vraj Yatra?  
-[05:04] Now he has gone, who are you speaking? First answer that,  
-[05:06] answer first whether he went or didn't go, and  
-[05:08] what molestation he did with the sisters there,  
-[05:10] answer me, now I want to talk, I want to  
-[05:15] He molested the sisters, do you know?  
-[05:19] No. Yes, then give him the phone, give it to him, let's  
-[05:22] ask him. Now where are you speaking from? I  
-[05:25] am speaking from my mouth, sister, I am speaking from my mouth  
-[05:27] Now give him, give him the phone so  
-[05:30] we can find out that he talks about doing angikar  
-[05:32] for Vaishnavs, so let's explain to him  
-[05:34] how angikar is done. Give him the  
-[05:36] phone. But he is here, he has gone outside. Just five  
-[05:40] minutes ago he was with you, just five  
-[05:42] minutes ago I talked to him. He  
-[05:45] left the vehicle and went to the shop. Then  
-[05:48] call him, otherwise his game is over today,  
-[05:50] remember that now, the fun he gets from doing angikar  
-[05:53] with women from all over the village at this age,  
-[05:56] I will take all his fun out. Then which  
-[05:59] village are you speaking from, tell me that. Now leave which village I  
-[06:01] am speaking from, leave which village I  
-[06:04] am speaking from, when I send the police to your place  
-[06:06] then you will see, first call him  
-[06:08] once  
-[06:10] Hey listen to me. No Masi, I don't want to listen to you  
-[06:12] I don't want to listen to you  
-[06:14] Masi, you are a Vaishnav, I say Jai Shri  
-[06:16] Krishna to you, don't interfere now  
-[06:18] Give him the phone, that will be a great grace on your part  
-[06:20] towards me. My point is true, your point  
-[06:24] too is true, I will make him understand properly  
-[06:26] No, you, you understand the matter, tell me  
-[06:30] the truth, he told three sisters  
-[06:32] "Do you want to get angikar?" Tell me  
-[06:34] how old is he? Tell the truth  
-[06:38] That's fine, when he comes I will—  
-[06:41] No, are you his wife? Yes, I am his  
-[06:45] wife. Listen to me,  
-[06:47] listen to me Masi. First listen to me,  
-[06:49] tell me the truth, do you go for this  
-[06:52] angikar to some Bawa? I don't  
-[06:55] know anything about that, brother. Then Masi, in the whole  
-[06:58] village, I mean how old is he that he  
-[06:59] gets it up so much that he wants to do angikar  
-[07:02] with all these women? Haven't you had children  
-[07:04] in your house, tell me that Masi, haven't you  
-[07:07] given him children that he needs all this  
-[07:10] across the whole village? That's right,  
-[07:13] I will tell him everything— No Masi, let me tell you one thing,  
-[07:16] until he counts jail bars,  
-[07:18] I won't be happy now. You  
-[07:21] call him right now. Now there was a Marjadi Dada,  
-[07:24] he talked like this and led him astray,  
-[07:27] so he asked about it. I  
-[07:30] apologize and I— No apology,  
-[07:32] you give him the phone first, I want to talk to him.  
-[07:34] Masi, I'm telling you, if he talks to me  
-[07:36] I'll let it go, otherwise the police will come today.  
-[07:38] No, no, don't do anything like that, our  
-[07:41] Vaishnavism will be shamed, brother. Then give him  
-[07:44] the phone first, that's what I'm telling you.  
-[07:46] Yes, yes, I'm giving it, he's upstairs, you— Now give him  
-[07:48] the phone first, tell him calmly  
-[07:51] to tell me the whole truth about what he was doing,  
-[07:53] if he tells the whole truth I will let him go,  
-[07:55] otherwise I won't today— Yes, look  
-[07:58] he's here, I'm giving it to him and telling you,  
-[08:00] now end our matter right here.  
-[08:02] Then Masi, give him, give him  
-[08:05] the phone so I can talk.  
-[08:09] If I feel that he has given it up  
-[08:12] then I'll let it go. Yes, yes, otherwise  
-[08:16] he is a straightforward man.  
-[08:18] Masi, he is not straightforward, he is not straightforward, that's called  
-[08:21] randibaji Masi, all this is called bhadwabaji,  
-[08:24] this hobby he has developed of going after  
-[08:26] all the women in the village, all this is  
-[08:29] his randibaji and bhadwabaji, and on top of that  
-[08:31] he says "I take them to Bawas."  
-[08:33] Which Bawa does he take them to, let him answer, then  
-[08:36] I'll teach that Bawa a lesson too.  
-[08:38] No, no, I will explain to him this much then.  
-[08:41] Don't you explain to him, when the police baton  
-[08:43] hits his ass from behind, everything will come out.  
-[08:45] Now give him the phone so I can talk.  
-[08:47] Listen to me. Masi, give him the phone  
-[08:50] first, Masi give the phone. Look, you  
-[08:53] are my elder, I tell you the truth, I  
-[08:55] shouldn't talk to you in this language, you  
-[08:57] understand, my soul trembles because  
-[09:00] you don't see someone else's sister or daughter. Listen  
-[09:02] to me, I am handing the phone over to him,  
-[09:05] you tell him whatever you want to tell him,  
-[09:06] otherwise our children's reputation will be lowered,  
-[09:08] don't drag it out further, tell him  
-[09:10] whatever you want in your own way, okay? First give him the phone, first give him the phone  
-[09:12]  
-[09:16] so we find out. Yes, yes.  
-[09:19] Hello, Jai Shri Krishna Magankaka, now start telling  
-[09:22] the whole truth about what all you  
-[09:24] did, to whom, what you did there on the Vraj  
-[09:26] Yatra, tell the truth,  
-[09:29] tell the truth okay, don't lie at all.  
-[09:32] Yes, what you say is true, mistake— What did you say?  
-[09:34] What did you tell the sisters, without taking their names  
-[09:37] tell me, what did you tell them?  
-[09:40] Yes, I said that, that's true— What  
-[09:42] did you say?  
-[09:44] Yes, that thing— What? Speak, speak, I want to hear it  
-[09:47] from your own mouth. I said about angikar.  
-[09:50] What angikar? What does doing angikar mean?  
-[09:52] Explain it in plain language, I want to understand.  
-[09:55] That we have to pamper Thakorji and  
-[10:00] please the Vaishnavs— Maganbhai, if you don't want to hear  
-[10:03] mother-sister abuses, speak straight, what does doing angikar  
-[10:05] mean? Otherwise I'll kick your ass  
-[10:08] and everything will come out of your mouth. Then again  
-[10:12] I don't know what it's called. Give the phone to Masi  
-[10:15] now, come on, now I'll show you. Yes.  
-[10:19] Hello Masi, now he's not telling the truth. Yes, I  
-[10:24] asked him what angikar means, so he tells me  
-[10:25] pampering the Vaishnavs' Thakorjis.  
-[10:28] What is the meaning of angikar, let him tell the truth  
-[10:31] Masi, let him tell the truth. Look, you listen  
-[10:35] to me, I consider you my brother and my elder,  
-[10:38] I consider you my own real brother, and  
-[10:40] whatever happens, he is half-witted,  
-[10:43] others instigate him. You tell him to tell the truth  
-[10:46] first, then you keep the phone—  
-[10:50] Tell him whatever it is, speak straight—  
-[10:54] Hello. Huh? That's what I said, what else did I say? What does angikar  
-[10:59] mean? What? Huh? What does angikar mean?  
-[11:04] I don't know anything else about angikar, this is what we—  
-[11:06] Okay, what does angikar mean? One minute, why  
-[11:09] did you go ask women about angikar, why  
-[11:12] didn't you ask men about angikar?  
-[11:16] Bhosadina, I will teach you, speak first!  
-[11:23] Bastard, you had a hobby of going to women,  
-[11:26] to whores, bhosadina you go on Vraj Yatra  
-[11:30] and then do this business, son of a madarchod!  
-[11:32] Now that was a mistake. Then bhosadina, tell the truth,  
-[11:36] speak, which Balaks are involved in this, speak!  
-[11:41] What else, I haven't said anything— Bastard,  
-[11:44] what does angikar mean, first say that!  
-[11:50] Then say it from your mouth!  
-[11:54] That's what I said, but what's the mistake? What does angikar  
-[11:57] mean, what mistake happened? Angikar means doing Thakorji's  
-[11:59] seva, you said, so what mistake happened in Thakorji's  
-[12:01] seva? Tell the truth, what does angikar  
-[12:03] mean, what was your meaning?  
-[12:09] Speak, speak brother quickly, now my temper  
-[12:12] is gone, because of your Masi I am sitting quietly.  
-[12:14]  
-[12:20] That's what I said— What did you say? What does angikar  
-[12:23] mean? Explain straight in simple language so  
-[12:26] the story ends.  
-[12:27] That thing, what angikar is called, I don't  
-[12:32] know what it's called. You don't know what angikar means?  
-[12:35] Have you had children with Masi or not, huh?  
-[12:41] Huh? What does angikar mean?  
-[12:44] If I knew— Who knows? You don't know, right? You don't know,  
-[12:49] right? When the police come, you'll know, right?  
-[12:53] That's what I'm saying—  
-[12:56] Hello. What?  
-[13:00] What it's called, I really don't know. Bhesan  
-[13:03] village is not very far,  
-[13:06] okay? Bhesan village is not very far, when the police come and  
-[13:09] kick your ass twice, you'll immediately know  
-[13:11] what angikar means.  
-[13:14] Now tell me, to which Bawas  
-[13:17] do you send them to do angikar?  
-[13:21] I haven't gone anywhere, I don't know anything about it.  
-[13:24] You went, that's true, it was your mistake, so—  
-[13:27] Everyone says it, so I say it. Because everyone  
-[13:29] says it, what exactly do you say  
-[13:31] then, tell me!  
-[13:34] Huh?  
-[13:35] Huh? What mistake does everyone make that you made  
-[13:40] a mistake just now? Doing angikar is like making a mistake,  
-[13:42] right? Something is wrong, right?  
-[13:44] Doing angikar means—  
-[13:48] I don't understand much about it, so  
-[13:50] how can I tell you? So far you haven't  
-[13:53] done angikar for anyone, right? No, no, no, no.  
-[13:56] You haven't done angikar, right? So you went for the first  
-[13:58] time to do angikar for someone?  
-[14:02] Do you have a son or a daughter, first tell me  
-[14:05] that.  
-[14:07] Who is at your home, sons, daughters, who  
-[14:10] is there?  
-[14:15] Do you have sons, daughters, do you have sons or daughters  
-[14:18] or not? Yes, we have one son and  
-[14:21] one daughter, two. Have you given your son and daughter these  
-[14:24] values that you molest other people's daughters  
-[14:26] just like that?  
-[14:29] We haven't done anything, I haven't looked at anyone.  
-[14:35] Now, the direct question I am  
-[14:39] asking you, give me the answer to it.  
-[14:44] [Music]  
-[14:45] And in this, no Balaks do angikar,  
-[14:49] I was saying—  
-[14:55] So you do angikar? No, I don't do it to anyone,  
-[14:59] but among Vaishnavs, some do it,  
-[15:02] other Vaishnavs, we don't know anything like that.  
-[15:04] So I was asking "Have you had angikar  
-[15:07] or not?" So what does having had angikar  
-[15:09] mean, explain that to me, I want to understand now.  
-[15:13] They say that angikar means meeting/embracing Vaishnavs—  
-[15:16] Okay, fine, have you had your  
-[15:19] daughter do angikar or not, now  
-[15:21] tell me that. No, no, we haven't had her do anything. You  
-[15:24] haven't had her do it, and you make the village girls do angikar!  
-[15:26]  
-[15:28] Hey, one Vaishnav to another Vaishnav, or five-ten people  
-[15:32] who have Hari's qualities, whoever has it in their destiny  
-[15:35] meets/embraces, they say, everyone reads it in books,  
-[15:37] we do satsang about that.  
-[15:41] So what are you trying to say, I want to  
-[15:43] know that. Nothing else, we  
-[15:47] read from books, what comes in dhol/songs, I was saying all that.  
-[15:50] That dhol— Then what was wrong  
-[15:53] in what you said? Just now you said "I made a mistake,"  
-[15:55] so doing angikar is not a mistake, right?  
-[15:58] Why a  
-[16:00] mistake? What I spoke shouldn't be said, but I said it.  
-[16:04] Hey, give the phone to Masi, give the phone to Masi,  
-[16:07] come on, I don't want to talk to you. Hello, Jai  
-[16:10] Shri Krishna Masi, still your husband  
-[16:13] is not telling the truth about what angikar means.  
-[16:18] I'm telling you— Masi, Masi, listen to me,  
-[16:21] no matter how much you butter me up,  
-[16:23] it won't affect me. That's fine, you—  
-[16:26] I'm telling you, tell your husband to speak  
-[16:28] the straight truth right here on the phone.  
-[16:30] It won't take long to bring Bhesan police,  
-[16:33] it's a matter of half an hour or an hour. I  
-[16:36] am a lawyer, I will file a case right now, everything will be exposed.  
-[16:38] That can happen, you're a lawyer, that's true sir,  
-[16:42] but now whatever happened, he is a bit dim-witted.  
-[16:44] No dim-witted or sharp-witted,  
-[16:47] I'm asking what angikar means, let him  
-[16:49] answer me and the matter ends. He has no brains,  
-[16:53] you know what he was saying one day? When Vaishnavs gathered  
-[16:55] in Junagadh, an elderly man spoke,  
-[16:58] what did he say? That face-to-face with each other,  
-[17:00] how we meet face-to-face, just embrace God—  
-[17:03] Masi, angikar means, Masi angikar  
-[17:07] means bodily pleasure (sex), don't try to explain to me, this is not  
-[17:10] the first time that I wouldn't understand,  
-[17:13] so don't explain that to me. I don't know anything,  
-[17:16] that's why I'm saying, do you know what we were told?  
-[17:18] Then you must have done it too, Masi,  
-[17:22] you must have embraced everyone too, you're not telling  
-[17:24] the truth. I'm not saying anything to you because you're my elder.  
-[17:26]  
-[17:30] Fine, leave it, I will file a police case, you  
-[17:33] won't listen like this. No, no, now you  
-[17:37] make him speak straight, tell your husband  
-[17:39] to tell the complete truth. Wait 15 minutes, call  
-[17:42] a Marjadi— No, no, I don't want to ask any Marjadi,  
-[17:45] tell your husband, otherwise in 15 minutes  
-[17:47] the police will come and take both your husband and  
-[17:48] the Marjadi away. The honor of the Balaks  
-[17:52] will be ruined, sir, and the honor of all Vaishnavs will be ruined,  
-[17:54] I will explain to him thoroughly in my own way. You don't  
-[17:57] need to explain anything, you don't need to explain anything.  
-[17:59] Right now you have to make him say on the phone  
-[18:01] what he has done  
-[18:02] so far. Sir, he has never done anything,  
-[18:05] he got influenced by others, I know for sure,  
-[18:07] and I beg you,  
-[18:10] I fold my hands and fall at your feet sir, we made a mistake.  
-[18:12] I'm asking you, why do you say  
-[18:14] a mistake happened, if he says  
-[18:16] that getting angikar means making Vaishnavs do seva,  
-[18:18] then what is the mistake in that? Let him tell the truth  
-[18:21] about what doing angikar means. It must mean what you say,  
-[18:24] I don't know, I have never done such a thing sir,  
-[18:26] and I don't know either,  
-[18:29] and he might have said it on his own, I wouldn't know.  
-[18:31] Fine, if you don't know, he knows, right?  
-[18:33] Then tell him to speak! That's right, what you say  
-[18:37] is true. Then tell him to speak, just tell him  
-[18:39] to speak!  
-[18:42] Now that's enough, whatever it is, sir,  
-[18:45] all Vaishnavs' honor is at stake, Balaks' honor is at stake.  
-[18:49] So you admit that Vaishnavs do this  
-[18:51] and take them to the Balaks, they do this, right?  
-[18:53] Tell the truth, even if you don't name the Balak,  
-[18:56] tell the truth first. No, he has never  
-[18:58] been introduced to any Balaks, he spoke based on others' talk,  
-[19:01] and I'll tell him, it must mean what you say,  
-[19:03] sir, whatever it is, forgive his  
-[19:06] mistake this once, he will never speak anywhere again,  
-[19:09] now I will properly explain everything to him.  
-[19:11] Then I am coming to Bhesan tomorrow,  
-[19:13] give me your address,  
-[19:16] okay? We will meet the police and then talk.  
-[19:18] Come on, I'm hanging up, okay? Now you  
-[19:20] keep the Marjadi called tomorrow, okay? We don't want to go to the police,  
-[19:22] don't want to do anything, we are going to work tomorrow.  
-[19:25] Wherever you go,  
-[19:28] you'll still get caught, right? They would catch us,  
-[19:31] but don't do that sir, whatever happened— No, no, nothing like  
-[19:33] whatever happened, you wait now, I will  
-[19:36] show you, I have asked you 10 times.  
-[19:39] Yes brother, right, that must be the meaning.  
-[19:42] "What I say must be the meaning," why do you  
-[19:45] agree with me? Speak from your own mouth!  
-[19:47] Say that you don't know what your husband's  
-[19:49] deeds are! His deeds— he has never  
-[19:53] spoken anything elsewhere, he got influenced by someone and  
-[19:55] asked, and blurted it out,  
-[19:58] from now on he will never make such a mistake again.  
-[20:00] Fine, leave it, I don't want to argue with you anymore,  
-[20:03] leave it, come on, Jai Shri  
-[20:06] Krishna, okay? Leave it now, tomorrow  
-[20:09] you'll find out what's going to happen. Hello,  
-[20:11] speak, speak, speak! Hello, hello, tell the truth,  
-[20:14] what does angikar mean, then I'll hang up.  
-[20:16] That is what they do with each other, angikar. What  
-[20:22] do they do? Just say it, what do they do,  
-[20:24] do they do it taking off clothes or without taking off clothes,  
-[20:27] tell me! No, no, just embrace. Just embrace, right?  
-[20:32] Really? Then what's the problem with embracing? Then  
-[20:34] if you embrace me, is there no problem, or only  
-[20:36] when a man and woman embrace each other? Hey,  
-[20:39] all of us men and women are Gopijano,  
-[20:42] they say we are Gopis, none of us are counted as men,  
-[20:47] all are counted as Gopis. Then why  
-[20:50] did you say a mistake happened? What regret did you have  
-[20:52] that you are refusing? Then  
-[20:54] angikar should definitely happen, right or not?  
-[20:57] Not all of us Vaishnavs become that, those who are Thakorji's  
-[21:00] angaji jiv— So you confirm  
-[21:04] that angikar does not mean bodily pleasure (sex), right?  
-[21:06] Yes. Tomorrow when the police come, you'll tell the truth,  
-[21:09] right, when you get kicked in the ass?  
-[21:13] I don't understand about that— What do you  
-[21:16] want to do in all this, speak quickly,  
-[21:18] do you want to go to the police or will you tell the truth?  
-[21:22] In truth, I haven't said anything else,  
-[21:25] how can I tell the truth? Then why are you  
-[21:27] scared, we'll meet at the police station tomorrow. No, no, don't do  
-[21:30] anything like that, we do labor work harvesting chickpeas. Then you'll enjoy  
-[21:33] doing labor work now!  
-[21:37] Yes, you'll enjoy doing labor work now. No, no, don't do  
-[21:40] anything like that. Then what do you want to do, speak  
-[21:42] quickly! Speak quickly, it's been 20 minutes,  
-[21:45] you still haven't spoken, why do you want to hear  
-[21:46] more abuses from my mouth?  
-[21:49] Marjadi-Marjadi do it with each other— What do they do,  
-[21:53] I want to know that, what do you people do,  
-[21:55] what do Marjadi-Marjadi do?  
-[21:58] We don't do it. Then who does it,  
-[22:03] give me the name now!  
-[22:05] Nobody says, everyone just says so.  
-[22:10] Give the phone to Masi, come on, let me say Jai Shri Krishna  
-[22:12] to Masi, come on, we're done talking.  
-[22:17] Hello Masi, now I tried a lot,  
-[22:19] your husband is not speaking, now you deal with it,  
-[22:22] your karma knows, I'm getting another call, now you  
-[22:25] handle it, okay? I'll come to Bhesan tomorrow and then  
-[22:27] we'll see. No, no sir, don't do anything like that,  
-[22:30] I fold my hands, forgive the mistake this once. Then  
-[22:33] I'm telling you one last time, tell your husband  
-[22:34] to tell me the truth.  
-[22:37] He'll tell you— No, no, make him say it  
-[22:40] from his own mouth, he wanted to enjoy sexual pleasure,  
-[22:43] right? Make him say the truth from his own mouth, did you want to enjoy  
-[22:46] sexual pleasure? Yes, yes, yes. Speak then, what did you want  
-[22:49] to enjoy?  
-[22:51] Yes, yes, Vaishnav bhav, that's true— What  
-[22:53] did you want to enjoy? Speak, speak from your own mouth!  
-[22:56] What did you want to do?  
-[23:00] That—  
-[23:01] What you say, that— No, no, say it from your mouth,  
-[23:03] say it from your mouth, you wanted to enjoy bodily pleasure (sex),  
-[23:05] right? Yes. Speak, yes, speak from your mouth, say the words  
-[23:10] "bodily pleasure"! Yes, like that, wanted to enjoy  
-[23:14] bodily pleasure. You wanted to enjoy it, right?  
-[23:17] How old are you, Kaka? Huh, how old are  
-[23:21] you? Yes, I'm old. Can you even get it up that you want  
-[23:24] to enjoy bodily pleasure? Huh, can you even get it up that  
-[23:28] you want to enjoy bodily pleasure?  
-[23:31] No, no, no. Aren't your son and daughter married?  
-[23:33] Aren't you ashamed of doing all this business? That's  
-[23:37] true, I made a mistake. The mother-sister abuses  
-[23:39] you just heard, did you hear them wrongly?  
-[23:41] Then—  
-[23:43] That's true, I made a mistake. Come on, tell the truth  
-[23:45] now, which Balaks do you go to? We  
-[23:48] haven't gone anywhere. Tomorrow if I come to Bhesan,  
-[23:51] your condition is going to get very bad,  
-[23:55] remember that. Still haven't gone to anyone anywhere.  
-[23:58] Okay fine, then I'll come to Bhesan tomorrow and meet  
-[24:00] you, okay? Start saying the names quickly, who  
-[24:03] all does this work, which  
-[24:05] Marjadis do it, give names! I don't know, okay?  
-[24:12] I said I made a mistake, but which Marjadis,  
-[24:15] give me the names of which Marjadis! Sir,  
-[24:18] nobody knows in that, whoever is among themselves  
-[24:20] internally, we wouldn't know.  
-[24:22] Give the names Masi, give the names, we have  
-[24:25] sisters and daughters, we aren't going to send our sisters and daughters  
-[24:28] to a brothel!  
-[24:30] You have a daughter, don't we have daughters?  
-[24:32] Everyone has daughters. Then tell us,  
-[24:35] give us the names of which Marjadis  
-[24:37] they go to! Why doesn't he give the Marjadis' names?  
-[24:40] No Marjadi— he just heard some talk  
-[24:43] and spoke about it, he doesn't know anything else.  
-[24:45] No problem Masi, come on, see you tomorrow,  
-[24:47] Jai Shri Krishna. Jai Shri Krishna. And  
-[24:50] when I come tomorrow we'll talk in Bhesan, okay? Jai Shri  
-[24:53] Krishna, don't call me now.  
-[25:07] I apologize to all of you for my language.  
-[25:11] I request all of you not to fall into the hands  
-[25:15] of such lowly people. These people don't have any  
-[25:18] extra powers that if you have sex with them  
-[25:20] you will go to Vaikunth or Vyapi Vaikunth.  
-[25:22] You are not going to find Thakorji here.  
-[25:29] I apologize to all of you for my language.  
-[25:34] If I had not used this language,  
-[25:41] we still would not have been able to know  
-[25:45] how such lowly people trap people.  
-[25:48] This incident happened just now, a  
-[25:51] Vraj Yatra just ended, in that Vraj Yatra, this Kaka  
-[25:54] had this kind of conversation with three sisters,  
-[25:57] asking "Have you had angikar or not?" Vaishnavs,  
-[26:01] if anything like this happens, you must call me,  
-[26:04] I want to catch these people red-handed.  
-[26:08] I have given you this Kaka's number, against this Kaka  
-[26:11] I will 110%, 110% file a complaint,  
-[26:16] keep that in mind, I am telling everyone,  
-[26:20] if you are caught red-handed I will make you  
-[26:23] count jail bars, okay? I asked him  
-[26:27] 10 times, only then did he say from his own mouth what he  
-[26:29] wanted to do.  
-[26:30] That's all, no mangalacharan has been done in this,  
-[26:35] I used inappropriate language,  
-[26:37] but it was necessary, otherwise this man  
-[26:39] would not have spoken. Please forgive me everyone,  
-[26:43] I say again, stay away from such people.  
-[26:48] Bhagavat Smaran to all of you.  
+[00:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=2s) Thakorji resides, yes Dada, Thakorji resides, okay  
+ઠાકોરજી બિરાજે હા દાદા ઠાકોરજી બિરાજ હો  
+
+[00:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=5s) Thakorji resides at home, but for us it's like something  
+ઠાકોરજી બિરાજે ઘરે પણ અમને કેવું કે કઈક  
+
+[00:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=7s) Bhagavat ras is attained, of a Vaishnav like you  
+ભગવત રસ પ્રાપ્ત થાય તમારા જેવા વૈષ્ણવનો  
+
+[00:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=10s) we get company, and for us nothing Dada, she has such a strong  
+સંગ થાય ને અમને કાઈને દાદા એને બહુ એવું  
+
+[00:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=13s) feeling that she gets angikar, and I feel that  
+છે કે એ અંગીકાર થાય ને મારે એવું છે કે  
+
+[00:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=16s) fine, if some grace is showering on her, then you  
+ભલે એની પર કઈ કૃપા વરસતી હોય તો તમે કઈ  
+
+[00:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=18s) show us some way  
+રસ્તો દેખાડો અમને  
+
+[00:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=21s) Nothing happens ahead, looking at that, nothing happens in a bike  
+આગળ તો કાઈ ન થાય એ જોઈ બાઈકમાં થાય ન કાઈ  
+
+[00:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=26s) doesn't happen, the bike matter is different first, that's true  
+ન થાય બાઈકની વાત પેલા અલગ છે સાચી વાત છે  
+
+[00:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=29s) Dada, that's true, but Dada who does that,  
+દાદ દા સાચી વાત છે પણ દાદા કોણ કરે એ  
+
+[00:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=32s) whom to go to, I don't know  
+કોની પાસે જાવું એ નથી ખબર મન તો  
+
+[00:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=36s) I have to find out, but I haven't gone deep into it yet  
+એ મારે જાણવું પડે પણ એ હજી હું ઊંડો નથી  
+
+[00:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=39s) haven't gone in yet, like that. Dada, you not at all, you, to you Dada  
+ઉતરો હજી એમ દાદા તમે જરાય તમે તમને દાદા  
+
+[00:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=42s) tell the truth, you have my oath, you, you, you  
+સાચું બોલો તમને મારા હમ છે તમે તમે તમે  
+
+[00:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=45s) tell me, can't you shower any grace? You  
+મન કો તમે કોઈ કૃપા ન વર્સાવી શકો તમે  
+
+[00:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=48s) are such a senior Vaishnav, Ramnik  
+વૈષ્ણવ આટલા વડીલ છો મને કીધું રમણિક  
+
+[00:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=50s) Dada told me that he is very far ahead, so Dada you  
+દાદાએ મને કે એ તો બહુ આગળ છે ને દાદા તમે  
+
+[00:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=55s) tell us something, like that, Ramnikbhai  
+કાઈ જણાવો એમ રમણિકભાઈ  
+
+[00:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=58s) Huh  
+હ  
+
+[01:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=60s) Ramnikbhai, that Ramnikbhai from Bhavnagar  
+રમણિકભાઈ એ ભાવનગર વાળા રમણિકભાઈ  
+
+[01:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=63s) Hello, then wait, my farm has come, it's like that, hey Dada  
+હાલો પછ મરજ માર ખેતર આવી છે એમ છે એ દાદા  
+
+[01:08](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=68s) Dada, listen to me, Dada your matter  
+દાદા તમે મારી વાત સાંભળો દાદા તમારી વાત  
+
+[01:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=70s) listen Dada, yes yes, what I am saying is you  
+સાંભળો દાદા હાહા હું શું કહું છું તમે  
+
+[01:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=74s) find some way so our fortune opens, that's what I'm saying  
+કાઈક રસ્તો કાઢો અમાર ભાગ ખુલે એમ કહું  
+
+[01:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=76s) that's true, but the farm is coming up for us  
+છું એ વાત હાજી પણ થેટર છે ને અમારે આવે  
+
+[01:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=80s) this farm is about to arrive. So Dada, you  
+છે આ થેટર આગવાની તૈયારી છે તો દાદા તમે  
+
+[01:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=84s) were the one who went on the Vraj Yatra, right?  
+વ્રજ યાત્રા કરવા તમે જ ગયા તા ને  
+
+[01:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=87s) That's my brother, I haven't gone since  
+ઈ મારા ભાઈ છે હું હું તો મા નથી ગયો આજથી  
+
+[01:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=91s) before, I got caught up in the season today. You  
+પહેલા હું તો આજથી જાય મોસમમાં પડ્યો તમે  
+
+[01:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=95s) didn't go on the Vraj Yatra? No, who here  
+વ્રજ યાત્રા કરવા નોતા ગયા ની અહયા કોને  
+
+[01:38](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=98s) knows what a Vraj Yatra is like. So you  
+ખબર છે કેવી વ્રજ યાત્રા હોય એમ તે તમે  
+
+[01:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=102s) didn't go anywhere on the Vraj Yatra? I  
+વ્રજ યાત્રામાં ક્યાંય નોતા ગયા એવું મેં  
+
+[01:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=103s) heard you went on the Vraj Yatra and you  
+સાંભળ્યું તમે વ્રજ યાત્રા ગયા તા ને તમે  
+
+[01:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=105s) showered a lot of grace on the Vaishnavs there, Dada  
+યાં વૈષ્ણવ પર બહુ કૃપા વર્ષાવીને દાદા  
+
+[01:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=109s) That's someone else, you must have dialed a wrong number then  
+ઈ તો બીજા તમારો રોંગ નંબર લાગતો હશે તો  
+
+[01:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=113s) No, no Dada, how could it be a wrong number? You  
+ના ના દાદા ક્યાંથી રોંગ નંબર લાગે એ તમે  
+
+[01:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=115s) are the one talking, right? Didn't you go, you met those  
+જ વાત કરોને તમે નોતા ગયા તમે અહયા પેલા  
+
+[01:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=118s) sisters here and you were saying that we  
+બેનોને મળ્યા તા ને તમે કહેતા તા કે અમે  
+
+[02:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=120s) do angikar for everyone. That's not our job, okay  
+બધાને અંગીકાર કરીએ છે એ આપણું કામ ની હો  
+
+[02:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=124s) brother. You weren't saying that? No, no, no. Then Dada  
+ભાઈ તમે નોતા કહેતા એવું ની ની ન તે દાદા  
+
+[02:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=129s) someone will find out someday, okay, don't lie  
+એ તો કોકદી ખબર પાડી જાય હો તમે ખોટું ન  
+
+[02:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=132s) Speak now, tell the truth, you have my oath  
+બોલો હવે તમે સાચું બોલો મારી તમને માર હમ  
+
+[02:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=134s) now look. Okay, we'll meet. No Dada, Dada, Dada  
+છે હવે જો હાલો મળશું ના દાદા દાદા દાદા  
+
+[02:19](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=139s) don't do that Dada, listen to me, you  
+એમ ન કરો દાદા તમે મારી વાત સાંભળો તમે  
+
+[02:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=141s) listen to me, you went, didn't you, you  
+મારી વાત સાંભળો એમ તમે ગ્યાતા ને તમે  
+
+[02:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=144s) tell the truth, didn't you go on the Vraj Yatra  
+સાચું બોલ્યો તમે વ્રજ યાત્રા કરવા નોતા  
+
+[02:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=146s) go  
+ગયા  
+
+[02:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=148s) Bah  
+બહ  
+
+[03:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=190s) The person you  
+તમે જે વ્યક્તિને  
+
+[03:46](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=226s) [Music]  
+[સંગીત]  
+
+[03:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=232s) You jiv  
+તમે જીવ  
+
+[04:51](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=291s) Hello  
+હલો  
+
+[04:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=292s) Maganbhai speaking? Who is speaking, Masi? Maganbhai  
+મગનભાઈ વાત કરે તમે કોણ બોલો માસી મગનભાઈ  
+
+[04:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=297s) went on the Vraj Yatra?  
+ગયા વ્રજ યાત્રામાં  
+
+[05:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=300s) Huh? Did Maganbhai go on the Vraj Yatra?  
+હે વ્રજ યાત્રામાં મગનભાઈ ગયા હતા  
+
+[05:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=304s) Now he has gone, who are you speaking? First answer that,  
+હવે જ્યા છે તમે કોણ બોલો પહેલા એ જવાબ  
+
+[05:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=306s) answer first whether he went or didn't go, and  
+આપો પેલા કે ગયા હતા કે નોતા ગયા ને એમને  
+
+[05:08](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=308s) what molestation he did with the sisters there,  
+ત્યાં બેનો સાથે શું છેડતી કરી હતી જરા  
+
+[05:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=310s) answer me, now I want to talk, I want to  
+જવાબ આપો મને હવે વાત કરવી છે હું એમને  
+
+[05:15](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=315s) He molested the sisters, do you know?  
+બેનો સાથે છેડતી કરી હતી તમને ખબર છે?  
+
+[05:19](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=319s) No. Yes, then give him the phone, give it to him, let's  
+નહીં હા તો આપો એમને ફોન આપોને એમને જરા  
+
+[05:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=322s) ask him. Now where are you speaking from? I  
+પૂછીએ આપણે હવે તમે ક્યાંથી બોલો છો હું  
+
+[05:25](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=325s) am speaking from my mouth, sister, I am speaking from my mouth  
+મોઢેથી બોલું છું બેન હું મોઢેથી બોલું  
+
+[05:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=327s) Now give him, give him the phone so  
+છું હવે જયારે બે એમને એમને આપો ફોન તો  
+
+[05:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=330s) we can find out that he talks about doing angikar  
+જરા ખબર પડે કે એ વૈષ્ણવોને અંગીકાર  
+
+[05:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=332s) for Vaishnavs, so let's explain to him  
+કરવાની વાત કરે છે ને તો એમને સમજાવવું કે  
+
+[05:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=334s) how angikar is done. Give him the  
+અંગીકાર કેવી રીતે કરાવાય છે આપો એમને જરા  
+
+[05:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=336s) phone. But he is here, he has gone outside. Just five  
+ફોન પણ આયા છે બહાર ગયા છે હમણાં પાંચ  
+
+[05:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=340s) minutes ago he was with you, just five  
+મિનિટ પહેલા તમારી સાથે હતા હમણાં પાંચ  
+
+[05:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=342s) minutes ago I talked to him. He  
+મિનિટ પહેલા તો વાત થઈ છે એમની સાથે એ  
+
+[05:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=345s) left the vehicle and went to the shop. Then  
+છેને ગાડી મૂકીને દુકાને ગયા તો એમને  
+
+[05:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=348s) call him, otherwise his game is over today,  
+બોલાવો એની તો એમ એમનું આજે પૂરું થઈ ગયું  
+
+[05:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=350s) remember that now, the fun he gets from doing angikar  
+છે હવે યાદ રાખે એમને જે ગામ ભરના બૈરાઓને  
+
+[05:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=353s) with women from all over the village at this age,  
+અંગીકાર કરવાની મજા આવે છે ને આટલી ઉંમરે  
+
+[05:56](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=356s) I will take all his fun out. Then which  
+તો એમની મજા કાઢું હું બાર પછી તમે કઈ  
+
+[05:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=359s) village are you speaking from, tell me that. Now leave which village I  
+ગામથી બોલો એ તો મને હવે હવે હું કઈ ગામથી  
+
+[06:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=361s) am speaking from, leave which village I  
+બોલું છું એ મૂકી દો હવે એ હું કયા ગામથી  
+
+[06:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=364s) am speaking from, when I send the police to your place  
+બોલું છું એ મૂકી દો હું તમારી તે પોલીસ  
+
+[06:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=366s) then you will see, first call him  
+મોકલું ત્યારે તમે જુઓ પછી એમને બોલાવો  
+
+[06:08](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=368s) once  
+પહેલા એકવાર  
+
+[06:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=370s) Hey listen to me. No Masi, I don't want to listen to you  
+એ મારી વાત સાંભળો ના માસી મારે તમારી વાત  
+
+[06:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=372s) I don't want to listen to you  
+નથી સાંભળવી મારે તમારી વાત નથી સાંભળવી  
+
+[06:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=374s) Masi, you are a Vaishnav, I say Jai Shri  
+માસી તમે વૈષ્ણવ છો તમને હું જય શ્રી  
+
+[06:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=376s) Krishna to you, don't interfere now  
+કૃષ્ણ કહું છું તમે હવે વચ્ચે ના પડશો  
+
+[06:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=378s) Give him the phone, that will be a great grace on your part  
+એમને ફોન આપો એ તમારા માટે બહુ કૃપા રહેશે  
+
+[06:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=380s) towards me. My point is true, your point  
+તમારી મારી પર મારી વાત હાચી આ તમારી વાત  
+
+[06:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=384s) too is true, I will make him understand properly  
+પાય હાચી છે હું છે ને એને સમજે રીતે સમજા  
+
+[06:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=386s) No, you, you understand the matter, tell me  
+વીજ ના તમે તમે તમે સમજો વાતને તમે મને  
+
+[06:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=390s) the truth, he told three sisters  
+સાચું કહો એમને ત્રણ બહેનોને એવું કીધું  
+
+[06:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=392s) "Do you want to get angikar?" Tell me  
+છે કે તમારે અંગીકાર થવું છે? મને એમ  
+
+[06:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=394s) how old is he? Tell the truth  
+જણાવો એમની ઉંમર કેટલી છે? સાચું કહો તમા  
+
+[06:38](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=398s) That's fine, when he comes I will—  
+એ તો બરાબર છે હું એને આવશે ને એટલે ના  
+
+[06:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=401s) No, are you his wife? Yes, I am his  
+પાસે ના તમે તમે એમના ઘરવાળા છો? હા એના  
+
+[06:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=405s) wife. Listen to me,  
+ઘરવાળી જ છું તમે મારી વાત હાંભળો તમે  
+
+[06:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=407s) listen to me Masi. First listen to me,  
+મારી વાત સાંભળો માસી. તમે પહેલા મારી વાત  
+
+[06:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=409s) tell me the truth, do you go for this  
+સાંભળો તમે મને સાચું કહી દો કે તમે આ  
+
+[06:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=412s) angikar to some Bawa? I don't  
+અંગીકારમાં જાવ છો કોઈ બાવા પાસે મને એ  
+
+[06:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=415s) know anything about that, brother. Then Masi, in the whole  
+બાબતની કઈ ખબર નથી ભાઈ તો માસી એ આખા  
+
+[06:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=418s) village, I mean how old is he that he  
+ગામમાં એટલે એ કેટલા વર્ષના છે કે એમને  
+
+[06:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=419s) gets it up so much that he wants to do angikar  
+એટલું બધું ઉઠે છે કે એમને આ બધી બૈરાઓને  
+
+[07:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=422s) with all these women? Haven't you had children  
+અંગીકાર કરવા છે તમારા ઘરમાં વસ્તા તમે  
+
+[07:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=424s) in your house, tell me that Masi, haven't you  
+વસ્તા નથી કર્યો મને એમ જણાવો તો માસી તમે  
+
+[07:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=427s) given him children that he needs all this  
+એમને એમને છોકરા નથી દીધા કે એમને ગામ  
+
+[07:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=430s) across the whole village? That's right,  
+ભરમાં આ બધી જરૂર પડે છે એ તો બરાબર છે  
+
+[07:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=433s) I will tell him everything— No Masi, let me tell you one thing,  
+હું એને કઈ બધ ના માસી તમને એક વાત કહી  
+
+[07:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=436s) until he counts jail bars,  
+દઉં એ પોલીસ નહી એ સળિયા નહી નહી ગણે  
+
+[07:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=438s) I won't be happy now. You  
+ત્યાં સુધી મને આનંદ નહી થાય હવે એમ તમે  
+
+[07:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=441s) call him right now. Now there was a Marjadi Dada,  
+એને બોલાવો જરા હવે એને એક દાદા મરજાદી  
+
+[07:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=444s) he talked like this and led him astray,  
+હતા ને એને આવી વાત કરીને એને રવેડે ચડાવી  
+
+[07:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=447s) so he asked about it. I  
+દીધા તા એટલે એને પૂછ્યું છે એની બાબ હું  
+
+[07:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=450s) apologize and I— No apology,  
+માફી માંગી લઉં છું અને હું એના માફી નહી  
+
+[07:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=452s) you give him the phone first, I want to talk to him.  
+તમે એને ફોન આપો પહેલા મારે એમની સાથે વાત  
+
+[07:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=454s) Masi, I'm telling you, if he talks to me  
+કરવી છે માથી હું તમને કહું એ મારી સાથે  
+
+[07:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=456s) I'll let it go, otherwise the police will come today.  
+વાત કરશે તો હું જવા દઈશ નહી તો આજે પોલીસ  
+
+[07:38](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=458s) No, no, don't do anything like that, our  
+આવશે એમ ના ના એ કાઈ કરતા નહી આપણી  
+
+[07:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=461s) Vaishnavism will be shamed, brother. Then give him  
+વૈષ્ણવતા લાજેભાઈ તો પછી એમને તમે એમને  
+
+[07:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=464s) the phone first, that's what I'm telling you.  
+ફોન દઈ દો ને પહેલા એ કહું છું હું તમને  
+
+[07:46](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=466s) Yes, yes, I'm giving it, he's upstairs, you— Now give him  
+હા હા ઈ આપું ઉપર છે ને તમે હવે તમે એમને  
+
+[07:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=468s) the phone first, tell him calmly  
+ફોન દઈ દયો પહેલા તમે એમને શાંતિથી કો  
+
+[07:51](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=471s) to tell me the whole truth about what he was doing,  
+બધું મને સાચું બોલે કે શું શું કરતા હતા  
+
+[07:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=473s) if he tells the whole truth I will let him go,  
+એ બધું સાચું બોલે હું એમને એમને છોડી દઈશ  
+
+[07:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=475s) otherwise I won't today— Yes, look  
+નહી તો હું નહી આજે એમને હા એ જો  
+
+[07:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=478s) he's here, I'm giving it to him and telling you,  
+આવ્યા હું એને દઉં છું અને તમને કહી દયા  
+
+[08:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=480s) now end our matter right here.  
+ને હવે તમે છે ને અહીથી વાત હવે આપણી પૂરી  
+
+[08:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=482s) Then Masi, give him, give him  
+કરી દેજો તો પછી માસી એમને તો મને એમનો  
+
+[08:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=485s) the phone so I can talk.  
+એમનો એમને તમે એમને ફોન આપો એટલે હું વાત  
+
+[08:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=489s) If I feel that he has given it up  
+કરું જો મને મને એમ થશે કે હવે એમને મૂકી  
+
+[08:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=492s) then I'll let it go. Yes, yes, otherwise  
+દીધું છે તો હું મૂકી દઈશ હા હા એ ઓમ છે  
+
+[08:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=496s) he is a straightforward man.  
+ને એ નિખાલત માણસ  
+
+[08:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=498s) Masi, he is not straightforward, he is not straightforward, that's called  
+માસી એ નિખાલસ નથી એ નિખાલસ નથી એને  
+
+[08:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=501s) randibaji Masi, all this is called bhadwabaji,  
+રંડીબાજી કહેવાય માસી આ બધી ભળવાબાજી  
+
+[08:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=504s) this hobby he has developed of going after  
+કહેવાય આ બધા ગામના બૈરાઓને  
+
+[08:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=506s) all the women in the village, all this is  
+નીકળવાનો જે શોખ એમને જાગ્યો છે ને આ બધી  
+
+[08:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=509s) his randibaji and bhadwabaji, and on top of that  
+રંડીબાજીને ભળવાબાજી છે એમની અને પાછા એ  
+
+[08:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=511s) he says "I take them to Bawas."  
+પાછા કહે છે કે હું બાવાઓ પાસે લઈ જઉં છું  
+
+[08:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=513s) Which Bawa does he take them to, let him answer, then  
+કયા બાવા પાસે લઈ જાય જરા જવાબ આપે પછી એ  
+
+[08:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=516s) I'll teach that Bawa a lesson too.  
+બાવાને પણ શીખવાડું  
+
+[08:38](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=518s) No, no, I will explain to him this much then.  
+ના ના એ તો હું આટલી એને સમજાવી દઈશ પછી  
+
+[08:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=521s) Don't you explain to him, when the police baton  
+તમે ના સમજાવશો એને પોલીસની દંડો પાછળ  
+
+[08:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=523s) hits his ass from behind, everything will come out.  
+ગાળીની પાછળ પડશે ને તો એનું બધું બહાર  
+
+[08:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=525s) Now give him the phone so I can talk.  
+આવશે પછી આપો તો એમને ફોન જરા હું વાત  
+
+[08:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=527s) Listen to me. Masi, give him the phone  
+કરું મારી વાત સાંભળો તમે માસી એને ફોન  
+
+[08:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=530s) first, Masi give the phone. Look, you  
+આપો પહેલા માસી તમે ફોન આપો તમે જો તમે  
+
+[08:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=533s) are my elder, I tell you the truth, I  
+મારા વડીલ છો હું તમને સાચું કહું મારે  
+
+[08:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=535s) shouldn't talk to you in this language, you  
+તમારી સાથે આ ભાષામાં વાત ન કરવી જોઈએ તમે  
+
+[08:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=537s) understand, my soul trembles because  
+સમજો મારો જીવ એટલે કંપાઈ છે કેમ કે છે ને  
+
+[09:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=540s) you don't see someone else's sister or daughter. Listen  
+કોઈની બહેન દીકરી તમે જોતા નથી. એ મારી  
+
+[09:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=542s) to me, I am handing the phone over to him,  
+વાત સાંભળો હું તમને એને દઉં છું આગળ ફોન  
+
+[09:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=545s) you tell him whatever you want to tell him,  
+તમે છે ને એને જેટલું કહેવું હોય એટલું  
+
+[09:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=546s) otherwise our children's reputation will be lowered,  
+કહી દો બાકી છે ને આપણા બાળકોનું નીચું  
+
+[09:08](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=548s) don't drag it out further, tell him  
+ગણાય બીજું તમે લાંબી કોરી કરતા નહી એને  
+
+[09:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=550s) whatever you want in your own way, okay? First give him the phone, first give him the phone  
+જેટલું કહેવું હોય એટલું કહી દો તમત તમારી  
+
+[09:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=552s)  
+રીતે હો પેલા ફોન દયો એમને પેલા એમને ફોન  
+
+[09:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=556s) so we find out. Yes, yes.  
+દયો એટલે ખબર પડે હા હા  
+
+[09:19](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=559s) Hello, Jai Shri Krishna Magankaka, now start telling  
+હાલો જય શ્રી કૃષ્ણ મગનકાકા હવે બધું હાચે  
+
+[09:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=562s) the whole truth about what all you  
+હાચું બોલવા માંડો છો કે તમે શું શું  
+
+[09:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=564s) did, to whom, what you did there on the Vraj  
+કર્યું હતું કોણે કોણે તમે ત્યાં વ્રજ  
+
+[09:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=566s) Yatra, tell the truth,  
+યાત્રામાં શું કર્યું હતું સાચું બોલજો તો  
+
+[09:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=569s) tell the truth okay, don't lie at all.  
+સાચું બોલજો હો જરાય ખોટું ન બોલતા  
+
+[09:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=572s) Yes, what you say is true, mistake— What did you say?  
+હા એ વાત તમારે હાસી ભૂલ શું બોલ્યા તા  
+
+[09:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=574s) What did you tell the sisters, without taking their names  
+તમે તમે શું કીધું તું બેનોના નામ લીધા  
+
+[09:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=577s) tell me, what did you tell them?  
+વગર બોલો તો તમે એમને શું કીધું તું  
+
+[09:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=580s) Yes, I said that, that's true— What  
+હા ઈ મેં કીધું તું એ વાત હાસી પડી શું  
+
+[09:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=582s) did you say?  
+કીધું તું  
+
+[09:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=584s) Yes, that thing— What? Speak, speak, I want to hear it  
+હા ઈ વાત તમે શું બોલો તમે બોલો તમારા  
+
+[09:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=587s) from your own mouth. I said about angikar.  
+મોઢેથી મારે સાંભળવું છે અંગીકારનું કીધું  
+
+[09:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=590s) What angikar? What does doing angikar mean?  
+તું શું અંગીકાર અંગીકાર કરવું એટલે શું  
+
+[09:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=592s) Explain it in plain language, I want to understand.  
+જરા સમજાવો ચોખી ભાષામાં તો સમજવું છે  
+
+[09:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=595s) That we have to pamper Thakorji and  
+મારે એ ઠાકોરજીને આપણે લાડ લડાવાના અને  
+
+[10:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=600s) please the Vaishnavs— Maganbhai, if you don't want to hear  
+વૈષ્ણવના પ્રસન્ન મગનભાઈ માં બેનની ગાળો  
+
+[10:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=603s) mother-sister abuses, speak straight, what does doing angikar  
+ના ખાવી હોય તો સીધું સીધું બોલો અંગીકાર  
+
+[10:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=605s) mean? Otherwise I'll kick your ass  
+કરવું એટલે શું? નહી તો ગાંડે લાત મારીશ  
+
+[10:08](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=608s) and everything will come out of your mouth. Then again  
+ને તો બધું મોડામાંથી નીકળશે પછી એ પાછી  
+
+[10:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=612s) I don't know what it's called. Give the phone to Masi  
+મને નથી ખબર એ હું કહેવાય માસીને ફોન આપો  
+
+[10:15](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=615s) now, come on, now I'll show you. Yes.  
+હવે ચાલો હવે તમને બતાવું હું હા  
+
+[10:19](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=619s) Hello Masi, now he's not telling the truth. Yes, I  
+હાલો માસી હવે આ સાચું બોલતા નથી હા એમને  
+
+[10:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=624s) asked him what angikar means, so he tells me  
+મેં પૂછ્યું મે અંગીકાર એટલે શું તો મને  
+
+[10:25](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=625s) pampering the Vaishnavs' Thakorjis.  
+કે વૈષ્ણવના ઠાકોરજીઓને લાડ લડાવવાના એ  
+
+[10:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=628s) What is the meaning of angikar, let him tell the truth  
+અંગીકારનો અર્થ શું છે એમને સાચું બોલે  
+
+[10:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=631s) Masi, let him tell the truth. Look, you listen  
+માસી સાચું બોલે હ જો એ તમે છે ને મારી  
+
+[10:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=635s) to me, I consider you my brother and my elder,  
+વાત સાંભળો તમે મારા ભાઈને મારા વડી ગણું  
+
+[10:38](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=638s) I consider you my own real brother, and  
+છું તમને મારા હગા ભાઈ માનું છું અને તમે  
+
+[10:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=640s) whatever happens, he is half-witted,  
+જીવ હોય એ થાય એને છે ને અડધો આટો નથી  
+
+[10:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=643s) others instigate him. You tell him to tell the truth  
+બીજા તડાવે ન તમે એમને કો સાચું બોલે  
+
+[10:46](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=646s) first, then you keep the phone—  
+પહેલા તો તમે ફોન ચા  
+
+[10:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=650s) Tell him whatever it is, speak straight—  
+તમે હોય એવું કહી દયો સી બોઈ લાવ ક  
+
+[10:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=654s) Hello. Huh? That's what I said, what else did I say? What does angikar  
+હલો હ એજ કીધું બીજું કીધું અંગીકાર એટલે  
+
+[10:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=659s) mean? What? Huh? What does angikar mean?  
+શું શું હ અંગીકાર એટલે શું  
+
+[11:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=664s) I don't know anything else about angikar, this is what we—  
+અંગીકાર એટલે મને બીજી કાઈ ખબર નથી આ આપણે  
+
+[11:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=666s) Okay, what does angikar mean? One minute, why  
+બરાબર અંગીકાર એટલે શું એક મિનિટ કેમ  
+
+[11:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=669s) did you go ask women about angikar, why  
+બૈરાઓને પૂછવા ગયા અંગીકારનું કેમ  
+
+[11:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=672s) didn't you ask men about angikar?  
+પુરુષોને ના પૂછ્યું અંગીકારનું  
+
+[11:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=676s) Bhosadina, I will teach you, speak first!  
+ભોસડીના તને શીખવાડી દઈશ બોલ પેલા  
+
+[11:23](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=683s) Bastard, you had a hobby of going to women,  
+મારીને તારે બૈરાઓને શોખ હતો જઈને  
+
+[11:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=686s) to whores, bhosadina you go on Vraj Yatra  
+રંડીઓને ભોસડીના વ્રજ યાત્રા માં જાય  
+
+[11:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=690s) and then do this business, son of a madarchod!  
+છે ને પછી આપણે ધંધા કરે છે માદરચોદની  
+
+[11:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=692s) Now that was a mistake. Then bhosadina, tell the truth,  
+ઓલાદ હવે એ તો ભૂલ થઈ ગઈ તો ભોસડીના સાચું  
+
+[11:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=696s) speak, which Balaks are involved in this, speak!  
+બોલ બોલ કો કયા બાલકો આમાં ઇનવોલ્વ છે બોલ  
+
+[11:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=701s) What else, I haven't said anything— Bastard,  
+બીજું હું મેં કાઈ નથી કીધું મારીને  
+
+[11:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=704s) what does angikar mean, first say that!  
+અંગીકાર એટલે શું પેલા એ બોલ  
+
+[11:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=710s) Then say it from your mouth!  
+તો બોલ મોળામાંથી  
+
+[11:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=714s) That's what I said, but what's the mistake? What does angikar  
+ઈ તો મેં કીધું પણ ભૂલ શું અંગીકાર એટલે  
+
+[11:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=717s) mean, what mistake happened? Angikar means doing Thakorji's  
+શું ભૂલ શું થઈ ગઈ અંગીકાર એમ તો ઠાકોરજી  
+
+[11:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=719s) seva, you said, so what mistake happened in Thakorji's  
+ની સેવા દઈને તે કીધું તો ઠાકોરજીની  
+
+[12:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=721s) seva? Tell the truth, what does angikar  
+સેવામાં શું ભૂલ થઈ ગઈ સાચું બોલ અંગીકાર  
+
+[12:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=723s) mean, what was your meaning?  
+એટલે શું તારો અર્થ શું હતો  
+
+[12:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=729s) Speak, speak brother quickly, now my temper  
+બોલ બોલો ભાઈ ફટાફટ હવે તો હવે મારું પીતો  
+
+[12:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=732s) is gone, because of your Masi I am sitting quietly.  
+ખસી ગયો તમારા બાસીના લીધે હું ચૂપચાપ  
+
+[12:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=734s)  
+બેઠો છું.  
+
+[12:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=740s) That's what I said— What did you say? What does angikar  
+એમ તો મે કીધું શું કીધું અંગીકાર એટલે  
+
+[12:23](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=743s) mean? Explain straight in simple language so  
+શું? સીધે સીધું સાદી ભાષામાં સમજાવો એટલે  
+
+[12:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=746s) the story ends.  
+વાર્તા પતી  
+
+[12:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=747s) That thing, what angikar is called, I don't  
+જાય એ આપણે ઓલું અંગીકાર શું કહેવાય એ મને  
+
+[12:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=752s) know what it's called. You don't know what angikar means?  
+ખબર હું કહેવાય અંગીકાર એટલે શું નથી ખબર  
+
+[12:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=755s) Have you had children with Masi or not, huh?  
+તમને માસીથી વસ્તાર થયો છે કે નથી થયો હે  
+
+[12:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=761s) Huh? What does angikar mean?  
+હે અંગીકાર એટલે શું  
+
+[12:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=764s) If I knew— Who knows? You don't know, right? You don't know,  
+ઈ ખબર હોય તો કોને ખબર નથી ખબર ને નથી ખબર  
+
+[12:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=769s) right? When the police come, you'll know, right?  
+ને પોલીસ આવશે તો ખબર પડશે ને  
+
+[12:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=773s) That's what I'm saying—  
+એ હું કહ છું  
+
+[12:56](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=776s) Hello. What?  
+હાલો શું  
+
+[13:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=780s) What it's called, I really don't know. Bhesan  
+હું કહેવાય પણ મને એકદમ નથી ખબર ને ભેસાણ  
+
+[13:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=783s) village is not very far,  
+ગામ બહુ દૂર નથી  
+
+[13:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=786s) okay? Bhesan village is not very far, when the police come and  
+હને ભેસાણગામ બહુ દૂર નથી પોલીસ આવશે ને  
+
+[13:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=789s) kick your ass twice, you'll immediately know  
+ગાંડે બે લાત મારશે તો તરત ખબર પડી જશે  
+
+[13:11](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=791s) what angikar means.  
+અંગીકાર એટલે  
+
+[13:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=794s) Now tell me, to which Bawas  
+શું હવે મને કો તો કયા કયા બાવા પાસે  
+
+[13:17](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=797s) do you send them to do angikar?  
+મોકલો છો તમે અંગીકાર કરવા માટે  
+
+[13:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=801s) I haven't gone anywhere, I don't know anything about it.  
+હું ક્યાય ગયો નથી હું કઈ એમાં જાણતો નથી  
+
+[13:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=804s) You went, that's true, it was your mistake, so—  
+તમે ગયો એ વાત હાચી તમારી ભૂલ થઈ ગઈ એટલે  
+
+[13:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=807s) Everyone says it, so I say it. Because everyone  
+બધા કહેતા હોય એટલે હું કેતો હું એટલે બધા  
+
+[13:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=809s) says it, what exactly do you say  
+કહેતા હોય એટલે તમે એવું તો શું બોલો છો  
+
+[13:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=811s) then, tell me!  
+ત્યારે મને જણાવોને  
+
+[13:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=814s) Huh?  
+હે  
+
+[13:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=815s) Huh? What mistake does everyone make that you made  
+હે બધા શું ભૂલ કરતા હોય છે કે તમે જે કરી  
+
+[13:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=820s) a mistake just now? Doing angikar is like making a mistake,  
+ભૂલ હમણાં અંગીકાર કરવું એટલે ભૂલ કરવા  
+
+[13:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=822s) right? Something is wrong, right?  
+જેવું છે ને કશું કશું ખોટું છે ને  
+
+[13:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=824s) Doing angikar means—  
+અંગીકાર કરવા એટલે  
+
+[13:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=828s) I don't understand much about it, so  
+એમાં પાછી મને બહુ ખબર ન પડતી હોય એટલે  
+
+[13:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=830s) how can I tell you? So far you haven't  
+મારે કેમ તમને કેવું અત્યાર સુધીમાં કોઈને  
+
+[13:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=833s) done angikar for anyone, right? No, no, no, no.  
+અંગીકાર નથી કર્યાને તમે ની ની ની ન  
+
+[13:56](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=836s) You haven't done angikar, right? So you went for the first  
+અંગીકાર કર્યા નથી કર્યા ને તો તમે પહેલી  
+
+[13:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=838s) time to do angikar for someone?  
+વાર ગયા હતા કોકને અંગીકાર  
+
+[14:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=842s) Do you have a son or a daughter, first tell me  
+કરવા તમારે દીકરો છે દીકરી છે પહેલા એ  
+
+[14:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=845s) that.  
+જણાવો  
+
+[14:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=847s) Who is at your home, sons, daughters, who  
+તમારે ઘરે કોણ છે દીકરા છે દીકરી છે કોણ  
+
+[14:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=850s) is there?  
+છે?  
+
+[14:15](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=855s) Do you have sons, daughters, do you have sons or daughters  
+તમારે દીકરા છે દીકરી તમારે દીકરા દીકરી  
+
+[14:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=858s) or not? Yes, we have one son and  
+કાઈ છે કે નથી? છેને અમારે એક દીકરો અને  
+
+[14:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=861s) one daughter, two. Have you given your son and daughter these  
+એક દીકરી બે તમે તમારા દીકરા દીકરીને આ  
+
+[14:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=864s) values that you molest other people's daughters  
+સંસ્કાર આપ્યા છે કે તમે બહારની દીકરી ને  
+
+[14:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=866s) just like that?  
+છેડતી કરો છો ખાલી  
+
+[14:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=869s) We haven't done anything, I haven't looked at anyone.  
+આપણે કોઈ નથી મહેનત કરી હું કોઈને જોઈ  
+
+[14:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=875s) Now, the direct question I am  
+નથી હવે છે ને હું તમને જે સીધો સીધો સવાલ  
+
+[14:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=879s) asking you, give me the answer to it.  
+પૂછું છું ને એનો મને જવાબ આપો  
+
+[14:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=884s) [Music]  
+[સંગીત]  
+
+[14:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=885s) And in this, no Balaks do angikar,  
+અને આમાં બાલકો કોઈ અંગીકાર નથી  
+
+[14:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=889s) I was saying—  
+કરતા મારી મારી મારું હું કેતો  
+
+[14:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=895s) So you do angikar? No, I don't do it to anyone,  
+તો તો તમે અંગીકાર કરો છો અને હું કોઈને  
+
+[14:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=899s) but among Vaishnavs, some do it,  
+કરતો નહી પણ વૈષ્ણવમાં અમુક અમુક કરે છે  
+
+[15:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=902s) other Vaishnavs, we don't know anything like that.  
+બીજા વૈષ્ણવ અમે તો કઈ એવું જાણતા જ નથી  
+
+[15:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=904s) So I was asking "Have you had angikar  
+એટલે હું એમ પૂછતો તો તમે અંગીકાર થઈ ગયા  
+
+[15:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=907s) or not?" So what does having had angikar  
+કે નથી થયા એમ એટલે અંગીકાર થઈ ગયા એટલે  
+
+[15:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=909s) mean, explain that to me, I want to understand now.  
+શું હોય એ તો સમજાવો મને હમજવું છે હવે  
+
+[15:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=913s) They say that angikar means meeting/embracing Vaishnavs—  
+એટલે એમ કહેતા હોય કે અંગીકાર વૈષ્ણવને આ  
+
+[15:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=916s) Okay, fine, have you had your  
+ભેસતા હોય આપણે સારું ચાલો તમે તમારી  
+
+[15:19](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=919s) daughter do angikar or not, now  
+છોકરીને અંગીકાર કરાય છે કે નથી કરાય હવે  
+
+[15:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=921s) tell me that. No, no, we haven't had her do anything. You  
+એવું કહી દો ની ની અમે કાઈ નથી કરાય તમે  
+
+[15:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=924s) haven't had her do it, and you make the village girls do angikar!  
+નથી કરાઈ અને તમે ગામ ની છોકરીઓને અંગીકાર  
+
+[15:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=926s)  
+કરાવો છો  
+
+[15:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=928s) Hey, one Vaishnav to another Vaishnav, or five-ten people  
+અલે એ એકા બીજા વૈષ્ણવ વૈષ્ણવ કે પાદસ જને  
+
+[15:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=932s) who have Hari's qualities, whoever has it in their destiny  
+જણે જાયા જો હરિના ગુણ હોય જેના ભાગમાં  
+
+[15:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=935s) meets/embraces, they say, everyone reads it in books,  
+હોય ને ભેટે કેતા હોય તો પુસ્તકમાં બધા  
+
+[15:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=937s) we do satsang about that.  
+વાંચતા હોય એ વાત આપણે સત્સંગ કરતા હોય  
+
+[15:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=941s) So what are you trying to say, I want to  
+એટલે તમે શું કહેવા માંગો છો મારે એ  
+
+[15:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=943s) know that. Nothing else, we  
+જાણવું છે એમ એટલે બીજું તો કા આપણે  
+
+[15:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=947s) read from books, what comes in dhol/songs, I was saying all that.  
+પુસ્તકના વાચ દોડવા આવતું હોય એ બધું કેતો  
+
+[15:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=950s) That dhol— Then what was wrong  
+હતો એટલે જે ધોળ તો પછી એમાં ખોટું શું  
+
+[15:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=953s) in what you said? Just now you said "I made a mistake,"  
+કીધું તું એમ તમે અત્યારે કીધું મારી ભૂલ  
+
+[15:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=955s) so doing angikar is not a mistake, right?  
+થઈ ગઈ તો તમે અંગીકાર કરવો ભૂલ નથી ને  
+
+[15:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=958s) Why a  
+એટલે કેમ  
+
+[16:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=960s) mistake? What I spoke shouldn't be said, but I said it.  
+ભૂલ મા હું બોલ્યો એ કહેવાય ની પણ કીધું  
+
+[16:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=964s) Hey, give the phone to Masi, give the phone to Masi,  
+એટલે એ માસીને આપો તો ફોન ફોન માસીને આપી  
+
+[16:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=967s) come on, I don't want to talk to you. Hello, Jai  
+દો ચાલો તમારી સાથે વાત નથી કરવી હાલો જય  
+
+[16:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=970s) Shri Krishna Masi, still your husband  
+શ્રી કૃષ્ણ માસી એ હજુ સુધી તમારા હસબંડ  
+
+[16:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=973s) is not telling the truth about what angikar means.  
+સાચું બોલતા નથી કે અંગીકાર એટલે શું?  
+
+[16:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=978s) I'm telling you— Masi, Masi, listen to me,  
+હું તમને હું માસી માસી મારી વાત સાંભળો  
+
+[16:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=981s) no matter how much you butter me up,  
+તમે મારી સાથે ગમે તેટલો ગોળ લગાડશો ને  
+
+[16:23](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=983s) it won't affect me. That's fine, you—  
+મને અસર નહી થાય એ એ તો બરાબર છે તમે મને  
+
+[16:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=986s) I'm telling you, tell your husband to speak  
+હું તમને કહું છું તમારા હસબંડને કો સીધે  
+
+[16:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=988s) the straight truth right here on the phone.  
+સીધું અહીંયા ફોન ઉપર સાચું બોલે હું  
+
+[16:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=990s) It won't take long to bring Bhesan police,  
+પોલીસ જો ભેસાણ પોલીસ લાવવાની કોઈ બહુ વાર  
+
+[16:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=993s) it's a matter of half an hour or an hour. I  
+નહી લાગે અડધો કલાક કલાકનું કામ છે હું  
+
+[16:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=996s) am a lawyer, I will file a case right now, everything will be exposed.  
+વકીલ છું હમણાં કેસ કરી દઈશ બધું પોલ ખુલી  
+
+[16:38](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=998s) That can happen, you're a lawyer, that's true sir,  
+જશે. એ તો થઈ જાય વકીલ સો એ વાત હતી સાહેબ  
+
+[16:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1002s) but now whatever happened, he is a bit dim-witted.  
+પણ તમે છે ને હવે જી થયું એ એને એક આંટો  
+
+[16:44](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1004s) No dim-witted or sharp-witted,  
+ઓછો તો પછી એક આંટો ઓછો ને એક આંટો વધારે  
+
+[16:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1007s) I'm asking what angikar means, let him  
+નહી હું પૂછું છું અંગીકાર એટલે શું એ મને  
+
+[16:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1009s) answer me and the matter ends. He has no brains,  
+જવાબ આપે એટલે વાર્તા પતે એને બુદ્ધિ નથી  
+
+[16:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1013s) you know what he was saying one day? When Vaishnavs gathered  
+ઈ હું કેતા હતા એકદી ખબર છે વૈષ્ણવ ભેગા  
+
+[16:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1015s) in Junagadh, an elderly man spoke,  
+થયાને જૂનાગઢ એટલે ઈ બોલા મોટી ઉંમરના એણે  
+
+[16:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1018s) what did he say? That face-to-face with each other,  
+હું કીધું કે એકા બીજાને સામું હામું આમ  
+
+[17:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1020s) how we meet face-to-face, just embrace God—  
+આપણે કેમ મળી હામા હામાં બસ ભેટી ભગવાનને  
+
+[17:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1023s) Masi, angikar means, Masi angikar  
+માસી અંગીકાર એટલે છે ને માસી અંગીકાર  
+
+[17:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1027s) means bodily pleasure (sex), don't try to explain to me, this is not  
+એટલે શરીર સુખ તમે સમજાવતા ન મને કે આ કઈ  
+
+[17:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1030s) the first time that I wouldn't understand,  
+પહેલી વખતની વાત નથી કે હું સમજતો નથી  
+
+[17:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1033s) so don't explain that to me. I don't know anything,  
+એટલે તમે એવું ના સમજાવતા મને એ કાઈ ખબર  
+
+[17:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1036s) that's why I'm saying, do you know what we were told?  
+નથી એટલે હું હું કહું છું અમને હું કીધું  
+
+[17:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1038s) Then you must have done it too, Masi,  
+તું ખબર છે તે તમે થઈ આયા હશો માસી તો પછી  
+
+[17:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1042s) you must have embraced everyone too, you're not telling  
+બધાને ભેટ્યા હશો તમે પણ એ તમે બોલતા નથી  
+
+[17:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1044s) the truth. I'm not saying anything to you because you're my elder.  
+સાચું હું તમને તમારા વડીલ તરીકે તમને કઈ  
+
+[17:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1046s)  
+બોલતો નથી  
+
+[17:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1050s) Fine, leave it, I will file a police case, you  
+ચાલો છોડો હું હું પોલીસમાં કેસ કરું તમે  
+
+[17:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1053s) won't listen like this. No, no, now you  
+નહી માનો એમ એ ના ના હવે છેને તમે સીધે  
+
+[17:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1057s) make him speak straight, tell your husband  
+સીધું બોલાવડાવો તમારા મારા હસબંડ ને કો  
+
+[17:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1059s) to tell the complete truth. Wait 15 minutes, call  
+સાચે સાચું બોલે એ 15 મિનિટ કેરે ફોન કરો  
+
+[17:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1062s) a Marjadi— No, no, I don't want to ask any Marjadi,  
+એક મરજાદીનને ના ના મારે મરજાદીન પાસે નથી  
+
+[17:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1065s) tell your husband, otherwise in 15 minutes  
+પૂછવું તમારા હસબંડને કો ને તો 15 મિનિટ  
+
+[17:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1067s) the police will come and take both your husband and  
+પછી પોલીસ આવશે ને તો તમારા હસબંડને અને  
+
+[17:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1068s) the Marjadi away. The honor of the Balaks  
+મરજાદી બેવને લઈ જશે. એ બાળકોની ઈજ્જત  
+
+[17:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1072s) will be ruined, sir, and the honor of all Vaishnavs will be ruined,  
+ચાહે સાહેબ અને બધાય વૈષ્ણવની ઈજ્જત ચાહે  
+
+[17:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1074s) I will explain to him thoroughly in my own way. You don't  
+હું એને મારી રીતે ખૂબ સમજાવી દઈશ. તમારે  
+
+[17:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1077s) need to explain anything, you don't need to explain anything.  
+કઈ સમજાવવાનું નથી તમારે કઈ સમજાવવાનું  
+
+[17:59](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1079s) Right now you have to make him say on the phone  
+નથી. તમારે અત્યારે એને ફોન પર  
+
+[18:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1081s) what he has done  
+બોલાવડાવવાનું છે કે એને જે કર્યું છે  
+
+[18:02](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1082s) so far. Sir, he has never done anything,  
+અત્યાર સુધીમાં. એને તો કોઈ દિવસ સાહેબ કઈ  
+
+[18:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1085s) he got influenced by others, I know for sure,  
+કર્યું નથી. આ બીજાને વાયદે ચડ્યા છે મને  
+
+[18:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1087s) and I beg you,  
+પાકી ખબર છે અને હું છે ને તમત તમે કયો  
+
+[18:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1090s) I fold my hands and fall at your feet sir, we made a mistake.  
+હું હાથે પગે લાગુું સાહેબ તમને અમારી ભૂલ  
+
+[18:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1092s) I'm asking you, why do you say  
+થઈ ગઈ છે હું તમને એમ કહું છું તમે કેમ  
+
+[18:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1094s) a mistake happened, if he says  
+તમે ભૂલ થઈ ગઈ તો ભૂલ થઈ ગઈ એ એવું કે છે  
+
+[18:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1096s) that getting angikar means making Vaishnavs do seva,  
+કે અંગીકાર થવું એટલે વૈષ્ણવોને સેવા  
+
+[18:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1098s) then what is the mistake in that? Let him tell the truth  
+કરાવડાવી તો એમાં ભૂલ શું છે સાચું બોલે  
+
+[18:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1101s) about what doing angikar means. It must mean what you say,  
+ને કે અંગીકાર કરવું એટલે શું એ તમે કયો એ  
+
+[18:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1104s) I don't know, I have never done such a thing sir,  
+જ અર્થ થાતો હોય છે મને નથી ખબર મે એવું  
+
+[18:26](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1106s) and I don't know either,  
+કોઈદી કર્યું નથી સાહેબ અને મનેય નથી ખબર  
+
+[18:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1109s) and he might have said it on his own, I wouldn't know.  
+અને એણે એની રીતે કીધું હોય મને ન ખબર હોય  
+
+[18:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1111s) Fine, if you don't know, he knows, right?  
+બરાબર છે તમને ના ખબર હોય તો એને ખબર છે  
+
+[18:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1113s) Then tell him to speak! That's right, what you say  
+ને તો એને કોને કે બોલે એ તો બરાબર તમારી  
+
+[18:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1117s) is true. Then tell him to speak, just tell him  
+વાત હાતી તો એને કો બોલે બસ તમે એને કો  
+
+[18:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1119s) to speak!  
+બોલે  
+
+[18:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1122s) Now that's enough, whatever it is, sir,  
+હવે એ તો બહુ કરી જે છું એ તમે સાહેબ આ  
+
+[18:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1125s) all Vaishnavs' honor is at stake, Balaks' honor is at stake.  
+વૈષ્ણવની બધાયની ઈજ્જત જ થાય બાળકોની થાય  
+
+[18:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1129s) So you admit that Vaishnavs do this  
+એટલે તમે માનો છો ને કે તમે વૈષ્ણવોએ કરે  
+
+[18:51](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1131s) and take them to the Balaks, they do this, right?  
+છે ને એ બાળકો પાસે જ લઈ જાય છે એવું કરે  
+
+[18:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1133s) Tell the truth, even if you don't name the Balak,  
+છે ને સાચું બોલજો તમે ભલે બાળકના નામ ના  
+
+[18:56](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1136s) tell the truth first. No, he has never  
+બોલો સાચું બોલો પહેલા નહીં બાળકો પાસે  
+
+[18:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1138s) been introduced to any Balaks, he spoke based on others' talk,  
+કોઈ દી એનો પરિચય નથી થયો એ બીજાની વાતે  
+
+[19:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1141s) and I'll tell him, it must mean what you say,  
+બોલ્યા છે અને એને હું કહી દઉં તમે કયો એ  
+
+[19:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1143s) sir, whatever it is, forgive his  
+જ અર્થ થતો હશે તમે સાહેબ જીવ હોય હવે એને  
+
+[19:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1146s) mistake this once, he will never speak anywhere again,  
+ભૂલ એકવાર તમે માફ કરજો હવે કોઈદી ક્યાય  
+
+[19:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1149s) now I will properly explain everything to him.  
+બોલે નહી હવે હું એને હરખાઈને બધી રીતે  
+
+[19:11](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1151s) Then I am coming to Bhesan tomorrow,  
+સમજાવી દઈ પછી હું છે ને હું આવતી કાલે  
+
+[19:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1153s) give me your address,  
+ભેસાણ આવું છું તમે મને તમારું એડ્રેસ દયો  
+
+[19:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1156s) okay? We will meet the police and then talk.  
+બરાબર આપણે પોલીસને મળીએ અને પછી વાત  
+
+[19:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1158s) Come on, I'm hanging up, okay? Now you  
+કરીશું ચાલો હું મૂકું ફોન બરાબર હવે તમે  
+
+[19:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1160s) keep the Marjadi called tomorrow, okay? We don't want to go to the police,  
+મરજાદી બોલાવી રાખજો કાલે હો ને પોલીસને  
+
+[19:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1162s) don't want to do anything, we are going to work tomorrow.  
+નથી જાવું કાઈ નથી કરવું ને અમે અમે તમારે  
+
+[19:25](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1165s) Wherever you go,  
+કામે જવાના છે એ તો ગમે તે જગ્યાએ જશો તો  
+
+[19:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1168s) you'll still get caught, right? They would catch us,  
+પણ પકડાશો તો ખરા ને એ તો પકડે પણ એવું ના  
+
+[19:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1171s) but don't do that sir, whatever happened— No, no, nothing like  
+કરાય સાહેબ જે થયું એને ના ના કશું જેવ  
+
+[19:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1173s) whatever happened, you wait now, I will  
+થયું એવું નહીં તમે હવે રાહ જુઓ હવે હું  
+
+[19:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1176s) show you, I have asked you 10 times.  
+તમને દેખાડું હું તમને 10 વાર પૂછી ચૂક્યો  
+
+[19:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1179s) Yes brother, right, that must be the meaning.  
+હા ભાઈ બરાબર એ જ અર્થ થાતો હોય છે હું  
+
+[19:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1182s) "What I say must be the meaning," why do you  
+કહું છું એ અર્થ થાતો હશે શું મારી વાત  
+
+[19:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1185s) agree with me? Speak from your own mouth!  
+કેમ માનો છો તમે તમે તમારા મોઢે બોલોને  
+
+[19:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1187s) Say that you don't know what your husband's  
+તમને નથી ખબર એવું કો તમારા ઘરવાળાની  
+
+[19:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1189s) deeds are! His deeds— he has never  
+કરતું શું છે એવું એની કરતું બીજે કોઈદી  
+
+[19:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1193s) spoken anything elsewhere, he got influenced by someone and  
+કઈ બોલ્યા છે આ કોને કોની વાજે ચડીને એને  
+
+[19:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1195s) asked, and blurted it out,  
+પૂછ્યું છે ને કાજ પા કરા પૂછાયું હોય એ  
+
+[19:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1198s) from now on he will never make such a mistake again.  
+બોલી ગયા છે હવે પછ કોઈદી આવી ભૂલ ની કરે  
+
+[20:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1200s) Fine, leave it, I don't want to argue with you anymore,  
+બસ ચાલો છોડો હું તમારે મારે તમારી સાથે  
+
+[20:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1203s) leave it, come on, Jai Shri  
+માથા કૂટ જ નથી કરવી છોડ દો ચાલો જય શ્રી  
+
+[20:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1206s) Krishna, okay? Leave it now, tomorrow  
+કૃષ્ણ હો હવે છોડ દો ચાલો હવે તમને હવે  
+
+[20:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1209s) you'll find out what's going to happen. Hello,  
+કાલે તમને ખબર પડશે શું થવાનું છે હાલો  
+
+[20:11](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1211s) speak, speak, speak! Hello, hello, tell the truth,  
+બોલે બોલો બોલો હાલો હાલો તમે સાચું બોલી  
+
+[20:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1214s) what does angikar mean, then I'll hang up.  
+દો અંગીકાર એટલે શું એટલે હું ફોન મૂકી  
+
+[20:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1216s) That is what they do with each other, angikar. What  
+દઉં એ ઈ હોય એકા બીજા કરે એ અંગીકાર શું  
+
+[20:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1222s) do they do? Just say it, what do they do,  
+કરે એટલે કહી દો ખાલી ખાલી કરે એટલે શું  
+
+[20:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1224s) do they do it taking off clothes or without taking off clothes,  
+કરે કપડા કાઢીને કરે કપડા કાઢ્યા વગર કરે  
+
+[20:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1227s) tell me! No, no, just embrace. Just embrace, right?  
+એ કો ના ના ખાલી ભેટે એમ ખાલી ભેટે ને  
+
+[20:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1232s) Really? Then what's the problem with embracing? Then  
+સાચું ને ભેટવામાં તો શું વાંધો છે તો તમે  
+
+[20:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1234s) if you embrace me, is there no problem, or only  
+તમે મને ભેટો તો એ વાંધો નથી કે ખાલી  
+
+[20:36](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1236s) when a man and woman embrace each other? Hey,  
+સ્ત્રી પુરુષ જબ એકબીજાને ભેટે હલે એ તો  
+
+[20:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1239s) all of us men and women are Gopijano,  
+આપણે બધાય સ્ત્રી પુરુષ આપણે ગોપીજનો એમ  
+
+[20:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1242s) they say we are Gopis, none of us are counted as men,  
+કે છે કે ગોપીઓ છેને આપણે બધા પુરુષો ન  
+
+[20:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1247s) all are counted as Gopis. Then why  
+ગણાય બધી ગોપીઓ જ ગણાય તો પછી તો પછી તમે  
+
+[20:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1250s) did you say a mistake happened? What regret did you have  
+કેમ કીધું કે ભૂલ થઈ છે તો તમને શું એમાં  
+
+[20:52](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1252s) that you are refusing? Then  
+પશ્ચાતાપ થયો કે તમે ના પાડો છો તો  
+
+[20:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1254s) angikar should definitely happen, right or not?  
+અંગીકાર તો થવું જ જોઈએ પછી બરાબર કે નહી  
+
+[20:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1257s) Not all of us Vaishnavs become that, those who are Thakorji's  
+એવું આપણે બધાય વૈષ્ણવ ન થાય ઠાકોરજીના  
+
+[21:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1260s) angaji jiv— So you confirm  
+અંગાજી જીવ હોય ને એટલે તમે કન્ફર્મ કહો  
+
+[21:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1264s) that angikar does not mean bodily pleasure (sex), right?  
+છો ને કે અંગીકાર એટલે શરીર સુખ નહી બરાબર  
+
+[21:06](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1266s) Yes. Tomorrow when the police come, you'll tell the truth,  
+ને હા કાલે પોલીસ આવે એટલે તમે સાચું  
+
+[21:09](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1269s) right, when you get kicked in the ass?  
+બોલશો ને પછી ગાંડે લાત પડશે પડશે એટલે  
+
+[21:13](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1273s) I don't understand about that— What do you  
+એટલે એમાં પાછી મને ખબર ન પડતી તમે આમાં  
+
+[21:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1276s) want to do in all this, speak quickly,  
+બધું શું કરવું છે બોલો તમે ફટાફટ  
+
+[21:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1278s) do you want to go to the police or will you tell the truth?  
+પોલીસમાં જવું છે કે તમે સાચું બોલો છો  
+
+[21:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1282s) In truth, I haven't said anything else,  
+સાચામાં તો હું મે બીજું કઈ કીધું નથી ને  
+
+[21:25](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1285s) how can I tell the truth? Then why are you  
+મારે કેમ સાચું કહેવું તો પછી તમે શું કામ  
+
+[21:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1287s) scared, we'll meet at the police station tomorrow. No, no, don't do  
+ગભરાવત કાલે પોલીસમાં મળીએ ના ના એવું કાઈ  
+
+[21:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1290s) anything like that, we do labor work harvesting chickpeas. Then you'll enjoy  
+કરવું અમે સણાવાઢી આમ મજૂરી કરી છે તો મજા  
+
+[21:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1293s) doing labor work now!  
+આવશે તમને મજૂરી કરવામાં હવે  
+
+[21:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1297s) Yes, you'll enjoy doing labor work now. No, no, don't do  
+હા મજૂરી કરવામાં મજા આવશે હવે ના ના એવું  
+
+[21:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1300s) anything like that. Then what do you want to do, speak  
+કાઈ નથી કરવાનું તો શું કરવું છે બોલો  
+
+[21:42](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1302s) quickly! Speak quickly, it's been 20 minutes,  
+ફટાફટ તમે ફટાફટ બોલો જે 20 મિનિટ થઈ ગઈ  
+
+[21:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1305s) you still haven't spoken, why do you want to hear  
+હજુ તમે બોલ્યા નથી મારા મોઢે શું કામ  
+
+[21:46](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1306s) more abuses from my mouth?  
+સવડાવા માંગો તમે બીજી વિચાર ગાળો  
+
+[21:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1309s) Marjadi-Marjadi do it with each other— What do they do,  
+મજાદ મજા એક બીજા કરે ઈ એ શું કરે એ મારે  
+
+[21:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1313s) I want to know that, what do you people do,  
+એ જાણવું છે શું કરે છે તમે એમ એવું શું  
+
+[21:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1315s) what do Marjadi-Marjadi do?  
+કરો છો તમે લોકો એમ મરજાદી મરજાદી શું કરો  
+
+[21:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1318s) We don't do it. Then who does it,  
+છો એવું અમે નથી કરતા તો આ કોણ કરે છે એ  
+
+[22:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1323s) give me the name now!  
+નામ દયો મને હવે  
+
+[22:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1325s) Nobody says, everyone just says so.  
+કોઈ નથી કેતું એમ કે છે બધા  
+
+[22:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1330s) Give the phone to Masi, come on, let me say Jai Shri Krishna  
+માસીને ફોન દઈ દો ચાલો હું જાશ્રી કૃષ્ણ  
+
+[22:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1332s) to Masi, come on, we're done talking.  
+કહી દઉં માસીને ચાલો થઈ ગઈ વાત  
+
+[22:17](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1337s) Hello Masi, now I tried a lot,  
+હાલો માસી હવે મેં બહુ પ્રયત્ન કર્યો  
+
+[22:19](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1339s) your husband is not speaking, now you deal with it,  
+તમારો વર બોલતો નથી તમે જાણો હવે તમારા  
+
+[22:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1342s) your karma knows, I'm getting another call, now you  
+કરમ જાણે મારે ફોન આવે છે બીજા હવે તમે  
+
+[22:25](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1345s) handle it, okay? I'll come to Bhesan tomorrow and then  
+જાણો બરાબર હું કાલે ભેસાણ આવું એટલે પછી  
+
+[22:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1347s) we'll see. No, no sir, don't do anything like that,  
+જોઈએ ના ના સાહેબ એવું કાઈ કરતા નહી હવે  
+
+[22:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1350s) I fold my hands, forgive the mistake this once. Then  
+તમને હાથે કે એક વાર ભૂલ માફ કરજો તો પછી  
+
+[22:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1353s) I'm telling you one last time, tell your husband  
+તમે તમારા વર્ણને હજુ હું તમને છેલ્લી વાર  
+
+[22:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1354s) to tell me the truth.  
+ક તમારા વર્ણે કો કે સાચું બોલી દે મને પણ  
+
+[22:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1357s) He'll tell you— No, no, make him say it  
+એ તમને બોલીને તમે એનું ના ના તમે એના  
+
+[22:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1360s) from his own mouth, he wanted to enjoy sexual pleasure,  
+મોઢે બોલાવડાવો એને જાતીય સુખ માણવું તું  
+
+[22:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1363s) right? Make him say the truth from his own mouth, did you want to enjoy  
+ને સાચું બોલાવડાવો એના મોઢે તમે જાતિ સુખ  
+
+[22:46](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1366s) sexual pleasure? Yes, yes, yes. Speak then, what did you want  
+માણવું તું હા હા હા બોલો તો શું માણવું  
+
+[22:49](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1369s) to enjoy?  
+તું તમારે  
+
+[22:51](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1371s) Yes, yes, Vaishnav bhav, that's true— What  
+હા હા વૈષ્ણવ અભાવ એ વાત સાચી તમારી શું  
+
+[22:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1373s) did you want to enjoy? Speak, speak from your own mouth!  
+માણવું તું તમે બોલો તમારા મોઢેથી બોલો  
+
+[22:56](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1376s) What did you want to do?  
+હું તમારે શું કરવું હતું  
+
+[23:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1380s) That—  
+એ  
+
+[23:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1381s) What you say, that— No, no, say it from your mouth,  
+એ તમે કયો છે એ શું ના ના એ બોલો તમે મોઢે  
+
+[23:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1383s) say it from your mouth, you wanted to enjoy bodily pleasure (sex),  
+તમારા મોઢે બોલો શરીર સુખ માણવું તું ને  
+
+[23:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1385s) right? Yes. Speak, yes, speak from your mouth, say the words  
+તમારે હા બોલો હા બોલો મોડામાંથી જવા શરીર  
+
+[23:10](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1390s) "bodily pleasure"! Yes, like that, wanted to enjoy  
+સુખ શબ્દ બોલો તમે હા એમ તો શરીર સુખ  
+
+[23:14](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1394s) bodily pleasure. You wanted to enjoy it, right?  
+માણવું તું એમ કતો માણું તુંને તમારે  
+
+[23:17](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1397s) How old are you, Kaka? Huh, how old are  
+કેટલી ઉંમર છે તમારી કાકા હ કેટલી ઉંમર છે  
+
+[23:21](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1401s) you? Yes, I'm old. Can you even get it up that you want  
+તમારી હા ઉર છે તમારું ઉઠે છે કે તમારે  
+
+[23:24](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1404s) to enjoy bodily pleasure? Huh, can you even get it up that  
+શરીર સુખ માણવું છે હે તમારું ઉઠે છે કે  
+
+[23:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1408s) you want to enjoy bodily pleasure?  
+તમારે શરીર સુખ માણવું છે  
+
+[23:31](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1411s) No, no, no. Aren't your son and daughter married?  
+ની ની ની તમારા છોકરા છોકરીને લગન નથી થયા  
+
+[23:33](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1413s) Aren't you ashamed of doing all this business? That's  
+તમને શરમ નથી આવતી આ બધા ધંધા કરતા એ વાત  
+
+[23:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1417s) true, I made a mistake. The mother-sister abuses  
+હાથી તમારી ભૂલ થઈ ગઈ તમારી માં બેનની  
+
+[23:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1419s) you just heard, did you hear them wrongly?  
+ગાળો હમણાં તમે સાંભળી તમે ખોટી હાંભળીને  
+
+[23:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1421s) Then—  
+તો  
+
+[23:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1423s) That's true, I made a mistake. Come on, tell the truth  
+એ વાત હાચી ભૂલ થઈ ગઈ ચાલો સાચું બોલી દો  
+
+[23:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1425s) now, which Balaks do you go to? We  
+હવે કે કયા કયા બાળકો પાસે તમે જાવ છો અમે  
+
+[23:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1428s) haven't gone anywhere. Tomorrow if I come to Bhesan,  
+ક્યાય નથી ગયા કાલે જો હું ભેસાણ આયો ને  
+
+[23:51](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1431s) your condition is going to get very bad,  
+તો તમારી તમારી તમારી હાલત ખરાબ થઈ જવાની  
+
+[23:55](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1435s) remember that. Still haven't gone to anyone anywhere.  
+છે યાદ રાખજો હજી કોઈને નથી ગયો ક્યાય ક  
+
+[23:58](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1438s) Okay fine, then I'll come to Bhesan tomorrow and meet  
+સારું ચાલો તો કાલે લે ભેસાણા આવું મળે  
+
+[24:00](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1440s) you, okay? Start saying the names quickly, who  
+તમને હોને તમે ફટાફટ નામ બોલવા માંડો કોણ  
+
+[24:03](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1443s) all does this work, which  
+કોણ કરે છે આ બધું કામ કયા કયા કયા કયા  
+
+[24:05](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1445s) Marjadis do it, give names! I don't know, okay?  
+મરજાદીઓ કરે છે નામ દયો આ નથી આવું હો  
+
+[24:12](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1452s) I said I made a mistake, but which Marjadis,  
+ભૂલ થઈ ગયો એમ તો કીધું પણ કયા કયા મરજાદી  
+
+[24:15](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1455s) give me the names of which Marjadis! Sir,  
+કયા કયા મરજાદીના નામ દયો મને એ સાહેબ  
+
+[24:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1458s) nobody knows in that, whoever is among themselves  
+એમાં કોઈને કોઈને ખબર ન હોય એકા બીજા  
+
+[24:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1460s) internally, we wouldn't know.  
+અંદરો અંદર કોઈ હોય એ તો આપણને ખબર ન હોય  
+
+[24:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1462s) Give the names Masi, give the names, we have  
+તમે નામ આપી દો માસી તમે નામ આપી દો અમારી  
+
+[24:25](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1465s) sisters and daughters, we aren't going to send our sisters and daughters  
+બેન દીકરીઓ છે અમારી બેન દીકરીઓ અમે કઈ  
+
+[24:28](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1468s) to a brothel!  
+ઘરે નથી મોકલવાની અમારી કૂટણ ખાને  
+
+[24:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1470s) You have a daughter, don't we have daughters?  
+મોકલવાની તમારે દીકરી છે અમારી દીકરી નથી  
+
+[24:32](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1472s) Everyone has daughters. Then tell us,  
+બધાને દીકરી જોય તો પછી તમે તો પછી તમે  
+
+[24:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1475s) give us the names of which Marjadis  
+કયો તો તમે નામ દયો ને અમને કયા કયા  
+
+[24:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1477s) they go to! Why doesn't he give the Marjadis' names?  
+મરજાદી પાસે જાય છે પણ કેમ ન મરજાદીના નામ  
+
+[24:40](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1480s) No Marjadi— he just heard some talk  
+દે કોઈ મરજાદી કોઈ થોડાકથી આપણને આને વાત  
+
+[24:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1483s) and spoke about it, he doesn't know anything else.  
+સાંભળીને આને વાત કરી છે બીજી આને કાઈ ખબર  
+
+[24:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1485s) No problem Masi, come on, see you tomorrow,  
+નથી પડતી કઈ વાંધો ન માસી ચાલો તમને કાલે  
+
+[24:47](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1487s) Jai Shri Krishna. Jai Shri Krishna. And  
+મળીએ જય શ્રી કૃષ્ણ એ જય શ્રી કૃષ્ણ અને  
+
+[24:50](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1490s) when I come tomorrow we'll talk in Bhesan, okay? Jai Shri  
+કાલે હું આવું એટલે વાત ભેસણ હો જય શ્રી  
+
+[24:53](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1493s) Krishna, don't call me now.  
+કૃષ્ણ હવે મને ફોન ન કરતા  
+
+[25:07](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1507s) I apologize to all of you for my language.  
+આપ સૌને મારી ભાષા માટે ક્ષમા માગુું છું  
+
+[25:11](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1511s) I request all of you not to fall into the hands  
+આપ સૌને વિનંતી કે આવા નીંચ માણસોના  
+
+[25:15](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1515s) of such lowly people. These people don't have any  
+હાથમાં ના આવશો આ લોકો પાસે કોઈ એવા  
+
+[25:18](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1518s) extra powers that if you have sex with them  
+એક્સટ્રા પાવર્સ નથી કે તમે એમની સાથે  
+
+[25:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1520s) you will go to Vaikunth or Vyapi Vaikunth.  
+સેક્સ કરશો તો તમે વૈકૂટ કે વ્યાપી વૈકૂટ  
+
+[25:22](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1522s) You are not going to find Thakorji here.  
+જશો તમને ઠાકુરજી અહીંયા નથી મળવાના  
+
+[25:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1529s) I apologize to all of you for my language.  
+આપ સૌને મારી ભાષા માટે હું ક્ષમા માગુું  
+
+[25:34](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1534s) If I had not used this language,  
+છું જો મેં આ ભાષાનો ઉપયોગ ના કર્યો હોત  
+
+[25:41](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1541s) we still would not have been able to know  
+તો આપણે હજુ સુધી એવું જાણી ના શક્યા હોત  
+
+[25:45](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1545s) how such lowly people trap people.  
+કે આવા નીચ માણસો કેવી રીતે લોકોને ફસલાવે  
+
+[25:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1548s) This incident happened just now, a  
+છે આ કિસ્સો બન્યો તો હમણાં જ એક  
+
+[25:51](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1551s) Vraj Yatra just ended, in that Vraj Yatra, this Kaka  
+વ્રજયાત્રા પૂરી થઈ એ વ્રજયાત્રામાં ત્રણ  
+
+[25:54](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1554s) had this kind of conversation with three sisters,  
+બહેનો સાથે આ કાક કાએ આ રીતે સંવાદ કર્યો  
+
+[25:57](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1557s) asking "Have you had angikar or not?" Vaishnavs,  
+તો કે તમે અંગીકાર થયા છો કે નહીં વૈષ્ણવો  
+
+[26:01](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1561s) if anything like this happens, you must call me,  
+આવું કશું પણ બને તમારે મને ફોન  
+
+[26:04](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1564s) I want to catch these people red-handed.  
+કરવાનો મારે આ લોકોને રંગે હાથ પકડવા છે આ  
+
+[26:08](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1568s) I have given you this Kaka's number, against this Kaka  
+કાકાનો નંબર મેં તમને આપ્યો છે આ કાકાને  
+
+[26:11](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1571s) I will 110%, 110% file a complaint,  
+હું 110 %ટ 110 %ટ આમની કમ્પ્લેન હું  
+
+[26:16](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1576s) keep that in mind, I am telling everyone,  
+કરીને રહીશ ધ્યાનમાં રાખજો હું બધાને કહી  
+
+[26:20](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1580s) if you are caught red-handed I will make you  
+રાખું છું રંગે હાથે પકડાશો તો હું તમને  
+
+[26:23](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1583s) count jail bars, okay? I asked him  
+જેલના સળિયા ગણાવીશ બરાબર આમના મોઢે મેં  
+
+[26:27](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1587s) 10 times, only then did he say from his own mouth what he  
+10 વખત પૂછ્યું ત્યારે બોલ્યા છે કે એમને  
+
+[26:29](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1589s) wanted to do.  
+શું કરવું  
+
+[26:30](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1590s) That's all, no mangalacharan has been done in this,  
+હતું આટલી જ વાત આમાં કોઈ મંગલાચરણ કરાયું  
+
+[26:35](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1595s) I used inappropriate language,  
+નથી મેં મારી ભાષાનો અયોગ્ય ઉપયોગ કર્યો  
+
+[26:37](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1597s) but it was necessary, otherwise this man  
+છે પણ કરવો પડે એમ હતો ત્યાં સુધી આ માણસ  
+
+[26:39](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1599s) would not have spoken. Please forgive me everyone,  
+બોલે એમ નહતો આપ સૌ મને માફ કરજો હું  
+
+[26:43](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1603s) I say again, stay away from such people.  
+ફરીવાર કહું છું કે આવા લોકોથી બચીને  
+
+[26:48](https://www.youtube.com/watch?v=eSk6YcBMN7A&t=1608s) Bhagavat Smaran to all of you.  
+રહેજો આપ સૌને ભગવત સ્મરણ  
