@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 38,
+    "total_entries": 39,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -2010,6 +2010,59 @@
         "sexual misconduct"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-religious-leaders-and-sexual-conduct.md"
+    },
+    {
+      "video_id": "e3WivNjFCf8",
+      "youtube_url": "https://www.youtube.com/watch?v=e3WivNjFCf8",
+      "title_gu": "અંગીકાર પ્રથા ના વિરોધ નું અભિયાન -2........પુષ્ટિમાર્ગ  ને જાણો",
+      "title_en": "Remarks Opposing Angikar Practices",
+      "language": "gu",
+      "published_date": "2025-02-24",
+      "duration_seconds": 5538,
+      "location": [
+        "Surat"
+      ],
+      "summary_en": "The speaker alleges that women and girls are sent to religious figures for blessings and recounts an incomplete allegation about a woman at a Surat haveli. He also describes questioning a woman about unwanted touching and alleged rape.",
+      "claims": [
+        "Alleges that an incident involving a married woman occurred at a Surat haveli after she was taken to offer respects.",
+        "Alleges that some mothers in Surat send girls to religious figures for blessings.",
+        "Alleges that some mothers-in-law in Ahmedabad send daughters-in-law for blessings before they sleep with their husbands.",
+        "Alleges that a woman described being touched on the cheek and discusses alleged rape."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Rape",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Haveli"
+      ],
+      "flags": [
+        "murder_or_death",
+        "rape",
+        "child_sexual_abuse",
+        "sexual_health_risk",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.25,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "FIR / एफआईआर",
+        "Surat / सूरत",
+        "brainwash / બ્રેન વોશ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "Ahmedabad",
+        "murder / death",
+        "rape / બળાત્કાર / बलात्कार"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-opposing-angikar-practices.md"
     }
   ]
 }
