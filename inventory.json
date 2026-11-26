@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 99,
+    "total_entries": 100,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -5173,6 +5173,52 @@
         "blackmail / extortion"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/the-purpose-and-impact-of-pushtimarg-dialogue.md"
+    },
+    {
+      "video_id": "PR34BD93-ZI",
+      "youtube_url": "https://www.youtube.com/watch?v=PR34BD93-ZI",
+      "title_gu": "यह कोन खेलवे की बानी",
+      "title_en": "A Temple Story and Allegations About Nathdwara",
+      "language": "gu",
+      "published_date": "2025-07-18",
+      "duration_seconds": 4505,
+      "location": [
+        "Nathdwara"
+      ],
+      "summary_en": "The speaker recounts a story about a queen visiting Shrinathji and an incident involving temple service. The speaker also criticizes those who perform the ceremonial installation of a religious leader and alleges that people who speak out in Nathdwara disappear or are killed.",
+      "claims": [
+        "Alleges that a queen’s clothes came off in a crowd after Shrinathji opened the temple doors.",
+        "Alleges that someone took keys from a sleeping religious leader’s pillow and performed the Mangala service.",
+        "Alleges that those who perform the ceremonial installation of the religious leader are at fault.",
+        "Alleges that people who raise their voices in Nathdwara disappear or are killed."
+      ],
+      "tags": [
+        "Angikar",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "murder_or_death",
+        "sexual_misconduct_other",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.14,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Vraj yatra / વ્રજ યાત્રા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "FIR / एफआईआर",
+        "Nathdwara",
+        "pamphlet",
+        "murder / death",
+        "sexual misconduct",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/a-temple-story-and-allegations-about-nathdwara.md"
     }
   ]
 }
