@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 95,
+    "total_entries": 96,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4971,6 +4971,59 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/requests-for-information-and-proposed-action.md"
+    },
+    {
+      "video_id": "9yWufwbr_m8",
+      "youtube_url": "https://www.youtube.com/watch?v=9yWufwbr_m8",
+      "title_gu": "અંગીકાર વિરુદ્ધ માં વૈષ્ણવ ઝુંબેશ",
+      "title_en": "Campaign Against Angikar",
+      "language": "gu",
+      "published_date": "2025-04-29",
+      "duration_seconds": 883,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that he heard of the sexual abuse of a 16-year-old girl by a 60-year-old man over two years. He also expresses concern that he could be made to disappear.",
+      "claims": [
+        "Alleges that people who block him enjoy the Angikar practice.",
+        "Alleges that a 60-year-old man sexually abused a 16-year-old girl and caused bleeding.",
+        "Alleges that the abuse continued for two years.",
+        "Alleges that the man told another person to use the girl when he was away.",
+        "Alleges that the people concerned might make him disappear."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "gang_rape",
+        "child_sexual_abuse",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.51,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "gang rape / સામૂહિક બળાત્કાર",
+        "child sexual abuse / minor abuse",
+        "grooming",
+        "family grooming / community pressure",
+        "black magic / superstition / તંત્ર-મંત્ર",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/campaign-against-angikar.md"
     }
   ]
 }
