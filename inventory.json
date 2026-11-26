@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 17,
+    "total_entries": 18,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -1075,6 +1075,63 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-the-angikar-practice.md"
+    },
+    {
+      "video_id": "TI1Km41kkeM",
+      "youtube_url": "https://www.youtube.com/watch?v=TI1Km41kkeM",
+      "title_gu": "એક વૈષ્ણવ",
+      "title_en": "A Vaishnav's Account of Angikar",
+      "language": "gu",
+      "published_date": "2025-08-03",
+      "duration_seconds": 410,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that religious imagery, claims of divine grace, and interpretations of Angikar and divine pastimes were used to manipulate her. She calls for greater community awareness to protect daughters and daughters-in-law.",
+      "claims": [
+        "Alleges that claims of divine grace are used to gradually manipulate devotees.",
+        "Alleges that disturbing meanings are attached to Angikar and divine pastimes.",
+        "Alleges that social restrictions discourage women from speaking openly.",
+        "Alleges that a new form of Angikar is being promoted in the name of religion."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Rape",
+        "Victim silencing"
+      ],
+      "flags": {
+        "murder_or_death": false,
+        "gang_rape": false,
+        "rape": true,
+        "child_sexual_abuse": false,
+        "child_harm_nonsexual": false,
+        "group_sexual_ritual": false,
+        "drugging_intoxication": false,
+        "sexual_health_risk": false,
+        "blackmail_extortion": false,
+        "individual_grooming": true,
+        "family_community_grooming": true,
+        "sexual_misconduct_other": false,
+        "angikar": true,
+        "black_magic_superstition": false,
+        "cover_up": true,
+        "first_hand": true
+      },
+      "explosive_score": 0.25,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Thakorji / ઠાકોરજી",
+        "satsang / સત્સંગ",
+        "Sion",
+        "rape / બળાત્કાર / बलात्कार",
+        "grooming",
+        "family grooming / community pressure",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/a-vaishnav-s-account-of-angikar.md"
     }
   ]
 }
