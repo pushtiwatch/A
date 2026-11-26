@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 71,
+    "total_entries": 72,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3756,6 +3756,65 @@
         "HIV / STD / pregnancy / abortion"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/call-for-a-movement-against-the-angikar-practice.md"
+    },
+    {
+      "video_id": "RVG1mzfyVTE",
+      "youtube_url": "https://www.youtube.com/watch?v=RVG1mzfyVTE",
+      "title_gu": "Pushtimargiya Samvad is live",
+      "title_en": "Questions About Angikar and a Threat",
+      "language": "gu",
+      "published_date": "2025-07-08",
+      "duration_seconds": 2478,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that a 16-year-old girl is sent for angikar and questions whether sexual activity between a minor and an older man can be justified. The speaker also makes a threat involving turpentine and a sheet.",
+      "claims": [
+        "Alleges that a 60-year-old man has sex with a 16-year-old girl.",
+        "Alleges that a young girl was married to an older man and kept hungry until she agreed to sex.",
+        "Alleges that a celebration followed her agreement.",
+        "Alleges that parents send their 16-year-old daughters for angikar because of blind faith."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "drugging_intoxication",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.43,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "FIR / एफआईआर",
+        "Sion",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "child harm / kidnapping / custody",
+        "drugging / intoxication",
+        "HIV / STD / pregnancy / abortion"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-angikar-and-a-threat.md"
     }
   ]
 }
