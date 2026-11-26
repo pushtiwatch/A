@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 132,
+    "total_entries": 133,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -6713,6 +6713,38 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/narasimha-and-threats-of-police-complaints.md"
+    },
+    {
+      "video_id": "kckXSi4rEyY",
+      "youtube_url": "https://www.youtube.com/watch?v=kckXSi4rEyY",
+      "title_gu": "Pushtimargiya Samvad is live",
+      "title_en": "Allegations About Activities Behind the Scenes",
+      "language": "gu",
+      "published_date": "2024-09-25",
+      "duration_seconds": 995,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that some people engage in wrongdoing, scams, and prostitution behind the scenes. The speaker also refers to the names of Swamiji and the Sakhis.",
+      "claims": [
+        "Alleges that certain people engage in wrongdoing behind the scenes.",
+        "Alleges that those people carry out scams.",
+        "Alleges that those people run prostitution operations."
+      ],
+      "tags": [
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "sexual_misconduct_other",
+        "first_hand"
+      ],
+      "explosive_score": 0.07,
+      "keywords": [
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "sexual misconduct"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-activities-behind-the-scenes.md"
     }
   ]
 }
