@@ -139,6 +139,10 @@
           "definition": "Alleged sexual abuse or sexual targeting of a child or minor; may co-occur with rape flags."
         },
         {
+          "tag": "child_harm_nonsexual",
+          "definition": "Alleged kidnapping, custody abuse, threats, or violence toward a child or minor that is not itself sexual; may co-occur with child_sexual_abuse."
+        },
+        {
           "tag": "group_sexual_ritual",
           "definition": "Alleged group sex framed as satsang, ritual, or kotadi-style gathering."
         },
