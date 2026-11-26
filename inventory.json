@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 113,
+    "total_entries": 114,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -5871,6 +5871,48 @@
         "HIV / STD / pregnancy / abortion"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/religious-protection-and-allegations-of-exploitation.md"
+    },
+    {
+      "video_id": "9yh0pzZZOco",
+      "youtube_url": "https://www.youtube.com/watch?v=9yh0pzZZOco",
+      "title_gu": "जादू है..…नशा है...",
+      "title_en": "Allegations About Photographs and Occult Practices",
+      "language": "gu",
+      "published_date": "2025-04-19",
+      "duration_seconds": 751,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that certain Goswami youths ensnare women and use their photographs for sexual gratification and black magic. The speaker says he has eight names and threatens to have a raid conducted.",
+      "claims": [
+        "Alleges that eight Goswami youths are involved in tantric practices.",
+        "Alleges that women are ensnared in connection with those practices.",
+        "Alleges that newly married women are asked to send photographs.",
+        "Alleges that the photographs are used for sexual gratification and black magic."
+      ],
+      "tags": [
+        "Grooming",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Goswami / Bawa"
+      ],
+      "flags": [
+        "group_sexual_ritual",
+        "family_community_grooming",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.22,
+      "keywords": [
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "FIR / एफआईआर",
+        "Junagadh / જૂનાગઢ",
+        "kotadi satsang / group sex ritual",
+        "family grooming / community pressure",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-photographs-and-occult-practices.md"
     }
   ]
 }
