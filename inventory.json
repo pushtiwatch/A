@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 13,
+    "total_entries": 14,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -831,6 +831,64 @@
         "Harirai Mahaprabhu"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/vaishnav-alleges-an-elder-aimed-angikar-talk-at-his-wife.md"
+    },
+    {
+      "video_id": "1F2wkigVUHA",
+      "youtube_url": "https://www.youtube.com/watch?v=1F2wkigVUHA",
+      "title_gu": "અંગીકાર પ્રથા નું પ્રુફ ?",
+      "title_en": "Allegations and Evidence Concerning the Angikar Practice",
+      "language": "gu",
+      "published_date": "2025-05-07",
+      "duration_seconds": 1010,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that a 16-year-old girl was raped and criticizes religious authorities and community members for defending alleged offenders and demanding photographic or video evidence.",
+      "claims": [
+        "Alleges that photographic or video evidence is demanded to establish sexual assault.",
+        "Alleges that a 16-year-old girl was raped and experienced bleeding.",
+        "Alleges that community members overlook serious wrongdoing by religious figures.",
+        "Alleges that people demonstrate insufficient concern for the safety and dignity of other people's daughters."
+      ],
+      "tags": [
+        "Angikar",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct"
+      ],
+      "flags": {
+        "murder_or_death": true,
+        "gang_rape": true,
+        "rape": false,
+        "child_sexual_abuse": true,
+        "child_harm_nonsexual": false,
+        "group_sexual_ritual": false,
+        "drugging_intoxication": false,
+        "sexual_health_risk": true,
+        "blackmail_extortion": true,
+        "individual_grooming": false,
+        "family_community_grooming": false,
+        "sexual_misconduct_other": false,
+        "angikar": true,
+        "black_magic_superstition": true,
+        "cover_up": false,
+        "first_hand": true
+      },
+      "explosive_score": 0.33,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "murder / death",
+        "gang rape / સામૂહિક બળાત્કાર",
+        "child sexual abuse / minor abuse",
+        "HIV / STD / pregnancy / abortion",
+        "blackmail / extortion",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-and-evidence-concerning-the-angikar-practice.md"
     }
   ]
 }
