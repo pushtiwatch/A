@@ -1,11 +1,31 @@
 {
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-11-26",
+    "total_entries": 13,
+    "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
+    "source": "https://github.com/pushtiwatch/A"
+  },
   "entries": [
     {
       "video_id": "0EcgVii6gfY",
       "youtube_url": "https://www.youtube.com/watch?v=0EcgVii6gfY",
       "title_gu": "અંગીકાર પીડિતા સાથે ના વ્યવહાર વિષે એક અઢી વર્ષ ની દીકરી ની માઁ નો વૈષ્ણવ સમાજ ને અનુરોધ..",
       "title_en": "Mother of a Young Daughter Alleges Misconduct at Two Havelis",
+      "language": "gu",
+      "published_date": "2025-02-19",
+      "duration_seconds": 466,
+      "location": [
+        "not stated"
+      ],
       "summary_en": "In this video, the speaker asks Vaishnavs not to question women who speak about angikar, and alleges that haveli associates and even her own guru use women.",
+      "claims": [
+        "Alleges that at two different havelis, people close to the Baba said they would do her two-and-a-half-year-old daughter's Naam Nivedan only if she took Brahma Sambandh again",
+        "Alleges that people who stay close to the Bawas each have several affairs",
+        "Says men have no right to question a woman who comes forward about what happened to her",
+        "Says she has seen Vaishnavs who visit the haveli weekly being slowly lured in",
+        "Alleges that the guru who gave her the Brahma Sambandh mantra also has the habit of using women"
+      ],
       "tags": [
         "Angikar",
         "Grooming",
@@ -36,7 +56,21 @@
       "youtube_url": "https://www.youtube.com/watch?v=1LoWd2IiKE0",
       "title_gu": "Kacheguda police officer refusing to file FIR on cognizable offences, child kidnapping.",
       "title_en": "Caller Alleges Kacheguda Police Refused FIR on Child Kidnapping",
+      "language": "hi",
+      "published_date": "2026-09-19",
+      "duration_seconds": 396,
+      "location": [
+        "Kacheguda",
+        "Abu Dhabi"
+      ],
       "summary_en": "In this video, the speaker alleges that a Kacheguda police officer would not file an FIR for the illegal detention and kidnapping of his daughter and instead told him to delete posts and have his father file the complaint.",
+      "claims": [
+        "Alleges that a Kacheguda police officer would not file an FIR for the illegal detention and kidnapping of his daughter",
+        "Alleges that his daughter was illegally detained in an office, is now outside India, and that a court order requires her return to Indian jurisdiction",
+        "Alleges that the child was later sent to Abu Dhabi and that this is an international parental child kidnapping case",
+        "Says the officer told him to delete Instagram and Facebook posts and have his father file the complaint",
+        "Says he asked the officer to lodge the FIR and asks what action the police have taken for six or seven months"
+      ],
       "tags": [
         "Minor abuse",
         "Police / FIR refusal",
@@ -65,7 +99,22 @@
       "youtube_url": "https://www.youtube.com/watch?v=FInbRTgpox4",
       "title_gu": "અંગીકાર પ્રથા માં ફસાવા નો. પ્રયત્ન કરાયેલી એક પીડાતા વૈષ્ણવ ની આપવીતી",
       "title_en": "Woman Describes Attempts to Trap Her in the Angikar Practice",
+      "language": "gu",
+      "published_date": "2025-02-17",
+      "duration_seconds": 2425,
+      "location": [
+        "Sion",
+        "Nathdwara",
+        "Vraj"
+      ],
       "summary_en": "In this video, the speaker alleges that a Goswami Balak tried to pull her into angikar leela, came to her house at night, and that she saw the same practice on yatra and in other homes.",
+      "claims": [
+        "Alleges that a Goswami Balak mentally tortured her because she was not ready to take part in his angikar leela",
+        "Alleges that at one o'clock at night he came to her house, hugged her and kissed her forehead",
+        "Alleges that on the yatra, ladies dressed up and went turn by turn into the pals at night",
+        "Alleges that a Vaishnav in Sion invited her to a supposed Manorath, took her into a decorated bedroom, and wanted a Goswami to do her angikar there",
+        "Alleges that in Nathdwara he asked whether her complete angikar should happen there, and that she refused"
+      ],
       "tags": [
         "Angikar",
         "Grooming",
@@ -100,7 +149,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=GrTlSA2xf2I",
       "title_gu": "અંગિકાર પીડિતા એ પોતે જ આપેલ પ્રશ્નો અને શંકા ઓ ના જવાબ",
       "title_en": "Speaker Explains Why She Still Visited the Haveli After Misconduct",
+      "language": "gu",
+      "published_date": "2025-02-22",
+      "duration_seconds": 550,
+      "location": [
+        "Vraj"
+      ],
       "summary_en": "In this video, the speaker explains that after a Balak came to her house at night she stopped going upstairs in the haveli, and went on Vraj yatra only with elders who stayed with her.",
+      "claims": [
+        "Says that after a Balak came to her house at night she stopped going upstairs in the haveli",
+        "Says the first experience was with the Balak, and the second was when a Vaishnav called her to a house for a Manorath, which is how she learned of dalal Vaishnavs",
+        "Says that after he came at night she could not sleep and would cry during seva",
+        "Says she went on Vraj yatra only because elders in her pal knew her situation and promised to stay with her",
+        "Alleges that on the yatra a sister tried to take her during Sharad's Manorath, which she found to be torture"
+      ],
       "tags": [
         "Angikar",
         "Grooming",
@@ -134,7 +196,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=I7_iuSWtXbg",
       "title_gu": "પવિત્રા દ્વાદશી ને દિવસે એક વૈષ્ણવે જૂનાગઢ માં જોયેલો અંગીકાર (AI દ્વારા અવાજ બદલેલ છે.)",
       "title_en": "Speaker Recounts Alleged Angikar by Navneetlalji in Junagadh",
+      "language": "gu",
+      "published_date": "2025-05-24",
+      "duration_seconds": 459,
+      "location": [
+        "Junagadh"
+      ],
       "summary_en": "In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras in Junagadh, Navneetlalji performed angikar with the speaker's friend inside the haveli.",
+      "claims": [
+        "Alleges that about 22 years ago, on Pavitra Agiyaras, a Goswami performed angikar with the speaker's friend inside a haveli in Junagadh",
+        "Alleges that a khavas, also called a dalal woman, told the friend to accept angikar and seated her on a bed in a back room",
+        "Alleges that after the pavitra offerings he went into the bhitar and performed angikar with the friend",
+        "Says that on the way home the friend told the speaker that he had sexual intercourse with her",
+        "Alleges that even on the sacred day of Pavitra Baras, Vallabhkul misused their position and did not keep lust under control"
+      ],
       "tags": [
         "Angikar",
         "Coercion / trapping",
@@ -165,7 +240,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=NZshN1PsKM8",
       "title_gu": "અંગીકાર માટે થતું બ્રેન વોશ સમજાવતા એક બેન..(આ વીડિયો ની સત્યતા ની જવાબદારી આશિષ શાહ કે ચેનલ ની નથી)",
       "title_en": "Woman Describes How Relatives Tried to Draw Her into Angikar",
+      "language": "gu",
+      "published_date": "2025-05-04",
+      "duration_seconds": 2662,
+      "location": [
+        "Kandivali"
+      ],
       "summary_en": "In this video, the speaker alleges that relatives and a man who also used the name Tushar tried to draw her into angikar, first among Vaishnavs and then with a Bavashri in Kandivali.",
+      "claims": [
+        "Alleges that relatives tried to draw her into angikar, first among Vaishnavs and then with a Bavashri in Kandivali",
+        "Alleges that a relative brought a Vaishnav to her house at night, saying Thakorji had given him prerna to come",
+        "Alleges that the man told her to stop her law studies, keep distance from her husband, and sleep in a separate room",
+        "Alleges that when she was alone at home he explained the meanings of seva offerings in obscene language",
+        "Alleges the plan was that she would first do angikar with him and then be taken to a Bavashri in Kandivali"
+      ],
       "tags": [
         "Angikar",
         "Grooming",
@@ -202,7 +290,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=PbSBVgR00y4",
       "title_gu": "વ્રજયાત્રા માં પણ વ્યાભિચાર",
       "title_en": "Poonamji Describes Alleged Misconduct During a Vraj Yatra",
+      "language": "gu",
+      "published_date": "2025-02-19",
+      "duration_seconds": 319,
+      "location": [
+        "Vraj"
+      ],
       "summary_en": "In this video, the speaker alleges that on a Vraj yatra about 15 years ago a Bawashri tried to hug her, that his followers pressed her to accept, and that London devotees also take part.",
+      "claims": [
+        "Alleges that on a Vraj yatra about 15 years ago a Bawashri made gestures to hug her, then insulted her and told her to leave when she refused",
+        "Alleges that the sakhis, the men around him, and Mukhiyaji all pressed her to accept",
+        "Alleges that the sakhis who stayed near him would go to bathe him",
+        "Says London people and other foreigners also take part and arrange long stays with Bawashri in Vraj",
+        "Alleges that a man from the Haveli told her that in Junagadh a father leaves his own daughter with Babashri for the whole night"
+      ],
       "tags": [
         "Coercion / trapping",
         "Sexual misconduct",
@@ -235,7 +336,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=Q_FjhHfPSQw",
       "title_gu": "કહેવાતા વૈષ્ણવો ની અંદરોઅંદર ની બીભત્સ લીલા નું વર્ણન કરતા એક જાગૃત વૈષ્ણવ બેન (સત્યતા ચકાસવી)",
       "title_en": "Purvi Describes Alleged Misconduct in Her Mother's Bombay Vaishnav Satsang",
+      "language": "gu",
+      "published_date": "2025-05-03",
+      "duration_seconds": 895,
+      "location": [
+        "Bombay"
+      ],
       "summary_en": "In this video, the speaker alleges that women in her mother's Vaishnav satsang circle in Bombay engage in intimate physical conduct and claim divine encounters with Thakorji, and argues that this defames the marg.",
+      "claims": [
+        "Alleges that she saw women in her mother's Bombay satsang hug and kiss each other and feed each other lip to lip, calling each other gopi",
+        "Says her mother told her that questioning these practices would bring aparadh",
+        "Alleges that members described Thakorji drinking their milk and doing leela with them at night",
+        "Alleges that Vaishnavs perform angikar on each other, before Bavashris do, and that she saw this with her own eyes",
+        "Alleges that a guest who stayed overnight at her family's Bombay flat later said Thakorji was doing leela with her"
+      ],
       "tags": [
         "Angikar",
         "Sexual misconduct",
@@ -267,7 +381,21 @@
       "youtube_url": "https://www.youtube.com/watch?v=eSk6YcBMN7A",
       "title_gu": "અંગીકાર મેનિયાક મગન ને ટ્રેપ કરી એની સાન ઠેકાણે લાવવા નો પ્રયાસ",
       "title_en": "Lawyer Confronts Maganbhai Over Alleged Angikar Talk on Vraj Yatra",
+      "language": "gu",
+      "published_date": "2025-05-04",
+      "duration_seconds": 1614,
+      "location": [
+        "Vraj",
+        "Bhesan"
+      ],
       "summary_en": "In this video, the speaker confronts Maganbhai by phone, alleges that he asked three sisters about angikar on a Vraj yatra, and presses him to admit he wanted sexual pleasure.",
+      "claims": [
+        "Alleges that a village elder asked three sisters on a recent Vraj yatra whether they had had angikar",
+        "Alleges that he talks of doing angikar with women from all over the village",
+        "Alleges that he has village girls do angikar but has not had his own daughter do it",
+        "Says that after being pressed many times, the man said from his own mouth that he wanted to enjoy bodily pleasure",
+        "Says he is a lawyer and will file a complaint and bring the police to Bhesan"
+      ],
       "tags": [
         "Angikar",
         "Coercion / trapping",
@@ -297,7 +425,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=hm6CWCSwXzQ",
       "title_gu": "વ્રજયાત્રા માં પણ વ્યાભિચાર (સત્યતા જાતે ચકાસવી)",
       "title_en": "Poonamji Recounts Alleged Advances by a Babashri on Vraj Yatra",
+      "language": "gu",
+      "published_date": "2025-05-04",
+      "duration_seconds": 318,
+      "location": [
+        "Vraj"
+      ],
       "summary_en": "In this video, the speaker alleges that during a Vraj yatra about 15 years ago Babashri tried to hug her, that she was pressed to accept, and that even London devotees take part.",
+      "claims": [
+        "Alleges that during a Vraj yatra about 15 years ago a Babashri made gestures to hug her, then insulted her and told her to leave when she refused",
+        "Alleges that the sakhis, the men around him, and Mukhiyaji all pressed her to accept",
+        "Alleges that the sakhis who stayed around him would go to bathe him",
+        "Says London people also take part and arrange to stay with Bawashri for 15 days at a stretch in Vraj",
+        "Alleges that a man from the Haveli told her that in Junagadh a father leaves his own daughter with Babashri for the whole night"
+      ],
       "tags": [
         "Coercion / trapping",
         "Sexual misconduct",
@@ -330,7 +471,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=oCCmymmPIIg",
       "title_gu": "અંગીકાર પ્રથા માં પોતાની બેન અને દીકરી સાથે થયેલ ઘટના  વૈષ્ણવ બેન (નામ અને અમુક શબ્દો મ્યુટ કરેલ છે)",
       "title_en": "Vaishnav Woman Alleges Misconduct Involving Sister and Daughter",
+      "language": "gu",
+      "published_date": "2025-02-22",
+      "duration_seconds": 126,
+      "location": [
+        "not stated"
+      ],
       "summary_en": "In this video, the speaker alleges that a man did not spare sisters, made a video call to her daughter when she was alone, and says they will not do seva of Vallabh Kul.",
+      "claims": [
+        "Alleges that a man does not even spare anyone's sisters",
+        "Alleges that he could video call her daughter and asked if she was alone so he could talk to her",
+        "Says she stood behind her daughter and heard this",
+        "Alleges that during that call he used suggestive words about her body",
+        "Says they want to do Thakurji's seva and do not do Vallabh Kul's seva"
+      ],
       "tags": [
         "Angikar",
         "Grooming",
@@ -360,7 +514,21 @@
       "youtube_url": "https://www.youtube.com/watch?v=tK-KGhFtwX8",
       "title_gu": "એક ક્રાંતિકારી વૈષ્ણવ ગો.વા નંદકુમાર ગાંધી દ્વારા શરૂ કરેલ અંગીકાર પ્રથા વિરોધ અભિયાન",
       "title_en": "Nandkumar Gandhi Campaigns Against Alleged Angikar by Balaks in Bapunagar",
+      "language": "gu",
+      "published_date": "2025-04-22",
+      "duration_seconds": 2144,
+      "location": [
+        "Bapunagar",
+        "Surat"
+      ],
       "summary_en": "In this video, the speaker presents a pamphlet against angikar and alleges that Balaks and their associates in Bapunagar and Surat misuse women in the name of religion.",
+      "claims": [
+        "Alleges that Balaks and their associates in Bapunagar and Surat misuse women in the name of religion",
+        "Alleges that a 75-year-old man was caught with a woman in a back room of a haveli in Bapunagar before Diwali",
+        "Alleges that people are taught they attain leela and Mahaprabhuji only if they go to all seven Balaks and surrender everything",
+        "Alleges that an unmarried girl became pregnant after being used at a man's house, and that she named him when a doctor threatened a police case",
+        "Alleges that some Balaks have sexual contact with women during menstruation, calling it khata goras"
+      ],
       "tags": [
         "Angikar",
         "Grooming",
@@ -392,7 +560,19 @@
       "youtube_url": "https://www.youtube.com/watch?v=uefQMLRAcZs",
       "title_gu": "એક વૈષ્ણવ ના અંગીકાર પ્રથા વિષે ના અભિપ્રાય",
       "title_en": "Vaishnav Alleges an Elder Aimed Angikar Talk at His Wife",
+      "language": "gu",
+      "published_date": "2024-12-24",
+      "duration_seconds": 326,
+      "location": [
+        "not stated"
+      ],
       "summary_en": "In this video, the speaker alleges that an elderly Vaishnav turned a health visit into talk of angikar aimed at the speaker's wife, and urges support for those who speak against the practice.",
+      "claims": [
+        "Alleges that an elderly Vaishnav turned a health visit into talk of angikar aimed at the speaker's wife",
+        "Alleges that the man said the tilak Thakorji wears is of a woman's private parts",
+        "Alleges that the man said Baba had not partaken of beautiful samagri for a long time, speaking with intent toward the speaker's wife",
+        "Says that about two days later he went to Junagadh after hearing an explanation of Kamakhya Dosh"
+      ],
       "tags": [
         "Angikar",
         "Sexual misconduct",
