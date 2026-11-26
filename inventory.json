@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 100,
+    "total_entries": 101,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -5219,6 +5219,62 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/a-temple-story-and-allegations-about-nathdwara.md"
+    },
+    {
+      "video_id": "bb8m5Lw97ZU",
+      "youtube_url": "https://www.youtube.com/watch?v=bb8m5Lw97ZU",
+      "title_gu": "Pushtimargiya Samvad is live",
+      "title_en": "Claims About Marriage and Conduct in the Vaishnav Community",
+      "language": "gu",
+      "published_date": "2025-04-25",
+      "duration_seconds": 1296,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that female foeticide and the handing over of daughters to Goswami religious figures contribute to difficulties finding brides. The speaker also condemns what he describes as sexual misconduct associated with angikar.",
+      "claims": [
+        "Alleges that families face difficulty finding brides for their sons.",
+        "Alleges that female foeticide contributes to this difficulty.",
+        "Alleges that daughters are handed over to Goswami religious figures, particularly in Kathiawar.",
+        "Alleges that a practice involving a daughter’s first night with a religious figure is a principal cause of the problem.",
+        "Alleges that sexual misconduct is being carried on in connection with angikar."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Goswami / Bawa",
+        "Victim silencing",
+        "First-hand"
+      ],
+      "flags": [
+        "murder_or_death",
+        "child_sexual_abuse",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.29,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "FIR / एफआईआर",
+        "Junagadh / જૂનાગઢ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "murder / death",
+        "child sexual abuse / minor abuse",
+        "HIV / STD / pregnancy / abortion",
+        "blackmail / extortion"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/claims-about-marriage-and-conduct-in-the-vaishnav-community.md"
     }
   ]
 }
