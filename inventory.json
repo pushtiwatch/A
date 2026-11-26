@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 90,
+    "total_entries": 91,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4735,6 +4735,56 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/offerings-to-religious-leaders.md"
+    },
+    {
+      "video_id": "vU9p2g8adsM",
+      "youtube_url": "https://www.youtube.com/watch?v=vU9p2g8adsM",
+      "title_gu": "Pushtimargiya Samvad is live",
+      "title_en": "Allegations of Grooming",
+      "language": "gu",
+      "published_date": "2024-09-23",
+      "duration_seconds": 1797,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that Vaishnav devotees are being groomed and warns that girls aged 17 and 18 are being targeted. The speaker also objects to a statement about Yashoda and the nature of her devotion.",
+      "claims": [
+        "Alleges that vaishnav devotees are being groomed.",
+        "Alleges that sexual activity will occur under a pretext.",
+        "Alleges that women caught up in grooming may become groomers themselves.",
+        "Alleges that girls aged 17 and 18 are being targeted."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "first_hand"
+      ],
+      "explosive_score": 0.2,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "Vraj yatra / વ્રજયાત્રા",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "Ahmedabad",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual",
+        "grooming",
+        "family grooming / community pressure",
+        "black magic / superstition / તંત્ર-મંત્ર"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-grooming.md"
     }
   ]
 }
