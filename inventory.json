@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 76,
+    "total_entries": 77,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4033,6 +4033,45 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-grooming-and-videos.md"
+    },
+    {
+      "video_id": "G-Zh5y_i5vQ",
+      "youtube_url": "https://www.youtube.com/watch?v=G-Zh5y_i5vQ",
+      "title_gu": "છો કે નહીં ?",
+      "title_en": "Surrender and Devotional Service",
+      "language": "gu",
+      "published_date": "2025-05-08",
+      "duration_seconds": 3250,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker discusses surrender and initiation, suggesting that true surrender keeps a devotee focused on God. The speaker also begins discussing devotional service and conduct toward the deity.",
+      "claims": [
+        "Alleges that surrender keeps the soul focused on God throughout the day.",
+        "Alleges that genuine initiation should leave no desire for anything else.",
+        "Alleges that initiation will not occur merely by assuming one is surrendering.",
+        "Alleges that conduct toward the deity should follow the manner appropriate to devotional service."
+      ],
+      "tags": [
+        "Angikar",
+        "Sexual misconduct"
+      ],
+      "flags": [
+        "sexual_misconduct_other",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.09,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Thakorji / ઠાકોરજી",
+        "Mahaprabhuji",
+        "FIR / एफआईआर",
+        "sexual misconduct"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/surrender-and-devotional-service.md"
     }
   ]
 }
