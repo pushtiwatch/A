@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 91,
+    "total_entries": 92,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4785,6 +4785,52 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-grooming.md"
+    },
+    {
+      "video_id": "p4Hc4wHWcT8",
+      "youtube_url": "https://www.youtube.com/watch?v=p4Hc4wHWcT8",
+      "title_gu": "ગાંડા ના મુખે ડાહી વાતો -૧",
+      "title_en": "Allegations About Conduct During Pilgrimages",
+      "language": "gu",
+      "published_date": "2024-09-28",
+      "duration_seconds": 3389,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges sexual misconduct involving Goswamis and children, and describes alleged sexual conduct during pilgrimages. The speaker also refers to a possible commission connected with a large pilgrimage.",
+      "claims": [
+        "Alleges that some Goswamis seek sexual relations with children.",
+        "Alleges that a commission was discussed in connection with a large pilgrimage.",
+        "Alleges that people were kissed daily during an earlier pilgrimage.",
+        "Alleges that sexual conduct continued during a recent pilgrimage."
+      ],
+      "tags": [
+        "Angikar",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Goswami / Bawa",
+        "Victim silencing"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "child_harm_nonsexual",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.21,
+      "keywords": [
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "Junagadh / જૂનાગઢ",
+        "Sion",
+        "child sexual abuse / minor abuse",
+        "child harm / kidnapping / custody",
+        "angikar / અંગીકાર / अंगीकार",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-during-pilgrimages.md"
     }
   ]
 }
