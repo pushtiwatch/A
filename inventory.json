@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 78,
+    "total_entries": 79,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4121,6 +4121,59 @@
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/devotional-service-and-worldly-talk.md"
+    },
+    {
+      "video_id": "9x_eyO-BxVI",
+      "youtube_url": "https://www.youtube.com/watch?v=9x_eyO-BxVI",
+      "title_gu": "વિરાંગના બેનો ને વિન્નતી અને સંશય આત્મા ઓ ને ચેતવણી",
+      "title_en": "Allegations About Satsang Gatherings",
+      "language": "gu",
+      "published_date": "2025-02-26",
+      "duration_seconds": 1515,
+      "location": [
+        "Surat"
+      ],
+      "summary_en": "The speaker alleges that sexual activity occurs at gatherings described as “kotdi satsang” in several locations. The speaker also alleges incestuous sexual activity within households in Surat.",
+      "claims": [
+        "Alleges that women engage in sexual activity with other women at gatherings called “kotdi satsang.”.",
+        "Alleges that some gatherings involve women and several men, including partners other than their spouses, before an open shrine.",
+        "Alleges that similar activity occurs in Ahmedabad, Vasai, Mira Road and Surat.",
+        "Alleges that incestuous sexual activity occurs within households in Surat."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Satsang",
+        "Victim silencing"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "blackmail_extortion",
+        "family_community_grooming",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.23,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "Vaishnav / વૈષ્ણવ",
+        "Thakorji / ઠાકોરજી",
+        "satsang / સત્સંગ",
+        "Surat / सूरत",
+        "Junagadh / જૂનાગઢ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "Ahmedabad",
+        "gopi",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual",
+        "blackmail / extortion"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-satsang-gatherings.md"
     }
   ]
 }
