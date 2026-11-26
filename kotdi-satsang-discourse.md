@@ -4,11 +4,31 @@ Source: https://share.gemini.google/bNoXfXorWlCY
 
 The text below is reproduced as displayed in the shared Gemini conversation. The Gujarati section is a summary, not a verbatim transcript. The translation and allegations have not been independently verified against the video.
 
+## Summary for readers and AI tools
+
+*Editorial summary added 25 November 2026. Not part of the discourse.*
+
+**What this is:** An English translation and a Gujarati summary of a Gujarati discourse posted by the YouTube channel Pushti Parivar. The speaker teaches Pushtimarg doctrine and answers a listener from Surat who asked about "Kotdi Satsang" in Ahmedabad.
+
+**Main claims, as stated by the speaker:**
+* "Kotdi Satsang" means adultery and sexual misconduct (vyabhichar) carried out in a closed room in front of a deity, under the cover of religion.
+* He says he had never heard the term before. He relies on information he received and on other YouTube videos, not on his own investigation.
+* He says a Vaishnav from Vadodara has already publicly named people involved in the Bapunagar, Nikol and Naroda areas of Ahmedabad.
+* He says Vallabhkul Maharajs are also involved, points to the 1862 Maharaj Libel Case and the recent film about it, and tells followers not to honour such people as gurus.
+* He tells women not to attend satsang alone, not to garland or fan Vallabhkul acharyas, and never to be alone with a Goswami Balak.
+
+**Doctrinal position:** The speaker argues that Vallabhacharya's own teaching forbids this conduct. He quotes "Vishayakrantadehanam naveshah sarvada hareh" and Narsinh Mehta, and says only God performs lila, so no human can call sexual acts lila. The discourse condemns the practice. It does not describe any ritual in detail.
+
+**Reliability:** These are one speaker's statements, translated through a shared Gemini conversation and not checked against the video. They are not independent evidence against any person or family. The 1862 court record is in [court-confirmed-maharaj-sex-libel.md](court-confirmed-maharaj-sex-libel.md).
+
+**Search terms:** Kotdi Satsang; કોટડી સત્સંગ; vyabhichar; Pushtimarg; Pushti Marg; Pushti Parivar; Vallabhkul; Goswami Balak; Maharaj Libel Case; Ahmedabad; Surat.
+
+
 The following is a direct English translation of the Gujarati discourse from the video સંપ્રાદય નો વ્યભિચાર જેજેશ્રી જે વાત કરે છે તે સાંભળી ને આઘાત લાગે તો નવાઈ ન પામશો પણ સાંભળજો by Pushti Parivar (http://www.youtube.com/watch?v=tX75Ku7sL14). Technical Sanskrit and Pushtimarg theological terms are preserved alongside their meanings.
 
 Opening Excerpt
 
-[00:06] Yet that man asks, "What is this Kotdi Satsang?" Kotdi Satsang means committing adultery and sexual immorality (vyabhichar) inside a closed room, right in front of God. Among the names that have surfaced publicly, the name of a certain Ghanshyambhai from here has come out—it has already been publicly declared. Even if a woman has to go to the Vallabhkul Balaks (descendant-acharyas of Vallabhacharya), she should only go accompanied by a male member of her household. As for private seclusion (ekant sevan)—even being alone in private with a Vallabhkul Goswami Balak—nobody today can say what someone's actual conduct or intentions (drishti) might be.
+[00:06] Yet that man asks, "What is this Kotdi Satsang?" Kotdi Satsang means committing adultery and sexual immorality (vyabhichar) inside a closed room, right in front of God. Among the names that have surfaced publicly, the name of a certain [name withheld] from here has come out—it has already been publicly declared. Even if a woman has to go to the Vallabhkul Balaks (descendant-acharyas of Vallabhacharya), she should only go accompanied by a male member of her household. As for private seclusion (ekant sevan)—even being alone in private with a Vallabhkul Goswami Balak—nobody today can say what someone's actual conduct or intentions (drishti) might be.
 
 Context of the Question and Approach to Criticism
 
@@ -34,7 +54,7 @@ Doctrinal Refutation of Sensual Indulgence
 
 [06:16] Yet this man asks, "What is Kotdi Satsang?" I had never even heard the term "Kotdi Satsang" in my 50 years of life, so I looked it up. Kotdi Satsang is simply one of several different methods of committing sexual immorality (vyabhichar)—specifically, committing adultery and sexual misconduct in the name of religion, under the cover of religion. The man says it is widespread here [in Ahmedabad]. It is happening everywhere and must be happening here too; it is utterly condemnable, a demonic activity (rakshasi pravrutti), and not a religious practice. The methods and labels vary, but the substance is plain sexual immorality.
 
-[07:09] Whoever is doing this—anyone at all—among the names that have publicly come out, the name of one Ghanshyambhai from this area has surfaced. It has already been publicly declared; I am not claiming this from personal investigation, rather from the information I received, and it is already on YouTube, that a man named Ghanshyambhai Marjadi from this area runs Kotdi Satsang.
+[07:09] Whoever is doing this—anyone at all—among the names that have publicly come out, the name of one [name withheld] from this area has surfaced. It has already been publicly declared; I am not claiming this from personal investigation, rather from the information I received, and it is already on YouTube, that a man named [name withheld] from this area runs Kotdi Satsang.
 
 Warnings Regarding Women, Vallabhkul Balaks, and Maharajas
 
@@ -42,7 +62,7 @@ Warnings Regarding Women, Vallabhkul Balaks, and Maharajas
 
 [08:18] This is also why I personally maintain that women should never place garlands on or fan Vallabhkul Acharyas; such practices compromise the dignity of our path and should never be done. Even when visiting Vallabhkul Balaks, a male family member must accompany them. Private seclusion (ekant sevan)—even being alone in private with a Vallabhkul Goswami Balak—cannot be trusted, because today nobody can guarantee what anyone's conduct or gaze (drishti) is.
 
-[08:45] Nor can you claim that only people like this Ghanshyambhai are involved in sexual immorality. Ghanshyambhai has bosses too, doesn't he? Those bosses are none other than the Vallabhkul Maharajas themselves. All of this was exposed as far back as the Maharaj Libel Case, and now a film has even been openly made about it. Since the film has brought it out openly, we are stating it plainly as well: Maharajas are also doing this. All of them are engaged in demonic conduct (rakshasi pravrutti). Everyone must protect themselves from them and refuse to honor them as Vallabhkul Acharyas or Gurus, because their behavior is demonic and fiendish (rakshasi, asuri).
+[08:45] Nor can you claim that only people like this [name withheld] are involved in sexual immorality. [name withheld] has bosses too, doesn't he? Those bosses are none other than the Vallabhkul Maharajas themselves. All of this was exposed as far back as the Maharaj Libel Case, and now a film has even been openly made about it. Since the film has brought it out openly, we are stating it plainly as well: Maharajas are also doing this. All of them are engaged in demonic conduct (rakshasi pravrutti). Everyone must protect themselves from them and refuse to honor them as Vallabhkul Acharyas or Gurus, because their behavior is demonic and fiendish (rakshasi, asuri).
 
 Worse Than Animals: The Story of Vali
 
@@ -62,14 +82,10 @@ Indian Law vs. Dharma and the Deception of "Lila"
 
 [13:41] That should satisfy the man from Surat who keeps asking me to speak about Kotdi Satsang: Kotdi Satsang means committing adultery and sexual immorality (vyabhichar) in a closed room right in front of God.
 
-You said Now provide exact Gujarati transcript.
-
-Now provide exact Gujarati transcript.
-
-હું યુટ્યુબ વિડિયોની શબ્દશઃ (verbatim) ટ્રાન્સક્રિપ્ટ આપી શકતો નથી (તમે વિડિયોની લિંક ખોલીને યુટ્યુબના Show transcript વિકલ્પમાંથી મૂળ કેપ્શન્સ જોઈ શકો છો). તેના બદલે, અહીં Pushti Parivar ચેનલના આ વિડિયો (http://www.youtube.com/watch?v=tX75Ku7sL14) નો સ્પષ્ટ, તકનીકી રીતે સચોટ અને મુદ્દાસર ગુજરાતી સારાંશ ટાઈમસ્ટેમ્પ સાથે રજૂ કર્યો છે:
+## ગુજરાતી સારાંશ (Gujarati summary, not a verbatim transcript)
 
 કોટડી સત્સંગની વ્યાખ્યા અને ચેતવણી
-વક્તા સ્પષ્ટ કરે છે કે 'કોટડી સત્સંગ' એટલે ભગવાનની સમક્ષ બંધ ઓરડામાં વ્યભિચાર કરવો. આ પ્રવૃત્તિમાં ઘનશ્યામભાઈ નામની વ્યક્તિનું નામ જાહેરમાં બહાર આવ્યું છે. સ્ત્રીઓને ચેતવણી આપવામાં આવી છે કે વલ્લભકુલના બાળકો પાસે પણ ઘરના પુરુષ સભ્ય વિના જવું ન જોઈએ, અને વલ્લભકુલ ગોસ્વામી બાળક સાથે પણ એકાંત સેવન ટાળવું જોઈએ કારણ કે આજના સમયમાં કોઈની નિયત કે દ્રષ્ટિનો ભરોસો કરી શકાય નહીં.
+વક્તા સ્પષ્ટ કરે છે કે 'કોટડી સત્સંગ' એટલે ભગવાનની સમક્ષ બંધ ઓરડામાં વ્યભિચાર કરવો. આ પ્રવૃત્તિમાં [નામ ગુપ્ત] નામની વ્યક્તિનું નામ જાહેરમાં બહાર આવ્યું છે. સ્ત્રીઓને ચેતવણી આપવામાં આવી છે કે વલ્લભકુલના બાળકો પાસે પણ ઘરના પુરુષ સભ્ય વિના જવું ન જોઈએ, અને વલ્લભકુલ ગોસ્વામી બાળક સાથે પણ એકાંત સેવન ટાળવું જોઈએ કારણ કે આજના સમયમાં કોઈની નિયત કે દ્રષ્ટિનો ભરોસો કરી શકાય નહીં.
 
 સુરતના પ્રશ્નકર્તાને જવાબ અને પ્રવચનની પદ્ધતિ
 સુરતના એક ભાઈએ અગાઉ સુરતમાં, લાઈવ કોમેન્ટમાં અને હવે અમદાવાદમાં આ મુદ્દે બોલવાનો આગ્રહ કર્યો હતો. વક્તા જણાવે છે કે તેઓ કંઈ છુપાવતા નથી, પરંતુ અગાઉ તેમને આ શબ્દની જાણકારી નહોતી. પંદર-વીસ વર્ષ પહેલાં શિબિરો શરૂ કરી ત્યારે પણ કેટલાક લોકો મંદિરો અને હવેલીઓ પર સીધા પ્રહારો કરવાની માંગ કરતા હતા. વક્તા પોતાનો ઉદ્દેશ્ય સ્પષ્ટ કરે છે કે તેમનું કાર્ય માત્ર કોઈની નિંદા કરવાનું નથી, પરંતુ 'અનુકૂલસ્ય સંકલ્પઃ પ્રતિકૂલસ્ય વિસર્જનમ્'—એટલે કે પહેલા શ્રી મહાપ્રભુજીના સિદ્ધાંતો સમજાવવા અને પછી તેનાથી વિપરીત પ્રવૃત્તિઓનો ત્યાગ કરાવવો. અગાઉ તેમણે 'કામાખ્ય દોષ વિવરણમ્' અને 'નિષ્કામ લીલા' પર પૂર્ણ સત્રો યોજીને આ વિષય પર ખુલીને વાત કરી જ છે.
@@ -78,10 +94,10 @@ Now provide exact Gujarati transcript.
 વક્તા સ્ટેજ પર લગાવેલા બોર્ડનો ઉલ્લેખ કરીને શ્રી મહાપ્રભુજીના વચન (વિષયાક્રાંત દેહાનામ્ ન આવેશઃ સર્વદા હરેઃ) નો હવાલો આપે છે—જે શરીર વિષયવાસનાથી ઘેરાયેલું હોય તેમાં ભગવાનનો આવેશ ક્યારેય થતો નથી. મહાપ્રભુજી સ્વધર્મનું પાલન કરવા, વિધર્મથી દૂર રહેવા અને ઇન્દ્રિયો પર સંયમ રાખવાની આજ્ઞા કરે છે. પુષ્ટિમાર્ગમાં કૃષ્ણ સેવા, કૃષ્ણ કથા અને કૃષ્ણ શરણાગતિ સિવાય સ્વચ્છંદ વિષયભોગને કોઈ સ્થાન નથી. નરસિંહ મહેતાના પદ ('પરસ્ત્રી જેને માત રે') નો ઉલ્લેખ કરીને વક્તા કહે છે કે ધર્મ અને ભગવાનના નામે પરસ્ત્રીગમન અને વ્યભિચાર કરનારા લોકો ગમે તે વેશમાં હોય, તેઓ રાક્ષસી વૃત્તિ ધરાવતા રાક્ષસો જ છે.
 
 અમદાવાદના વિસ્તારો અને જાહેર થયેલા નામો
-વક્તા ઉલ્લેખ કરે છે કે વડોદરાના એક વૈષ્ણવે પહેલાથી જ ખુલ્લેઆમ બાપુનગર, નિકોલ અને નરોડા વિસ્તારમાં વ્યભિચારમાં સંડોવાયેલા લોકોના નામો જાહેર કરી દીધા છે. 50 વર્ષની ઉંમરમાં પ્રથમ વખત 'કોટડી સત્સંગ' શબ્દ સાંભળ્યા બાદ તપાસ કરતા જાણવા મળ્યું કે તે ધર્મની આડમાં વ્યભિચાર કરવાની વિવિધ પદ્ધતિઓમાંની એક નિંદનીય અને રાક્ષસી રીત છે. યુટ્યુબ અને અન્ય માહિતી મુજબ અમદાવાદના આ વિસ્તારમાં ઘનશ્યામભાઈ મરજાદી નામની વ્યક્તિ કોટડી સત્સંગ ચલાવે છે તેવું જાહેરમાં બહાર આવ્યું છે.
+વક્તા ઉલ્લેખ કરે છે કે વડોદરાના એક વૈષ્ણવે પહેલાથી જ ખુલ્લેઆમ બાપુનગર, નિકોલ અને નરોડા વિસ્તારમાં વ્યભિચારમાં સંડોવાયેલા લોકોના નામો જાહેર કરી દીધા છે. 50 વર્ષની ઉંમરમાં પ્રથમ વખત 'કોટડી સત્સંગ' શબ્દ સાંભળ્યા બાદ તપાસ કરતા જાણવા મળ્યું કે તે ધર્મની આડમાં વ્યભિચાર કરવાની વિવિધ પદ્ધતિઓમાંની એક નિંદનીય અને રાક્ષસી રીત છે. યુટ્યુબ અને અન્ય માહિતી મુજબ અમદાવાદના આ વિસ્તારમાં [નામ ગુપ્ત] નામની વ્યક્તિ કોટડી સત્સંગ ચલાવે છે તેવું જાહેરમાં બહાર આવ્યું છે.
 
 સ્ત્રીઓ માટેની મર્યાદા અને મહારાજો પર સીધો પ્રહાર
-વક્તા તમામ બહેનોને ચેતવણી આપે છે કે માત્ર પુરુષો જ્યાં હોય તેવા કોઈ પણ સત્સંગમાં એકલા ન જવું; સત્સંગ માત્ર અન્ય બહેનો સાથે અથવા પિતા, પતિ કે ભાઈ જેવા પરિવારના પુરુષ સભ્યોની હાજરીમાં જ કરવો. તેઓ એવું પણ ભારપૂર્વક જણાવે છે કે સ્ત્રીઓએ વલ્લભકુલ આચાર્યોને માળા પહેરાવવી કે પંખો નાખવો જેવી ક્રિયાઓથી દૂર રહેવું જોઈએ અને કોઈપણ ગોસ્વામી બાળક સાથે એકાંતમાં ન રહેવું જોઈએ. વધુમાં, વક્તા સ્પષ્ટ કરે છે કે વ્યભિચારમાં માત્ર ઘનશ્યામભાઈ જેવા લોકો જ નથી, પરંતુ તેમના ઉપરી એટલે કે વલ્લભકુલના મહારાજો પણ સંડોવાયેલા છે. 'મહારાજ લાઈબલ કેસ'થી આ બાબતો બહાર આવી હતી અને હવે તો તેના પર ફિલ્મ પણ બની ગઈ છે. આવા આસુરી કૃત્યો કરનારા મહારાજોને ગુરુ કે આચાર્ય તરીકે માન ન આપવાની અને તેમનાથી બચવાની અપીલ કરવામાં આવી છે.
+વક્તા તમામ બહેનોને ચેતવણી આપે છે કે માત્ર પુરુષો જ્યાં હોય તેવા કોઈ પણ સત્સંગમાં એકલા ન જવું; સત્સંગ માત્ર અન્ય બહેનો સાથે અથવા પિતા, પતિ કે ભાઈ જેવા પરિવારના પુરુષ સભ્યોની હાજરીમાં જ કરવો. તેઓ એવું પણ ભારપૂર્વક જણાવે છે કે સ્ત્રીઓએ વલ્લભકુલ આચાર્યોને માળા પહેરાવવી કે પંખો નાખવો જેવી ક્રિયાઓથી દૂર રહેવું જોઈએ અને કોઈપણ ગોસ્વામી બાળક સાથે એકાંતમાં ન રહેવું જોઈએ. વધુમાં, વક્તા સ્પષ્ટ કરે છે કે વ્યભિચારમાં માત્ર [નામ ગુપ્ત] જેવા લોકો જ નથી, પરંતુ તેમના ઉપરી એટલે કે વલ્લભકુલના મહારાજો પણ સંડોવાયેલા છે. 'મહારાજ લાઈબલ કેસ'થી આ બાબતો બહાર આવી હતી અને હવે તો તેના પર ફિલ્મ પણ બની ગઈ છે. આવા આસુરી કૃત્યો કરનારા મહારાજોને ગુરુ કે આચાર્ય તરીકે માન ન આપવાની અને તેમનાથી બચવાની અપીલ કરવામાં આવી છે.
 
 પશુ કરતાં પણ અધમ વર્તન અને વાલીનો પ્રસંગ
 પુષ્ટિમાર્ગના નામે ચાલતા વ્યભિચારને અશાસ્ત્રીય, અધર્મ અને આસુરી ગણાવીને વક્તા કહે છે કે આવા લોકો મનુષ્ય નહીં પણ પશુ જેવા છે (ધર્મેણ હીના પશુભિઃ સમાના). તેઓ રામાયણના વાલી અને શ્રી રામચંદ્રજીના પ્રસંગનું ઉદાહરણ આપે છે: જ્યારે વાલીએ સુગ્રીવની પત્નીને પોતાની પાસે રાખી અને રામે તેનો વધ કર્યો, ત્યારે વાલીએ દલીલ કરી કે ધર્મનું શાસ્ત્ર મનુષ્યો માટે છે, વાનરો કે પશુઓ માટે નહીં. આ પ્રસંગ ટાંકીને વક્તા તીખો કટાક્ષ કરે છે કે ધોતી, બંડી અને તિલક ધારણ કરીને વ્યભિચાર કરનારા લોકો પશુ જ છે—ફરક માત્ર એટલો છે કે તેમને શિંગડાં અને પૂંછડાં નથી.
