@@ -181,6 +181,26 @@
       "reviewed_at": null
     },
     {
+      "video_id": "tK-KGhFtwX8",
+      "youtube_url": "https://www.youtube.com/watch?v=tK-KGhFtwX8",
+      "slug": "nandkumar-gandhi-campaigns-against-alleged-angikar-by-balaks-in-bapunagar",
+      "title_gu": "એક ક્રાંતિકારી વૈષ્ણવ ગો.વા નંદકુમાર ગાંધી દ્વારા શરૂ કરેલ અંગીકાર પ્રથા વિરોધ અભિયાન",
+      "title_en": "Nandkumar Gandhi Campaigns Against Alleged Angikar by Balaks in Bapunagar",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "Nandkumar Gandhi",
+      "summary_en": "In this video, the speaker presents a pamphlet against angikar and alleges that Balaks and their associates in Bapunagar and Surat misuse women in the name of religion.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/nandkumar-gandhi-campaigns-against-alleged-angikar-by-balaks-in-bapunagar.md",
+      "status": "published",
+      "contains_named_private_persons": true,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T07:07:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    {
       "video_id": "uefQMLRAcZs",
       "youtube_url": "https://www.youtube.com/watch?v=uefQMLRAcZs",
       "slug": "vaishnav-alleges-an-elder-aimed-angikar-talk-at-his-wife",
