@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 68,
+    "total_entries": 69,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3596,6 +3596,52 @@
         "family grooming / community pressure"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-conduct-in-the-vaishnav-community.md"
+    },
+    {
+      "video_id": "wZrZ7rYViZg",
+      "youtube_url": "https://www.youtube.com/watch?v=wZrZ7rYViZg",
+      "title_gu": "ચીર નિંદ્રા મા સૂતેલો વૈષ્ણવ સમાજ",
+      "title_en": "Criticism of Conduct in the Vaishnav Community",
+      "language": "gu",
+      "published_date": "2025-05-03",
+      "duration_seconds": 995,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges sexual misconduct and harmful attitudes toward girls within the community. He criticizes those he believes fail to protect girls’ dignity.",
+      "claims": [
+        "Alleges that a Goswami exploits his position to pursue sexual desires.",
+        "Alleges that people direct inappropriate looks at girls aged 16 or 17.",
+        "Alleges that female relatives tell girls that bleeding does not matter in a situation described unclearly.",
+        "Alleges that a girl’s self-respect and dignity are being destroyed."
+      ],
+      "tags": [
+        "Angikar",
+        "Blackmail",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Victim silencing"
+      ],
+      "flags": [
+        "child_sexual_abuse",
+        "blackmail_extortion",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.23,
+      "keywords": [
+        "angikar / અંગીકાર / अंगીकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "satsang / સત્સંગ",
+        "child sexual abuse / minor abuse",
+        "blackmail / extortion",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/criticism-of-conduct-in-the-vaishnav-community.md"
     }
   ]
 }
