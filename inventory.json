@@ -81,6 +81,26 @@
       "reviewed_at": null
     },
     {
+      "video_id": "NZshN1PsKM8",
+      "youtube_url": "https://www.youtube.com/watch?v=NZshN1PsKM8",
+      "slug": "woman-describes-how-relatives-tried-to-draw-her-into-angikar",
+      "title_gu": "અંગીકાર માટે થતું બ્રેન વોશ સમજાવતા એક બેન..(આ વીડિયો ની સત્યતા ની જવાબદારી આશિષ શાહ કે ચેનલ ની નથી)",
+      "title_en": "Woman Describes How Relatives Tried to Draw Her into Angikar",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "not stated",
+      "summary_en": "In this video, the speaker alleges that relatives and a man who also used the name Tushar tried to draw her into angikar, first among Vaishnavs and then with a Bavashri in Kandivali.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/woman-describes-how-relatives-tried-to-draw-her-into-angikar.md",
+      "status": "published",
+      "contains_named_private_persons": true,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T07:07:24Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    {
       "video_id": "PbSBVgR00y4",
       "youtube_url": "https://www.youtube.com/watch?v=PbSBVgR00y4",
       "slug": "poonamji-describes-alleged-misconduct-during-a-vraj-yatra",
