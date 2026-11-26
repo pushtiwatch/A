@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 65,
+    "total_entries": 66,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3451,6 +3451,58 @@
         "kotadi satsang / group sex ritual"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-the-angikar-practice-vkmm7qqnc0u.md"
+    },
+    {
+      "video_id": "MQkygQzq97E",
+      "youtube_url": "https://www.youtube.com/watch?v=MQkygQzq97E",
+      "title_gu": "આશિષ ભાઈ એ અંગીકાર પ્રથા ની નાબુદી માટે શું કાર્ય કર્યું ? વીડિયો મા ગાળ આપ્યા સિવાય નું..",
+      "title_en": "Campaign Against the Angikar Practice",
+      "language": "gu",
+      "published_date": "2025-07-29",
+      "duration_seconds": 1330,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that sexual misconduct has contributed to suicides and refers to the alleged rape of a 16-year-old girl. The speaker calls for Goswamis who engage in misconduct to be barred and says local trustees have not supported the campaign.",
+      "claims": [
+        "Alleges that sexual misconduct has contributed to an increase in suicides.",
+        "Alleges that a 16-year-old girl was raped.",
+        "Alleges that no Vadodara trustee supports the speaker or the campaign against the practice.",
+        "Alleges that goswamis have engaged in sexual misconduct."
+      ],
+      "tags": [
+        "Angikar",
+        "Rape",
+        "Minor abuse",
+        "Sexual misconduct",
+        "Goswami / Bawa",
+        "Victim silencing",
+        "Witness"
+      ],
+      "flags": [
+        "murder_or_death",
+        "rape",
+        "child_sexual_abuse",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.33,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "FIR / एफआईआर",
+        "Vadodara",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "murder / death",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/campaign-against-the-angikar-practice-mqkygqzq97e.md"
     }
   ]
 }
