@@ -21,6 +21,26 @@
       "reviewed_at": null
     },
     {
+      "video_id": "I7_iuSWtXbg",
+      "youtube_url": "https://www.youtube.com/watch?v=I7_iuSWtXbg",
+      "slug": "speaker-recounts-alleged-angikar-by-navneetlalji-in-junagadh",
+      "title_gu": "પવિત્રા દ્વાદશી ને દિવસે એક વૈષ્ણવે જૂનાગઢ માં જોયેલો અંગીકાર (AI દ્વારા અવાજ બદલેલ છે.)",
+      "title_en": "Speaker Recounts Alleged Angikar by Navneetlalji in Junagadh",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "not stated",
+      "summary_en": "In this video, the speaker alleges that about 22 years ago, on Pavitra Agiyaras in Junagadh, Navneetlalji performed angikar with the speaker's friend inside the haveli.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/speaker-recounts-alleged-angikar-by-navneetlalji-in-junagadh.md",
+      "status": "published",
+      "contains_named_private_persons": true,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T06:50:46Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    {
       "video_id": "PbSBVgR00y4",
       "youtube_url": "https://www.youtube.com/watch?v=PbSBVgR00y4",
       "slug": "poonamji-describes-alleged-misconduct-during-a-vraj-yatra",
