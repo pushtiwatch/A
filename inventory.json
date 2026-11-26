@@ -99,6 +99,26 @@
       "created_at": "2026-11-26T06:36:26Z",
       "reviewed_by": null,
       "reviewed_at": null
+    },
+    {
+      "video_id": "uefQMLRAcZs",
+      "youtube_url": "https://www.youtube.com/watch?v=uefQMLRAcZs",
+      "slug": "vaishnav-alleges-an-elder-aimed-angikar-talk-at-his-wife",
+      "title_gu": "એક વૈષ્ણવ ના અંગીકાર પ્રથા વિષે ના અભિપ્રાય",
+      "title_en": "Vaishnav Alleges an Elder Aimed Angikar Talk at His Wife",
+      "channel": "Satya ane Samvad (सत्य -संवाद) (Ashish Shah)",
+      "speaker": "not stated",
+      "summary_en": "In this video, the speaker alleges that an elderly Vaishnav turned a health visit into talk of angikar aimed at the speaker's wife, and urges support for those who speak against the practice.",
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/vaishnav-alleges-an-elder-aimed-angikar-talk-at-his-wife.md",
+      "status": "published",
+      "contains_named_private_persons": false,
+      "verification": "speaker claims, not independently verified",
+      "transcript_source": "YouTube auto captions (gu)",
+      "translation_model": "gemini web (Neon)",
+      "pipeline_version": "1.0",
+      "created_at": "2026-11-26T06:52:07Z",
+      "reviewed_by": null,
+      "reviewed_at": null
     }
   ]
 }
