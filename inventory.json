@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 87,
+    "total_entries": 88,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -4592,6 +4592,53 @@
         "child sexual abuse / minor abuse"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-inappropriate-touching-and-exploitation.md"
+    },
+    {
+      "video_id": "-Vpl5OYkKbo",
+      "youtube_url": "https://www.youtube.com/watch?v=-Vpl5OYkKbo",
+      "title_gu": "અંગીકાર પ્રથા વિરોધ અભિયાન -૪",
+      "title_en": "Remarks on Angikar and Alleged Abuse",
+      "language": "gu",
+      "published_date": "2025-04-12",
+      "duration_seconds": 960,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that a religious figure could sexually pursue a young woman and calls for legal action against alleged abusers. He says that a person who commits rape remains a rapist regardless of their status as a guru.",
+      "claims": [
+        "Alleges that a religious figure might cast a predatory eye on a girl when she turns 18.",
+        "Alleges that predatory people are present within the religious community.",
+        "Alleges that a person who commits rape remains a rapist even if he becomes a prominent guru."
+      ],
+      "tags": [
+        "Angikar",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Goswami / Bawa"
+      ],
+      "flags": [
+        "rape",
+        "child_sexual_abuse",
+        "blackmail_extortion",
+        "angikar",
+        "first_hand"
+      ],
+      "explosive_score": 0.22,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Balaks",
+        "Vaishnav / વૈષ્ણવ",
+        "Mahaprabhuji",
+        "Junagadh / જૂનાગઢ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "blackmail / extortion"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-angikar-and-alleged-abuse.md"
     }
   ]
 }
