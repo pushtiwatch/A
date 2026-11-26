@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 64,
+    "total_entries": 65,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -3390,6 +3390,67 @@
         "cover-up / police refusal / victim silencing"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-and-conduct-at-havelis.md"
+    },
+    {
+      "video_id": "vkMM7QQnc0U",
+      "youtube_url": "https://www.youtube.com/watch?v=vkMM7QQnc0U",
+      "title_gu": "અંગીકાર પ્રથા વિષે ની સમ્પૂર્ણ જાણકારી......(પત્રકાર મિત્રો માટે )",
+      "title_en": "Allegations Concerning the Angikar Practice",
+      "language": "gu",
+      "published_date": "2025-05-03",
+      "duration_seconds": 2327,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that girls are groomed and taken to Goswamis and that women have reported sexual demands and encounters. The speaker also alleges instances of sacrifice and suicide and claims to have witnessed the practice.",
+      "claims": [
+        "Alleges that girls are gradually groomed and taken to Goswamis.",
+        "Alleges that women have reported sexual encounters or demands associated with the practice.",
+        "Alleges that attempts were made to sacrifice women and that some women died by suicide.",
+        "Alleges that the speaker witnessed the Angikar practice and is willing to name those involved."
+      ],
+      "tags": [
+        "Angikar",
+        "Grooming",
+        "Blackmail",
+        "Rape",
+        "Minor abuse",
+        "Coercion / trapping",
+        "Sexual misconduct",
+        "Goswami / Bawa",
+        "Haveli",
+        "Victim silencing"
+      ],
+      "flags": [
+        "murder_or_death",
+        "rape",
+        "child_sexual_abuse",
+        "group_sexual_ritual",
+        "sexual_health_risk",
+        "blackmail_extortion",
+        "individual_grooming",
+        "family_community_grooming",
+        "angikar",
+        "black_magic_superstition",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.3,
+      "keywords": [
+        "angikar / અંગીકાર / अंगीकार",
+        "haveli / હવેલી",
+        "Goswami Balak",
+        "Vaishnav / વૈષ્ણવ",
+        "Pushtimarg / પુષ્ટિમાર્ગ",
+        "brainwash / બ્રેન વોશ",
+        "vyabhichar / વ્યાભિચાર / व्यभिचार",
+        "leela / લીલા",
+        "murder / death",
+        "rape / બળાત્કાર / बलात्कार",
+        "child sexual abuse / minor abuse",
+        "kotadi satsang / group sex ritual"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-the-angikar-practice-vkmm7qqnc0u.md"
     }
   ]
 }
