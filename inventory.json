@@ -2,7 +2,7 @@
   "meta": {
     "version": "1.0",
     "last_updated": "2026-11-26",
-    "total_entries": 111,
+    "total_entries": 112,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
     "source": "https://github.com/pushtiwatch/A"
   },
@@ -5767,6 +5767,52 @@
         "kotadi satsang / group sex ritual"
       ],
       "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-conduct-in-the-pushtimarg-community.md"
+    },
+    {
+      "video_id": "qla6c5FYAVE",
+      "youtube_url": "https://www.youtube.com/watch?v=qla6c5FYAVE",
+      "title_gu": "द्वंद कहां तक पाला जाए?",
+      "title_en": "Conflict and Religious Violence",
+      "language": "gu",
+      "published_date": "2025-04-23",
+      "duration_seconds": 1110,
+      "location": [
+        "not stated"
+      ],
+      "summary_en": "The speaker alleges that Hindu victims were targeted because of their religion and that some were left alive to remember the killings. The speaker also refers to a girl experiencing an unspecified incident and asks whether anyone is prepared to die for Hinduism.",
+      "claims": [
+        "Alleges that something happened to a girl.",
+        "Alleges that people were asked whether they were Hindu and then killed.",
+        "Alleges that one person from each household was killed so survivors would remember.",
+        "Alleges that one member of a honeymooning couple was deliberately left alive.",
+        "Alleges that 28 people were killed because they were Hindu."
+      ],
+      "tags": [
+        "Angikar",
+        "Blackmail",
+        "Minor abuse",
+        "Victim silencing"
+      ],
+      "flags": [
+        "murder_or_death",
+        "child_sexual_abuse",
+        "blackmail_extortion",
+        "angikar",
+        "cover_up",
+        "first_hand"
+      ],
+      "explosive_score": 0.2,
+      "keywords": [
+        "Vaishnav / વૈષ્ણવ",
+        "Thakorji / ઠાકોરજી",
+        "Mahaprabhuji",
+        "murder / death",
+        "child sexual abuse / minor abuse",
+        "blackmail / extortion",
+        "angikar / અંગીકાર / अंगीकार",
+        "cover-up / police refusal / victim silencing"
+      ],
+      "md_url": "https://github.com/pushtiwatch/A/blob/main/conflict-and-religious-violence.md"
     }
   ]
 }
