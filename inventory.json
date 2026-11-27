@@ -1,5 +1,9 @@
 {
   "meta": {
+    "url_templates": {
+      "youtube": "https://www.youtube.com/watch?v={youtube_id}",
+      "md": "https://github.com/pushtiwatch/A/blob/main/{md_slug}.md"
+    },
     "version": "1.0",
     "last_updated": "2026-11-26",
     "total_entries": 134,
@@ -8,8 +12,7 @@
   },
   "entries": [
     {
-      "video_id": "0EcgVii6gfY",
-      "youtube_url": "https://www.youtube.com/watch?v=0EcgVii6gfY",
+      "youtube_id": "0EcgVii6gfY",
       "title_gu": "અંગીકાર પીડિતા સાથે ના વ્યવહાર વિષે એક અઢી વર્ષ ની દીકરી ની માઁ નો વૈષ્ણવ સમાજ ને અનુરોધ..",
       "title_en": "Mother of a Young Daughter Alleges Misconduct at Two Havelis",
       "language": "gu",
@@ -58,11 +61,10 @@
         "young daughter",
         "misconduct"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/mother-of-a-young-daughter-alleges-misconduct-at-two-havelis.md"
+      "md_slug": "mother-of-a-young-daughter-alleges-misconduct-at-two-havelis"
     },
     {
-      "video_id": "1LoWd2IiKE0",
-      "youtube_url": "https://www.youtube.com/watch?v=1LoWd2IiKE0",
+      "youtube_id": "1LoWd2IiKE0",
       "title_gu": "Kacheguda police officer refusing to file FIR on cognizable offences, child kidnapping.",
       "title_en": "Caller Alleges Kacheguda Police Refused FIR on Child Kidnapping",
       "language": "hi",
@@ -106,11 +108,10 @@
         "hawala / हवाला",
         "vashikaran / वशीकरण"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/caller-alleges-kacheguda-police-refused-fir-on-child-kidnapping.md"
+      "md_slug": "caller-alleges-kacheguda-police-refused-fir-on-child-kidnapping"
     },
     {
-      "video_id": "FInbRTgpox4",
-      "youtube_url": "https://www.youtube.com/watch?v=FInbRTgpox4",
+      "youtube_id": "FInbRTgpox4",
       "title_gu": "અંગીકાર પ્રથા માં ફસાવા નો. પ્રયત્ન કરાયેલી એક પીડાતા વૈષ્ણવ ની આપવીતી",
       "title_en": "Woman Describes Attempts to Trap Her in the Angikar Practice",
       "language": "gu",
@@ -166,11 +167,10 @@
         "house at night",
         "Shikshapatra"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/woman-describes-attempts-to-trap-her-in-the-angikar-practice.md"
+      "md_slug": "woman-describes-attempts-to-trap-her-in-the-angikar-practice"
     },
     {
-      "video_id": "GrTlSA2xf2I",
-      "youtube_url": "https://www.youtube.com/watch?v=GrTlSA2xf2I",
+      "youtube_id": "GrTlSA2xf2I",
       "title_gu": "અંગિકાર પીડિતા એ પોતે જ આપેલ પ્રશ્નો અને શંકા ઓ ના જવાબ",
       "title_en": "Speaker Explains Why She Still Visited the Haveli After Misconduct",
       "language": "gu",
@@ -219,11 +219,10 @@
         "Barsana",
         "dalal"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/speaker-explains-why-she-still-visited-the-haveli-after-misconduct.md"
+      "md_slug": "speaker-explains-why-she-still-visited-the-haveli-after-misconduct"
     },
     {
-      "video_id": "I7_iuSWtXbg",
-      "youtube_url": "https://www.youtube.com/watch?v=I7_iuSWtXbg",
+      "youtube_id": "I7_iuSWtXbg",
       "title_gu": "પવિત્રા દ્વાદશી ને દિવસે એક વૈષ્ણવે જૂનાગઢ માં જોયેલો અંગીકાર (AI દ્વારા અવાજ બદલેલ છે.)",
       "title_en": "Speaker Recounts Alleged Angikar by Navneetlalji in Junagadh",
       "language": "gu",
@@ -271,11 +270,10 @@
         "Zanzarda Road",
         "khavas"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/speaker-recounts-alleged-angikar-by-navneetlalji-in-junagadh.md"
+      "md_slug": "speaker-recounts-alleged-angikar-by-navneetlalji-in-junagadh"
     },
     {
-      "video_id": "NZshN1PsKM8",
-      "youtube_url": "https://www.youtube.com/watch?v=NZshN1PsKM8",
+      "youtube_id": "NZshN1PsKM8",
       "title_gu": "અંગીકાર માટે થતું બ્રેન વોશ સમજાવતા એક બેન..(આ વીડિયો ની સત્યતા ની જવાબદારી આશિષ શાહ કે ચેનલ ની નથી)",
       "title_en": "Woman Describes How Relatives Tried to Draw Her into Angikar",
       "language": "gu",
@@ -331,11 +329,10 @@
         "Subodhiniji",
         "Betiji"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/woman-describes-how-relatives-tried-to-draw-her-into-angikar.md"
+      "md_slug": "woman-describes-how-relatives-tried-to-draw-her-into-angikar"
     },
     {
-      "video_id": "PbSBVgR00y4",
-      "youtube_url": "https://www.youtube.com/watch?v=PbSBVgR00y4",
+      "youtube_id": "PbSBVgR00y4",
       "title_gu": "વ્રજયાત્રા માં પણ વ્યાભિચાર",
       "title_en": "Poonamji Describes Alleged Misconduct During a Vraj Yatra",
       "language": "gu",
@@ -384,11 +381,10 @@
         "hug",
         "sakhi"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/poonamji-describes-alleged-misconduct-during-a-vraj-yatra.md"
+      "md_slug": "poonamji-describes-alleged-misconduct-during-a-vraj-yatra"
     },
     {
-      "video_id": "Q_FjhHfPSQw",
-      "youtube_url": "https://www.youtube.com/watch?v=Q_FjhHfPSQw",
+      "youtube_id": "Q_FjhHfPSQw",
       "title_gu": "કહેવાતા વૈષ્ણવો ની અંદરોઅંદર ની બીભત્સ લીલા નું વર્ણન કરતા એક જાગૃત વૈષ્ણવ બેન (સત્યતા ચકાસવી)",
       "title_en": "Purvi Describes Alleged Misconduct in Her Mother's Bombay Vaishnav Satsang",
       "language": "gu",
@@ -437,11 +433,10 @@
         "Mahaprabhuji",
         "Shastriji saptah"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/purvi-describes-alleged-misconduct-in-her-mother-s-bombay-vaishnav-satsang.md"
+      "md_slug": "purvi-describes-alleged-misconduct-in-her-mother-s-bombay-vaishnav-satsang"
     },
     {
-      "video_id": "eSk6YcBMN7A",
-      "youtube_url": "https://www.youtube.com/watch?v=eSk6YcBMN7A",
+      "youtube_id": "eSk6YcBMN7A",
       "title_gu": "અંગીકાર મેનિયાક મગન ને ટ્રેપ કરી એની સાન ઠેકાણે લાવવા નો પ્રયાસ",
       "title_en": "Lawyer Confronts Maganbhai Over Alleged Angikar Talk on Vraj Yatra",
       "language": "gu",
@@ -489,11 +484,10 @@
         "sexual pleasure",
         "complaint"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/lawyer-confronts-maganbhai-over-alleged-angikar-talk-on-vraj-yatra.md"
+      "md_slug": "lawyer-confronts-maganbhai-over-alleged-angikar-talk-on-vraj-yatra"
     },
     {
-      "video_id": "hm6CWCSwXzQ",
-      "youtube_url": "https://www.youtube.com/watch?v=hm6CWCSwXzQ",
+      "youtube_id": "hm6CWCSwXzQ",
       "title_gu": "વ્રજયાત્રા માં પણ વ્યાભિચાર (સત્યતા જાતે ચકાસવી)",
       "title_en": "Poonamji Recounts Alleged Advances by a Babashri on Vraj Yatra",
       "language": "gu",
@@ -542,11 +536,10 @@
         "Pushtimarg / પુષ્ટિમાર્ગ",
         "haveli"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/poonamji-recounts-alleged-advances-by-a-babashri-on-vraj-yatra.md"
+      "md_slug": "poonamji-recounts-alleged-advances-by-a-babashri-on-vraj-yatra"
     },
     {
-      "video_id": "oCCmymmPIIg",
-      "youtube_url": "https://www.youtube.com/watch?v=oCCmymmPIIg",
+      "youtube_id": "oCCmymmPIIg",
       "title_gu": "અંગીકાર પ્રથા માં પોતાની બેન અને દીકરી સાથે થયેલ ઘટના  વૈષ્ણવ બેન (નામ અને અમુક શબ્દો મ્યુટ કરેલ છે)",
       "title_en": "Vaishnav Woman Alleges Misconduct Involving Sister and Daughter",
       "language": "gu",
@@ -591,11 +584,10 @@
         "daan",
         "Mahaprabhuji"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/vaishnav-woman-alleges-misconduct-involving-sister-and-daughter.md"
+      "md_slug": "vaishnav-woman-alleges-misconduct-involving-sister-and-daughter"
     },
     {
-      "video_id": "tK-KGhFtwX8",
-      "youtube_url": "https://www.youtube.com/watch?v=tK-KGhFtwX8",
+      "youtube_id": "tK-KGhFtwX8",
       "title_gu": "એક ક્રાંતિકારી વૈષ્ણવ ગો.વા નંદકુમાર ગાંધી દ્વારા શરૂ કરેલ અંગીકાર પ્રથા વિરોધ અભિયાન",
       "title_en": "Nandkumar Gandhi Campaigns Against Alleged Angikar by Balaks in Bapunagar",
       "language": "gu",
@@ -649,11 +641,10 @@
         "Varachha",
         "Shri Vallabh Siddhant Samiti"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/nandkumar-gandhi-campaigns-against-alleged-angikar-by-balaks-in-bapunagar.md"
+      "md_slug": "nandkumar-gandhi-campaigns-against-alleged-angikar-by-balaks-in-bapunagar"
     },
     {
-      "video_id": "uefQMLRAcZs",
-      "youtube_url": "https://www.youtube.com/watch?v=uefQMLRAcZs",
+      "youtube_id": "uefQMLRAcZs",
       "title_gu": "એક વૈષ્ણવ ના અંગીકાર પ્રથા વિષે ના અભિપ્રાય",
       "title_en": "Vaishnav Alleges an Elder Aimed Angikar Talk at His Wife",
       "language": "gu",
@@ -700,11 +691,10 @@
         "samagri",
         "Harirai Mahaprabhu"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/vaishnav-alleges-an-elder-aimed-angikar-talk-at-his-wife.md"
+      "md_slug": "vaishnav-alleges-an-elder-aimed-angikar-talk-at-his-wife"
     },
     {
-      "video_id": "1F2wkigVUHA",
-      "youtube_url": "https://www.youtube.com/watch?v=1F2wkigVUHA",
+      "youtube_id": "1F2wkigVUHA",
       "title_gu": "અંગીકાર પ્રથા નું પ્રુફ ?",
       "title_en": "Allegations and Evidence Concerning the Angikar Practice",
       "language": "gu",
@@ -750,11 +740,10 @@
         "blackmail / extortion",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-and-evidence-concerning-the-angikar-practice.md"
+      "md_slug": "allegations-and-evidence-concerning-the-angikar-practice"
     },
     {
-      "video_id": "ESQeg1MwbTY",
-      "youtube_url": "https://www.youtube.com/watch?v=ESQeg1MwbTY",
+      "youtube_id": "ESQeg1MwbTY",
       "title_gu": "અંગીકાર પીડિતા નો રેસ્ક્યુ , પીડિતા ની સાથે થયેલ ઘટના સ્વમુખે - લીધેલ નામો ની જવાબદારી ચેનલ ની નથી",
       "title_en": "Alleged Rescue and Testimony of an Angikar Victim",
       "language": "gu",
@@ -808,11 +797,10 @@
         "kotadi satsang / group sex ritual",
         "HIV / STD / pregnancy / abortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/alleged-rescue-and-testimony-of-an-angikar-victim.md"
+      "md_slug": "alleged-rescue-and-testimony-of-an-angikar-victim"
     },
     {
-      "video_id": "yvbPHqjGIfY",
-      "youtube_url": "https://www.youtube.com/watch?v=yvbPHqjGIfY",
+      "youtube_id": "yvbPHqjGIfY",
       "title_gu": "અંગીકાર પ્રથા ઝૂમ મીટીંગ ૧  વિડીયો રેકોર્ડિંગ",
       "title_en": "Zoom Discussion Concerning the Angikar Practice",
       "language": "gu",
@@ -857,11 +845,10 @@
         "grooming",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/zoom-discussion-concerning-the-angikar-practice.md"
+      "md_slug": "zoom-discussion-concerning-the-angikar-practice"
     },
     {
-      "video_id": "Qgit8_681to",
-      "youtube_url": "https://www.youtube.com/watch?v=Qgit8_681to",
+      "youtube_id": "Qgit8_681to",
       "title_gu": "અંગીકાર પ્રથા (બેનો આ વીડિયો થી દુર રહે..ભાષા અમર્યાદિત છે...)",
       "title_en": "Allegations Concerning the Angikar Practice",
       "language": "hi",
@@ -916,11 +903,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-the-angikar-practice.md"
+      "md_slug": "allegations-concerning-the-angikar-practice"
     },
     {
-      "video_id": "TI1Km41kkeM",
-      "youtube_url": "https://www.youtube.com/watch?v=TI1Km41kkeM",
+      "youtube_id": "TI1Km41kkeM",
       "title_gu": "એક વૈષ્ણવ",
       "title_en": "A Vaishnav's Account of Angikar",
       "language": "gu",
@@ -963,11 +949,10 @@
         "family grooming / community pressure",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/a-vaishnav-s-account-of-angikar.md"
+      "md_slug": "a-vaishnav-s-account-of-angikar"
     },
     {
-      "video_id": "PrsnKzkJYEA",
-      "youtube_url": "https://www.youtube.com/watch?v=PrsnKzkJYEA",
+      "youtube_id": "PrsnKzkJYEA",
       "title_gu": "અંગીકાર પ્રથા વર્તમાન અને ભવિષ્ય..આગળ શું કરવું ? એક વૈષ્ણવ એડવોકેટ બેન ના મંતવ્યો",
       "title_en": "Angikar Practice: Present Concerns and Future Action",
       "language": "gu",
@@ -1018,11 +1003,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/angikar-practice-present-concerns-and-future-action.md"
+      "md_slug": "angikar-practice-present-concerns-and-future-action"
     },
     {
-      "video_id": "VXzf94rhIUM",
-      "youtube_url": "https://www.youtube.com/watch?v=VXzf94rhIUM",
+      "youtube_id": "VXzf94rhIUM",
       "title_gu": "અંગીકાર અંગીકાર ..અમદાવાદ વાયા વ્રજ ...ભેંસાણ..(સત્યતા ની જવાબદારી ચેનલ કે આશિષ શાહ ની નથી)",
       "title_en": "Allegations of Sexual Exploitation Under the Pretext of Angikar",
       "language": "gu",
@@ -1069,11 +1053,10 @@
         "grooming",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-exploitation-under-the-pretext-of-angikar.md"
+      "md_slug": "allegations-of-sexual-exploitation-under-the-pretext-of-angikar"
     },
     {
-      "video_id": "81VmABZHFMU",
-      "youtube_url": "https://www.youtube.com/watch?v=81VmABZHFMU",
+      "youtube_id": "81VmABZHFMU",
       "title_gu": "અતિવાદીતા નો ડર બતાવી ને અસત્ય નો આતંક",
       "title_en": "Allegations of Intimidation and Harm Within the Vaishnav Community",
       "language": "gu",
@@ -1125,11 +1108,10 @@
         "child sexual abuse / minor abuse",
         "child harm / kidnapping / custody"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-intimidation-and-harm-within-the-vaishnav-community.md"
+      "md_slug": "allegations-of-intimidation-and-harm-within-the-vaishnav-community"
     },
     {
-      "video_id": "5PzgDgytxrU",
-      "youtube_url": "https://www.youtube.com/watch?v=5PzgDgytxrU",
+      "youtube_id": "5PzgDgytxrU",
       "title_gu": "વ્રજ માં એક વૈષ્ણવ બેન ને અંગીકાર માટે સમજાવવા નો પ્રયાસ કરતા ગો.બાળક અને એના દલાલો",
       "title_en": "Alleged Attempts to Persuade a Woman to Undergo Angikar",
       "language": "gu",
@@ -1178,11 +1160,10 @@
         "grooming",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/alleged-attempts-to-persuade-a-woman-to-undergo-angikar.md"
+      "md_slug": "alleged-attempts-to-persuade-a-woman-to-undergo-angikar"
     },
     {
-      "video_id": "tHfcAvHM_tE",
-      "youtube_url": "https://www.youtube.com/watch?v=tHfcAvHM_tE",
+      "youtube_id": "tHfcAvHM_tE",
       "title_gu": "50 વર્ષ જૂની અંગીકાર ની ઘટના જેમાં એક ગો બા એ પિયરે આવેલી એક પરિણીતા ને ગર્ભવતી કરી દીધી.",
       "title_en": "Historical Angikar Allegation Involving a Married Woman",
       "language": "gu",
@@ -1220,11 +1201,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/historical-angikar-allegation-involving-a-married-woman.md"
+      "md_slug": "historical-angikar-allegation-involving-a-married-woman"
     },
     {
-      "video_id": "Pc1vYgRS4QY",
-      "youtube_url": "https://www.youtube.com/watch?v=Pc1vYgRS4QY",
+      "youtube_id": "Pc1vYgRS4QY",
       "title_gu": "અંગીકાર પીડિતા ના વિડીયો પર કરેલ અલગ અલગ શંકા ઑ નો જવાબ",
       "title_en": "Account of a Phone Call With a Student",
       "language": "gu",
@@ -1280,11 +1260,10 @@
         "child harm / kidnapping / custody",
         "kotadi satsang / group sex ritual"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/account-of-a-phone-call-with-a-student.md"
+      "md_slug": "account-of-a-phone-call-with-a-student"
     },
     {
-      "video_id": "YNDOUwve4N8",
-      "youtube_url": "https://www.youtube.com/watch?v=YNDOUwve4N8",
+      "youtube_id": "YNDOUwve4N8",
       "title_gu": "વૈષ્ણવ જાગૃતિ 1",
       "title_en": "Allegations About Angikar and a Som Yajna",
       "language": "gu",
@@ -1335,11 +1314,10 @@
         "grooming",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-angikar-and-a-som-yajna.md"
+      "md_slug": "allegations-about-angikar-and-a-som-yajna"
     },
     {
-      "video_id": "e1umNwF9-p4",
-      "youtube_url": "https://www.youtube.com/watch?v=e1umNwF9-p4",
+      "youtube_id": "e1umNwF9-p4",
       "title_gu": "વ્રજયાત્રા - લીલી પરિક્રમા એક ધંધો એક ઠગાઈ",
       "title_en": "Allegations About Conduct at Vaishnav Gatherings",
       "language": "gu",
@@ -1391,11 +1369,10 @@
         "blackmail / extortion",
         "grooming"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-at-vaishnav-gatherings.md"
+      "md_slug": "allegations-about-conduct-at-vaishnav-gatherings"
     },
     {
-      "video_id": "Tv1v1yRySu4",
-      "youtube_url": "https://www.youtube.com/watch?v=Tv1v1yRySu4",
+      "youtube_id": "Tv1v1yRySu4",
       "title_gu": "અંગીકાર દલાલો ની વાતચિત- ૭ વિડીયો ની સત્યતા ની જવાબદારી પુષ્ટિમાર્ગીય સંવાદ ચેનલ કે આશિષ શાહ ની નથી",
       "title_en": "Conversation About Angikar and Ritual Practices",
       "language": "gu",
@@ -1441,11 +1418,10 @@
         "sexual misconduct",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/conversation-about-angikar-and-ritual-practices.md"
+      "md_slug": "conversation-about-angikar-and-ritual-practices"
     },
     {
-      "video_id": "VGTz77rF1dk",
-      "youtube_url": "https://www.youtube.com/watch?v=VGTz77rF1dk",
+      "youtube_id": "VGTz77rF1dk",
       "title_gu": "પ્રશ્નો ના જવાબ - જૂન 2025",
       "title_en": "June 2025 Questions and Answers",
       "language": "gu",
@@ -1503,11 +1479,10 @@
         "vyabhichar / વ્યાભિચાર / व्यभिचार",
         "murder / death"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/june-2025-questions-and-answers.md"
+      "md_slug": "june-2025-questions-and-answers"
     },
     {
-      "video_id": "rHKgU-J4iYI",
-      "youtube_url": "https://www.youtube.com/watch?v=rHKgU-J4iYI",
+      "youtube_id": "rHKgU-J4iYI",
       "title_gu": "અંગીકાર દલાલો ની વાતચિત- ૩ વિડીયો ની સત્યતા ની જવાબદારી પુષ્ટિમાર્ગીય સંવાદ ચેનલ કે આશિષ શાહ ની નથી",
       "title_en": "Conversation About Angikar and Devotional Gatherings",
       "language": "gu",
@@ -1549,11 +1524,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/conversation-about-angikar-and-devotional-gatherings.md"
+      "md_slug": "conversation-about-angikar-and-devotional-gatherings"
     },
     {
-      "video_id": "HdipdT4oSAw",
-      "youtube_url": "https://www.youtube.com/watch?v=HdipdT4oSAw",
+      "youtube_id": "HdipdT4oSAw",
       "title_gu": "पुष्टिमार्ग में लगे दाग - समलैंगिक संबद्ध / अंगीकार / बालशोषण - (बच्चे दूर रहे वीडियो से)",
       "title_en": "Allegations of Child Exploitation in Pushtimarg",
       "language": "gu",
@@ -1593,11 +1567,10 @@
         "grooming",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-child-exploitation-in-pushtimarg.md"
+      "md_slug": "allegations-of-child-exploitation-in-pushtimarg"
     },
     {
-      "video_id": "7jBWeAj2VkI",
-      "youtube_url": "https://www.youtube.com/watch?v=7jBWeAj2VkI",
+      "youtube_id": "7jBWeAj2VkI",
       "title_gu": "સુરત નું અંગીકાર વિરુદ્ધ અભિયાન ..એક કડવો અનુભવ",
       "title_en": "Surat Campaign Against Angikar: A Bitter Experience",
       "language": "gu",
@@ -1647,11 +1620,10 @@
         "child sexual abuse / minor abuse",
         "drugging / intoxication"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/surat-campaign-against-angikar-a-bitter-experience.md"
+      "md_slug": "surat-campaign-against-angikar-a-bitter-experience"
     },
     {
-      "video_id": "U1BcjCT4pMg",
-      "youtube_url": "https://www.youtube.com/watch?v=U1BcjCT4pMg",
+      "youtube_id": "U1BcjCT4pMg",
       "title_gu": "કમેન્ટ્સ ના જવાબ",
       "title_en": "Responses to Comments",
       "language": "gu",
@@ -1707,11 +1679,10 @@
         "murder / death",
         "gang rape / સામૂહિક બળાત્કાર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/responses-to-comments.md"
+      "md_slug": "responses-to-comments"
     },
     {
-      "video_id": "DcxnB7Z03h0",
-      "youtube_url": "https://www.youtube.com/watch?v=DcxnB7Z03h0",
+      "youtube_id": "DcxnB7Z03h0",
       "title_gu": "પુષ્ટિમાર્ગ માં ભવાડા કે ભવાડા ઓ માં ફસાયેલ પુષ્ટિમાર્ગ",
       "title_en": "Questions About Pushtimarg Customs and Darshan",
       "language": "gu",
@@ -1750,11 +1721,10 @@
         "charan sparsh / ચરણ સ્પર્શ",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-pushtimarg-customs-and-darshan-dcxnb7z03h0.md"
+      "md_slug": "questions-about-pushtimarg-customs-and-darshan-dcxnb7z03h0"
     },
     {
-      "video_id": "SrDFcCrO_gA",
-      "youtube_url": "https://www.youtube.com/watch?v=SrDFcCrO_gA",
+      "youtube_id": "SrDFcCrO_gA",
       "title_gu": "વડોદરા થી સફાઈ અભિયાન ની શરૂઆત",
       "title_en": "Allegations and Remarks About Conduct",
       "language": "gu",
@@ -1803,11 +1773,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-and-remarks-about-conduct.md"
+      "md_slug": "allegations-and-remarks-about-conduct"
     },
     {
-      "video_id": "7ceESkwOTpY",
-      "youtube_url": "https://www.youtube.com/watch?v=7ceESkwOTpY",
+      "youtube_id": "7ceESkwOTpY",
       "title_gu": "Exposing Groomers/દલાલો part -1",
       "title_en": "Allegations About Angikar and Blackmail",
       "language": "gu",
@@ -1856,11 +1825,10 @@
         "kotadi satsang / group sex ritual",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-angikar-and-blackmail.md"
+      "md_slug": "allegations-about-angikar-and-blackmail"
     },
     {
-      "video_id": "HB18nxM-8j0",
-      "youtube_url": "https://www.youtube.com/watch?v=HB18nxM-8j0",
+      "youtube_id": "HB18nxM-8j0",
       "title_gu": "आज की रात होना है जो ....",
       "title_en": "Allegations About Angikar and Suicide",
       "language": "gu",
@@ -1915,11 +1883,10 @@
         "murder / death",
         "gang rape / સામૂહિક બળાત્કાર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-angikar-and-suicide.md"
+      "md_slug": "allegations-about-angikar-and-suicide"
     },
     {
-      "video_id": "9-hvO3VrKGE",
-      "youtube_url": "https://www.youtube.com/watch?v=9-hvO3VrKGE",
+      "youtube_id": "9-hvO3VrKGE",
       "title_gu": "શરમ ને કાના માત્રા હોય ?",
       "title_en": "Remarks on Religious Conduct and Public Disclosure",
       "language": "hi",
@@ -1968,11 +1935,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-religious-conduct-and-public-disclosure.md"
+      "md_slug": "remarks-on-religious-conduct-and-public-disclosure"
     },
     {
-      "video_id": "DXNPTByJKBk",
-      "youtube_url": "https://www.youtube.com/watch?v=DXNPTByJKBk",
+      "youtube_id": "DXNPTByJKBk",
       "title_gu": "गो - स्वामी के गे-स्वामी ?(ભાષા અમર્યાદિત છે ..)",
       "title_en": "Remarks on Religious Leaders and Sexual Conduct",
       "language": "gu",
@@ -2009,11 +1975,10 @@
         "HIV / STD / pregnancy / abortion",
         "sexual misconduct"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-religious-leaders-and-sexual-conduct.md"
+      "md_slug": "remarks-on-religious-leaders-and-sexual-conduct"
     },
     {
-      "video_id": "e3WivNjFCf8",
-      "youtube_url": "https://www.youtube.com/watch?v=e3WivNjFCf8",
+      "youtube_id": "e3WivNjFCf8",
       "title_gu": "અંગીકાર પ્રથા ના વિરોધ નું અભિયાન -2........પુષ્ટિમાર્ગ  ને જાણો",
       "title_en": "Remarks Opposing Angikar Practices",
       "language": "gu",
@@ -2062,11 +2027,10 @@
         "murder / death",
         "rape / બળાત્કાર / बलात्कार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-opposing-angikar-practices.md"
+      "md_slug": "remarks-opposing-angikar-practices"
     },
     {
-      "video_id": "8AlVYS-TtvE",
-      "youtube_url": "https://www.youtube.com/watch?v=8AlVYS-TtvE",
+      "youtube_id": "8AlVYS-TtvE",
       "title_gu": "અંગીકાર પીડિતા પાસે થી નામ અને અન્ય વિગતો માંગતા ઈસમો ને કાયદાકીય જવાબ..",
       "title_en": "Response to Requests for a Victim’s Details",
       "language": "gu",
@@ -2108,11 +2072,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/response-to-requests-for-a-victims-details.md"
+      "md_slug": "response-to-requests-for-a-victims-details"
     },
     {
-      "video_id": "sQQtF9zk8bY",
-      "youtube_url": "https://www.youtube.com/watch?v=sQQtF9zk8bY",
+      "youtube_id": "sQQtF9zk8bY",
       "title_gu": "અંધશ્રદ્ધા અજ્ઞાન અસત્ય અને વ્યક્તિ પૂજા ના વિષચક્ર મા પુષ્ટિમાર્ગ- ઘટસ્ફોટ",
       "title_en": "Allegations About Religious Leaders and Exploitation",
       "language": "gu",
@@ -2164,11 +2127,10 @@
         "blackmail / extortion",
         "grooming"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-religious-leaders-and-exploitation.md"
+      "md_slug": "allegations-about-religious-leaders-and-exploitation"
     },
     {
-      "video_id": "cM-K7EfdBEo",
-      "youtube_url": "https://www.youtube.com/watch?v=cM-K7EfdBEo",
+      "youtube_id": "cM-K7EfdBEo",
       "title_gu": "સુરત માં અભિયાન અંગે",
       "title_en": "Allegations Discussed in Surat",
       "language": "gu",
@@ -2223,11 +2185,10 @@
         "Junagadh / જૂનાગઢ",
         "gang rape / સામૂહિક બળાત્કાર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-discussed-in-surat.md"
+      "md_slug": "allegations-discussed-in-surat"
     },
     {
-      "video_id": "Ue6U0eC2gYg",
-      "youtube_url": "https://www.youtube.com/watch?v=Ue6U0eC2gYg",
+      "youtube_id": "Ue6U0eC2gYg",
       "title_gu": "વૈષ્ણવ સમાજ ને પ્રશ્ન",
       "title_en": "Questions and Allegations Addressed to the Vaishnav Community",
       "language": "gu",
@@ -2277,11 +2238,10 @@
         "child sexual abuse / minor abuse",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-and-allegations-addressed-to-the-vaishnav-community.md"
+      "md_slug": "questions-and-allegations-addressed-to-the-vaishnav-community"
     },
     {
-      "video_id": "A5iqF77smmU",
-      "youtube_url": "https://www.youtube.com/watch?v=A5iqF77smmU",
+      "youtube_id": "A5iqF77smmU",
       "title_gu": "કહેવાતા ભગવદીય વૈષ્ણવ દ્વારા થતા વ્યાભિચાર ના પ્રયોગો",
       "title_en": "Allegations of Sexual Misconduct in Religious Gatherings",
       "language": "gu",
@@ -2330,11 +2290,10 @@
         "blackmail / extortion",
         "grooming"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-misconduct-in-religious-gatherings.md"
+      "md_slug": "allegations-of-sexual-misconduct-in-religious-gatherings"
     },
     {
-      "video_id": "P-5ligYOuRU",
-      "youtube_url": "https://www.youtube.com/watch?v=P-5ligYOuRU",
+      "youtube_id": "P-5ligYOuRU",
       "title_gu": "हद कर दी आपने",
       "title_en": "Allegations Concerning Religious Gatherings and Sexual Conduct",
       "language": "gu",
@@ -2382,11 +2341,10 @@
         "blackmail / extortion",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-religious-gatherings-and-sexual-conduct.md"
+      "md_slug": "allegations-concerning-religious-gatherings-and-sexual-conduct"
     },
     {
-      "video_id": "P3JbKtcod5A",
-      "youtube_url": "https://www.youtube.com/watch?v=P3JbKtcod5A",
+      "youtube_id": "P3JbKtcod5A",
       "title_gu": "પુષ્ટિમાર્ગ થી દુષ્ટી માર્ગ ની યાત્રા ના કારણો",
       "title_en": "Allegations of Sexual Abuse and Coercion",
       "language": "gu",
@@ -2440,11 +2398,10 @@
         "kotadi satsang / group sex ritual",
         "drugging / intoxication"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-abuse-and-coercion.md"
+      "md_slug": "allegations-of-sexual-abuse-and-coercion"
     },
     {
-      "video_id": "aECukF1G0lY",
-      "youtube_url": "https://www.youtube.com/watch?v=aECukF1G0lY",
+      "youtube_id": "aECukF1G0lY",
       "title_gu": "પુષ્ટિ માર્ગીય ક્રાંતિકારીણિ - Advocate મોહિની પટેલ ના વિચારો",
       "title_en": "Concerns About Influence and Coercion",
       "language": "gu",
@@ -2498,11 +2455,10 @@
         "drugging / intoxication",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-influence-and-coercion.md"
+      "md_slug": "concerns-about-influence-and-coercion"
     },
     {
-      "video_id": "0tw-MpFrovA",
-      "youtube_url": "https://www.youtube.com/watch?v=0tw-MpFrovA",
+      "youtube_id": "0tw-MpFrovA",
       "title_gu": "સમજદાર ને ઈશારો",
       "title_en": "Allegations of Abuse and Exploitation",
       "language": "gu",
@@ -2554,11 +2510,10 @@
         "kotadi satsang / group sex ritual",
         "drugging / intoxication"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-abuse-and-exploitation.md"
+      "md_slug": "allegations-of-abuse-and-exploitation"
     },
     {
-      "video_id": "AjKJyC6UbQI",
-      "youtube_url": "https://www.youtube.com/watch?v=AjKJyC6UbQI",
+      "youtube_id": "AjKJyC6UbQI",
       "title_gu": "Exposing Go.Ba -Trailor",
       "title_en": "Allegations About a House and Conduct",
       "language": "gu",
@@ -2595,11 +2550,10 @@
         "sexual misconduct",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-a-house-and-conduct.md"
+      "md_slug": "allegations-about-a-house-and-conduct"
     },
     {
-      "video_id": "8GW6IvbEIWw",
-      "youtube_url": "https://www.youtube.com/watch?v=8GW6IvbEIWw",
+      "youtube_id": "8GW6IvbEIWw",
       "title_gu": "અંગીકાર પ્રથા વિરોધ અભિયાન -ભાગ 1",
       "title_en": "Campaign Against the Angikar Practice",
       "language": "gu",
@@ -2654,11 +2608,10 @@
         "gang rape / સામૂહિક બળાત્કાર",
         "child sexual abuse / minor abuse"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/campaign-against-the-angikar-practice.md"
+      "md_slug": "campaign-against-the-angikar-practice"
     },
     {
-      "video_id": "MbFW2nZlD3U",
-      "youtube_url": "https://www.youtube.com/watch?v=MbFW2nZlD3U",
+      "youtube_id": "MbFW2nZlD3U",
       "title_gu": "એક વૈષ્ણવ બેન નો વાયરલ ક્લિપ ને જવાબ",
       "title_en": "Response to a Viral Clip by a Vaishnav Woman",
       "language": "gu",
@@ -2693,11 +2646,10 @@
         "sexual misconduct",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/response-to-a-viral-clip-by-a-vaishnav-woman.md"
+      "md_slug": "response-to-a-viral-clip-by-a-vaishnav-woman"
     },
     {
-      "video_id": "3zkSj887S6g",
-      "youtube_url": "https://www.youtube.com/watch?v=3zkSj887S6g",
+      "youtube_id": "3zkSj887S6g",
       "title_gu": "રક્ષા બંધન...ગોસ્વામી જનાના સમાજ ને અનુરોધ",
       "title_en": "Appeal to the Goswami Women’s Community",
       "language": "gu",
@@ -2750,11 +2702,10 @@
         "London",
         "rape / બળાત્કાર / बलात्कार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/appeal-to-the-goswami-womens-community.md"
+      "md_slug": "appeal-to-the-goswami-womens-community"
     },
     {
-      "video_id": "t6GhDji-NVA",
-      "youtube_url": "https://www.youtube.com/watch?v=t6GhDji-NVA",
+      "youtube_id": "t6GhDji-NVA",
       "title_gu": "Trolls નો પડદા ફાશ",
       "title_en": "Remarks on Trolls and Witnesses",
       "language": "gu",
@@ -2800,11 +2751,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-trolls-and-witnesses.md"
+      "md_slug": "remarks-on-trolls-and-witnesses"
     },
     {
-      "video_id": "gygGEYTi520",
-      "youtube_url": "https://www.youtube.com/watch?v=gygGEYTi520",
+      "youtube_id": "gygGEYTi520",
       "title_gu": "વિકૃતિ ની પરાકાષ્ઠા",
       "title_en": "Allegations of Exploitation and Misconduct",
       "language": "gu",
@@ -2852,11 +2802,10 @@
         "rape / બળાત્કાર / बलात्कार",
         "child sexual abuse / minor abuse"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-exploitation-and-misconduct.md"
+      "md_slug": "allegations-of-exploitation-and-misconduct"
     },
     {
-      "video_id": "aBlPFfELlHA",
-      "youtube_url": "https://www.youtube.com/watch?v=aBlPFfELlHA",
+      "youtube_id": "aBlPFfELlHA",
       "title_gu": "Pushtimargiya Samvad is live",
       "title_en": "Allegations of Abuse and Community Response",
       "language": "gu",
@@ -2909,11 +2858,10 @@
         "kotadi satsang / group sex ritual",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-abuse-and-community-response.md"
+      "md_slug": "allegations-of-abuse-and-community-response"
     },
     {
-      "video_id": "GNaqDSRg14s",
-      "youtube_url": "https://www.youtube.com/watch?v=GNaqDSRg14s",
+      "youtube_id": "GNaqDSRg14s",
       "title_gu": "પુષ્ટિમાર્ગ નિષ્કામ ભક્તિ નો માર્ગ (ટૂંકી વાત)#pushtimarg",
       "title_en": "Allegations of Exploitation and Blackmail",
       "language": "hi",
@@ -2965,11 +2913,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-exploitation-and-blackmail.md"
+      "md_slug": "allegations-of-exploitation-and-blackmail"
     },
     {
-      "video_id": "lZtlqAO2BlI",
-      "youtube_url": "https://www.youtube.com/watch?v=lZtlqAO2BlI",
+      "youtube_id": "lZtlqAO2BlI",
       "title_gu": "આટલા વ્યભિચાર અને પાપાચાર જોઈ શ્રી મહાપ્રભુજી કેમ કઈ નથી કરતા?",
       "title_en": "Allegations of Coercion and Exploitation",
       "language": "gu",
@@ -3020,11 +2967,10 @@
         "blackmail / extortion",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-coercion-and-exploitation.md"
+      "md_slug": "allegations-of-coercion-and-exploitation"
     },
     {
-      "video_id": "8r0mVlBA22g",
-      "youtube_url": "https://www.youtube.com/watch?v=8r0mVlBA22g",
+      "youtube_id": "8r0mVlBA22g",
       "title_gu": "વા  ફરે વાદળ ફરે, ફરે નદીનાં પૂરપણ શૂરા બોલ્યા નવ ફરે પશ્વિમ ઊગે સૂર (અંગીકાર પ્રથા વિષે)",
       "title_en": "Allegations Concerning Religious Figures and Women",
       "language": "gu",
@@ -3078,11 +3024,10 @@
         "child sexual abuse / minor abuse",
         "child harm / kidnapping / custody"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-religious-figures-and-women.md"
+      "md_slug": "allegations-concerning-religious-figures-and-women"
     },
     {
-      "video_id": "qQAlsRYLkfM",
-      "youtube_url": "https://www.youtube.com/watch?v=qQAlsRYLkfM",
+      "youtube_id": "qQAlsRYLkfM",
       "title_gu": "વાયરલ થતા મેસેજ નો ટૂંક માં જવાબ",
       "title_en": "Response to a Viral Message",
       "language": "gu",
@@ -3134,11 +3079,10 @@
         "blackmail / extortion",
         "grooming"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/response-to-a-viral-message.md"
+      "md_slug": "response-to-a-viral-message"
     },
     {
-      "video_id": "YC8_UFf0iu0",
-      "youtube_url": "https://www.youtube.com/watch?v=YC8_UFf0iu0",
+      "youtube_id": "YC8_UFf0iu0",
       "title_gu": "અંગીકાર કુપ્રથા સ્વીકાર્ય ?? વૈષ્ણવ સમાજ સ્પષ્ટ કરે ?",
       "title_en": "Allegations Concerning Conduct and Threats",
       "language": "gu",
@@ -3185,11 +3129,10 @@
         "blackmail / extortion",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-conduct-and-threats.md"
+      "md_slug": "allegations-concerning-conduct-and-threats"
     },
     {
-      "video_id": "eT5q0fDvBkI",
-      "youtube_url": "https://www.youtube.com/watch?v=eT5q0fDvBkI",
+      "youtube_id": "eT5q0fDvBkI",
       "title_gu": "નમાલા ઓ ના પ્રશ્નો : Legal Action કેમ નથી લેતા ?",
       "title_en": "Allegations of Sexual Misconduct and Coercion",
       "language": "gu",
@@ -3244,11 +3187,10 @@
         "Ahmedabad",
         "Bhavnagar"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-misconduct-and-coercion.md"
+      "md_slug": "allegations-of-sexual-misconduct-and-coercion"
     },
     {
-      "video_id": "7aXRys3qz_Y",
-      "youtube_url": "https://www.youtube.com/watch?v=7aXRys3qz_Y",
+      "youtube_id": "7aXRys3qz_Y",
       "title_gu": "વૈષ્ણવ જેને અંગીકારમાં  ફસાવવા ના કરેલા બધા જ પ્રયાસો ને નિષ્ફળ કર્યા -ઓડિયો ની સત્યતા જાતે ચકાસવી",
       "title_en": "Account of Pressure to Accept Initiation",
       "language": "gu",
@@ -3294,11 +3236,10 @@
         "family grooming / community pressure",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/account-of-pressure-to-accept-initiation.md"
+      "md_slug": "account-of-pressure-to-accept-initiation"
     },
     {
-      "video_id": "KmGj7-2_GkU",
-      "youtube_url": "https://www.youtube.com/watch?v=KmGj7-2_GkU",
+      "youtube_id": "KmGj7-2_GkU",
       "title_gu": "વ્યભિચારીઓ ની પોલ ખોલતા વૈષ્ણવ ક્રાંતિકારી બેન - ઓડિયો ની સત્યતા ની જવાબદારી આશિષ શાહ કે ચેનલ ની નથી",
       "title_en": "Allegations of Persuasion and Threats",
       "language": "gu",
@@ -3345,11 +3286,10 @@
         "sexual misconduct",
         "angikar / અંગીકાર / अंगीकार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-persuasion-and-threats.md"
+      "md_slug": "allegations-of-persuasion-and-threats"
     },
     {
-      "video_id": "l3ALnUKEy64",
-      "youtube_url": "https://www.youtube.com/watch?v=l3ALnUKEy64",
+      "youtube_id": "l3ALnUKEy64",
       "title_gu": "શ્રીનાથજી કે હવેલી માં કઈ બાબત નો વિરોધ થઈ રહ્યો છે ? અને- ગો. ચન્દ્રગોપાલજી  ના પ્રશ્નો નો ઉત્તર",
       "title_en": "Allegations and Conduct at Havelis",
       "language": "gu",
@@ -3389,11 +3329,10 @@
         "angikar / અંગીકાર / अंगीकार",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-and-conduct-at-havelis.md"
+      "md_slug": "allegations-and-conduct-at-havelis"
     },
     {
-      "video_id": "vkMM7QQnc0U",
-      "youtube_url": "https://www.youtube.com/watch?v=vkMM7QQnc0U",
+      "youtube_id": "vkMM7QQnc0U",
       "title_gu": "અંગીકાર પ્રથા વિષે ની સમ્પૂર્ણ જાણકારી......(પત્રકાર મિત્રો માટે )",
       "title_en": "Allegations Concerning the Angikar Practice",
       "language": "gu",
@@ -3450,11 +3389,10 @@
         "child sexual abuse / minor abuse",
         "kotadi satsang / group sex ritual"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-the-angikar-practice-vkmm7qqnc0u.md"
+      "md_slug": "allegations-concerning-the-angikar-practice-vkmm7qqnc0u"
     },
     {
-      "video_id": "MQkygQzq97E",
-      "youtube_url": "https://www.youtube.com/watch?v=MQkygQzq97E",
+      "youtube_id": "MQkygQzq97E",
       "title_gu": "આશિષ ભાઈ એ અંગીકાર પ્રથા ની નાબુદી માટે શું કાર્ય કર્યું ? વીડિયો મા ગાળ આપ્યા સિવાય નું..",
       "title_en": "Campaign Against the Angikar Practice",
       "language": "gu",
@@ -3502,11 +3440,10 @@
         "child sexual abuse / minor abuse",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/campaign-against-the-angikar-practice-mqkygqzq97e.md"
+      "md_slug": "campaign-against-the-angikar-practice-mqkygqzq97e"
     },
     {
-      "video_id": "2eVzkh9uiQU",
-      "youtube_url": "https://www.youtube.com/watch?v=2eVzkh9uiQU",
+      "youtube_id": "2eVzkh9uiQU",
       "title_gu": "અંગીકાર પ્રથા માં પોતાની બેન અને દીકરી સાથે થયેલ ઘટના  વૈષ્ણવ બેન",
       "title_en": "A Woman’s Account of Her Sister and Daughter",
       "language": "hi",
@@ -3553,11 +3490,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/a-womans-account-of-her-sister-and-daughter.md"
+      "md_slug": "a-womans-account-of-her-sister-and-daughter"
     },
     {
-      "video_id": "HosDWtA_528",
-      "youtube_url": "https://www.youtube.com/watch?v=HosDWtA_528",
+      "youtube_id": "HosDWtA_528",
       "title_gu": "માર્ગ કોણો?",
       "title_en": "Questions About Conduct in the Vaishnav Community",
       "language": "gu",
@@ -3595,11 +3531,10 @@
         "blackmail / extortion",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-conduct-in-the-vaishnav-community.md"
+      "md_slug": "questions-about-conduct-in-the-vaishnav-community"
     },
     {
-      "video_id": "wZrZ7rYViZg",
-      "youtube_url": "https://www.youtube.com/watch?v=wZrZ7rYViZg",
+      "youtube_id": "wZrZ7rYViZg",
       "title_gu": "ચીર નિંદ્રા મા સૂતેલો વૈષ્ણવ સમાજ",
       "title_en": "Criticism of Conduct in the Vaishnav Community",
       "language": "gu",
@@ -3641,11 +3576,10 @@
         "blackmail / extortion",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/criticism-of-conduct-in-the-vaishnav-community.md"
+      "md_slug": "criticism-of-conduct-in-the-vaishnav-community"
     },
     {
-      "video_id": "KW9iV0ga6XA",
-      "youtube_url": "https://www.youtube.com/watch?v=KW9iV0ga6XA",
+      "youtube_id": "KW9iV0ga6XA",
       "title_gu": "भगवद सेवा में भाव भावना के नाम पर कलुषित मानसिकता ( बच्चे दूर रहे )",
       "title_en": "Allegations About Conduct During Religious Service",
       "language": "gu",
@@ -3697,11 +3631,10 @@
         "kotadi satsang / group sex ritual",
         "HIV / STD / pregnancy / abortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-during-religious-service.md"
+      "md_slug": "allegations-about-conduct-during-religious-service"
     },
     {
-      "video_id": "5I64ydPorYU",
-      "youtube_url": "https://www.youtube.com/watch?v=5I64ydPorYU",
+      "youtube_id": "5I64ydPorYU",
       "title_gu": "અંગીકાર પ્રથા વિરોધ અભિયાન - જન આંદોલન માટે હાકલ",
       "title_en": "Call for a Movement Against the Angikar Practice",
       "language": "gu",
@@ -3755,11 +3688,10 @@
         "kotadi satsang / group sex ritual",
         "HIV / STD / pregnancy / abortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/call-for-a-movement-against-the-angikar-practice.md"
+      "md_slug": "call-for-a-movement-against-the-angikar-practice"
     },
     {
-      "video_id": "RVG1mzfyVTE",
-      "youtube_url": "https://www.youtube.com/watch?v=RVG1mzfyVTE",
+      "youtube_id": "RVG1mzfyVTE",
       "title_gu": "Pushtimargiya Samvad is live",
       "title_en": "Questions About Angikar and a Threat",
       "language": "gu",
@@ -3814,11 +3746,10 @@
         "drugging / intoxication",
         "HIV / STD / pregnancy / abortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-angikar-and-a-threat.md"
+      "md_slug": "questions-about-angikar-and-a-threat"
     },
     {
-      "video_id": "76-h36kBE2g",
-      "youtube_url": "https://www.youtube.com/watch?v=76-h36kBE2g",
+      "youtube_id": "76-h36kBE2g",
       "title_gu": "મુંબઈ સે આયા મેરા દોસ્ત ...દોસ્ત કો સલામ કરો...રાત કો ......",
       "title_en": "Allegations About an Ahmedabad Farmhouse",
       "language": "gu",
@@ -3864,11 +3795,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-an-ahmedabad-farmhouse.md"
+      "md_slug": "allegations-about-an-ahmedabad-farmhouse"
     },
     {
-      "video_id": "Z9z2637L5cc",
-      "youtube_url": "https://www.youtube.com/watch?v=Z9z2637L5cc",
+      "youtube_id": "Z9z2637L5cc",
       "title_gu": "અંગીકાર પ્રથા પર કાનૂની સિકંજો કલમ 84 ભારતીય ન્યાય સંહિતા",
       "title_en": "Allegations Concerning Satsang and Religious Leaders",
       "language": "gu",
@@ -3925,11 +3855,10 @@
         "murder / death",
         "rape / બળાત્કાર / बलात्कार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-satsang-and-religious-leaders.md"
+      "md_slug": "allegations-concerning-satsang-and-religious-leaders"
     },
     {
-      "video_id": "uCges6XkS64",
-      "youtube_url": "https://www.youtube.com/watch?v=uCges6XkS64",
+      "youtube_id": "uCges6XkS64",
       "title_gu": "પુષ્ટિમાર્ગ માં સત્સંગ કે ગપ્પા ઓ ની દુકાન",
       "title_en": "Religious Stories and Allegations of Sexual Misconduct",
       "language": "gu",
@@ -3979,11 +3908,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/religious-stories-and-allegations-of-sexual-misconduct.md"
+      "md_slug": "religious-stories-and-allegations-of-sexual-misconduct"
     },
     {
-      "video_id": "qptWKUJhPxg",
-      "youtube_url": "https://www.youtube.com/watch?v=qptWKUJhPxg",
+      "youtube_id": "qptWKUJhPxg",
       "title_gu": "દિક્ષેન ભાઈ ની વાત",
       "title_en": "Concerns About Grooming and Videos",
       "language": "gu",
@@ -4032,11 +3960,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-grooming-and-videos.md"
+      "md_slug": "concerns-about-grooming-and-videos"
     },
     {
-      "video_id": "G-Zh5y_i5vQ",
-      "youtube_url": "https://www.youtube.com/watch?v=G-Zh5y_i5vQ",
+      "youtube_id": "G-Zh5y_i5vQ",
       "title_gu": "છો કે નહીં ?",
       "title_en": "Surrender and Devotional Service",
       "language": "gu",
@@ -4071,11 +3998,10 @@
         "FIR / एफआईआर",
         "sexual misconduct"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/surrender-and-devotional-service.md"
+      "md_slug": "surrender-and-devotional-service"
     },
     {
-      "video_id": "EMPcZp0clk8",
-      "youtube_url": "https://www.youtube.com/watch?v=EMPcZp0clk8",
+      "youtube_id": "EMPcZp0clk8",
       "title_gu": "પ્રપંચ ની સેવા",
       "title_en": "Devotional Service and Worldly Talk",
       "language": "gu",
@@ -4120,11 +4046,10 @@
         "sexual misconduct",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/devotional-service-and-worldly-talk.md"
+      "md_slug": "devotional-service-and-worldly-talk"
     },
     {
-      "video_id": "9x_eyO-BxVI",
-      "youtube_url": "https://www.youtube.com/watch?v=9x_eyO-BxVI",
+      "youtube_id": "9x_eyO-BxVI",
       "title_gu": "વિરાંગના બેનો ને વિન્નતી અને સંશય આત્મા ઓ ને ચેતવણી",
       "title_en": "Allegations About Satsang Gatherings",
       "language": "gu",
@@ -4173,11 +4098,10 @@
         "kotadi satsang / group sex ritual",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-satsang-gatherings.md"
+      "md_slug": "allegations-about-satsang-gatherings"
     },
     {
-      "video_id": "XTgW85Q_pWw",
-      "youtube_url": "https://www.youtube.com/watch?v=XTgW85Q_pWw",
+      "youtube_id": "XTgW85Q_pWw",
       "title_gu": "માર્ગ ના દુષણો નો જવાબદાર કોણ?",
       "title_en": "Who Is Responsible for Wrongdoing in the Religious Community?",
       "language": "gu",
@@ -4230,11 +4154,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/who-is-responsible-for-wrongdoing-in-the-religious-community.md"
+      "md_slug": "who-is-responsible-for-wrongdoing-in-the-religious-community"
     },
     {
-      "video_id": "9_D4wdAXO7U",
-      "youtube_url": "https://www.youtube.com/watch?v=9_D4wdAXO7U",
+      "youtube_id": "9_D4wdAXO7U",
       "title_gu": "મંથરા કર્મ",
       "title_en": "Allegations of Misconduct and Misinterpretation",
       "language": "gu",
@@ -4290,11 +4213,10 @@
         "gang rape / સામૂહિક બળાત્કાર",
         "child sexual abuse / minor abuse"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-misconduct-and-misinterpretation.md"
+      "md_slug": "allegations-of-misconduct-and-misinterpretation"
     },
     {
-      "video_id": "NVBvwIzqG4Q",
-      "youtube_url": "https://www.youtube.com/watch?v=NVBvwIzqG4Q",
+      "youtube_id": "NVBvwIzqG4Q",
       "title_gu": "બ્રહ્મ સંબધ / સ્વ સ્વરૂપ સેવ્ય કરવા નો પ્રકાર",
       "title_en": "Brahma Sambandh and Religious Conduct",
       "language": "hi",
@@ -4338,11 +4260,10 @@
         "family grooming / community pressure",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/brahma-sambandh-and-religious-conduct.md"
+      "md_slug": "brahma-sambandh-and-religious-conduct"
     },
     {
-      "video_id": "XifVixgavaI",
-      "youtube_url": "https://www.youtube.com/watch?v=XifVixgavaI",
+      "youtube_id": "XifVixgavaI",
       "title_gu": "पुष्टिमार्ग में गुरु कौन ?",
       "title_en": "Questions About Gurus and Alleged Conduct",
       "language": "gu",
@@ -4391,11 +4312,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-gurus-and-alleged-conduct.md"
+      "md_slug": "questions-about-gurus-and-alleged-conduct"
     },
     {
-      "video_id": "pVpySXh7uw4",
-      "youtube_url": "https://www.youtube.com/watch?v=pVpySXh7uw4",
+      "youtube_id": "pVpySXh7uw4",
       "title_gu": "મારું અસ્ત્ર મારુ મૌન (ભાષા અમર્યાદિત )",
       "title_en": "Challenge Over Alleged Sexual Misconduct",
       "language": "gu",
@@ -4439,11 +4359,10 @@
         "blackmail / extortion",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/challenge-over-alleged-sexual-misconduct.md"
+      "md_slug": "challenge-over-alleged-sexual-misconduct"
     },
     {
-      "video_id": "CYZ5_0i-5ig",
-      "youtube_url": "https://www.youtube.com/watch?v=CYZ5_0i-5ig",
+      "youtube_id": "CYZ5_0i-5ig",
       "title_gu": "અન્ય ભજન ના બહાના (રાંદેર તેડવા, સત્યનારાયણ ની પૂજા, કુળદેવી, કુળદેવતા પૂજા)",
       "title_en": "Religious Practices and Angikar",
       "language": "hi",
@@ -4490,11 +4409,10 @@
         "family grooming / community pressure",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/religious-practices-and-angikar.md"
+      "md_slug": "religious-practices-and-angikar"
     },
     {
-      "video_id": "DxbfC-Z7SMM",
-      "youtube_url": "https://www.youtube.com/watch?v=DxbfC-Z7SMM",
+      "youtube_id": "DxbfC-Z7SMM",
       "title_gu": "ધર્મ શીખવા જાવ છો કે ધંધો....ધ્યાન થી સમજો",
       "title_en": "Children and Religious Instruction",
       "language": "gu",
@@ -4536,11 +4454,10 @@
         "blackmail / extortion",
         "angikar / અંગીકાર / अंगीकार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/children-and-religious-instruction.md"
+      "md_slug": "children-and-religious-instruction"
     },
     {
-      "video_id": "R27CkkNwJ2A",
-      "youtube_url": "https://www.youtube.com/watch?v=R27CkkNwJ2A",
+      "youtube_id": "R27CkkNwJ2A",
       "title_gu": "શું આશિષ ભાઈ ના વિડીયો સાંભળવા ? કેમ આશિષ ભાઈ બીભત્સ વિડીયો બનાવે છે ? ગાળ કેમ બોલે ?",
       "title_en": "Allegations of Inappropriate Touching and Exploitation",
       "language": "gu",
@@ -4591,11 +4508,10 @@
         "rape / બળાત્કાર / बलात्कार",
         "child sexual abuse / minor abuse"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-inappropriate-touching-and-exploitation.md"
+      "md_slug": "allegations-of-inappropriate-touching-and-exploitation"
     },
     {
-      "video_id": "-Vpl5OYkKbo",
-      "youtube_url": "https://www.youtube.com/watch?v=-Vpl5OYkKbo",
+      "youtube_id": "-Vpl5OYkKbo",
       "title_gu": "અંગીકાર પ્રથા વિરોધ અભિયાન -૪",
       "title_en": "Remarks on Angikar and Alleged Abuse",
       "language": "gu",
@@ -4638,11 +4554,10 @@
         "child sexual abuse / minor abuse",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-angikar-and-alleged-abuse.md"
+      "md_slug": "remarks-on-angikar-and-alleged-abuse"
     },
     {
-      "video_id": "sSgVbaUJvhQ",
-      "youtube_url": "https://www.youtube.com/watch?v=sSgVbaUJvhQ",
+      "youtube_id": "sSgVbaUJvhQ",
       "title_gu": "......",
       "title_en": "Allegations of Sexual Conduct and Exploitation",
       "language": "gu",
@@ -4692,11 +4607,10 @@
         "kotadi satsang / group sex ritual",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-sexual-conduct-and-exploitation.md"
+      "md_slug": "allegations-of-sexual-conduct-and-exploitation"
     },
     {
-      "video_id": "pAo1ZqxS6oo",
-      "youtube_url": "https://www.youtube.com/watch?v=pAo1ZqxS6oo",
+      "youtube_id": "pAo1ZqxS6oo",
       "title_gu": "ચરણ ભેટ",
       "title_en": "Offerings to Religious Leaders",
       "language": "gu",
@@ -4734,11 +4648,10 @@
         "angikar / અંગીકાર / अंगीकार",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/offerings-to-religious-leaders.md"
+      "md_slug": "offerings-to-religious-leaders"
     },
     {
-      "video_id": "vU9p2g8adsM",
-      "youtube_url": "https://www.youtube.com/watch?v=vU9p2g8adsM",
+      "youtube_id": "vU9p2g8adsM",
       "title_gu": "Pushtimargiya Samvad is live",
       "title_en": "Allegations of Grooming",
       "language": "gu",
@@ -4784,11 +4697,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-grooming.md"
+      "md_slug": "allegations-of-grooming"
     },
     {
-      "video_id": "p4Hc4wHWcT8",
-      "youtube_url": "https://www.youtube.com/watch?v=p4Hc4wHWcT8",
+      "youtube_id": "p4Hc4wHWcT8",
       "title_gu": "ગાંડા ના મુખે ડાહી વાતો -૧",
       "title_en": "Allegations About Conduct During Pilgrimages",
       "language": "gu",
@@ -4830,11 +4742,10 @@
         "angikar / અંગીકાર / अंगीकार",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-during-pilgrimages.md"
+      "md_slug": "allegations-about-conduct-during-pilgrimages"
     },
     {
-      "video_id": "3q35vReV-7A",
-      "youtube_url": "https://www.youtube.com/watch?v=3q35vReV-7A",
+      "youtube_id": "3q35vReV-7A",
       "title_gu": "પુષ્ટિમાર્ગ - નિષ્કામ ભક્તિ માર્ગ - એક સંવાદ",
       "title_en": "Devotion and Religious Practice in Pushtimarg",
       "language": "gu",
@@ -4869,11 +4780,10 @@
         "charan sparsh / ચરણ સ્પર્શ",
         "kotadi satsang / group sex ritual"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/devotion-and-religious-practice-in-pushtimarg.md"
+      "md_slug": "devotion-and-religious-practice-in-pushtimarg"
     },
     {
-      "video_id": "kOIKJ200mrg",
-      "youtube_url": "https://www.youtube.com/watch?v=kOIKJ200mrg",
+      "youtube_id": "kOIKJ200mrg",
       "title_gu": "trolls",
       "title_en": "Threats, Accounts, and Allegations",
       "language": "gu",
@@ -4924,11 +4834,10 @@
         "HIV / STD / pregnancy / abortion",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/threats-accounts-and-allegations.md"
+      "md_slug": "threats-accounts-and-allegations"
     },
     {
-      "video_id": "ZOd8QPmPqwE",
-      "youtube_url": "https://www.youtube.com/watch?v=ZOd8QPmPqwE",
+      "youtube_id": "ZOd8QPmPqwE",
       "title_gu": "જાદુ તેરી નઝર",
       "title_en": "Requests for Information and Proposed Action",
       "language": "gu",
@@ -4970,11 +4879,10 @@
         "grooming",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/requests-for-information-and-proposed-action.md"
+      "md_slug": "requests-for-information-and-proposed-action"
     },
     {
-      "video_id": "9yWufwbr_m8",
-      "youtube_url": "https://www.youtube.com/watch?v=9yWufwbr_m8",
+      "youtube_id": "9yWufwbr_m8",
       "title_gu": "અંગીકાર વિરુદ્ધ માં વૈષ્ણવ ઝુંબેશ",
       "title_en": "Campaign Against Angikar",
       "language": "gu",
@@ -5023,11 +4931,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/campaign-against-angikar.md"
+      "md_slug": "campaign-against-angikar"
     },
     {
-      "video_id": "V0_V0R113Ao",
-      "youtube_url": "https://www.youtube.com/watch?v=V0_V0R113Ao",
+      "youtube_id": "V0_V0R113Ao",
       "title_gu": "पुष्टिमार्ग मे कुंभ स्नान का औचित्य",
       "title_en": "The Place of Kumbh Mela Bathing in Pushtimarg",
       "language": "gu",
@@ -5074,11 +4981,10 @@
         "angikar / અંગીકાર / अंगीकार",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/the-place-of-kumbh-mela-bathing-in-pushtimarg.md"
+      "md_slug": "the-place-of-kumbh-mela-bathing-in-pushtimarg"
     },
     {
-      "video_id": "6gnCup9G2y8",
-      "youtube_url": "https://www.youtube.com/watch?v=6gnCup9G2y8",
+      "youtube_id": "6gnCup9G2y8",
       "title_gu": "પુષ્ટિમાર્ગીય વૈષ્ણવો ની માર્ગ છોડવા વિશે ની વાર્તા",
       "title_en": "An Account of Pushtimarg Vaishnavs Leaving the Tradition",
       "language": "gu",
@@ -5115,11 +5021,10 @@
         "child sexual abuse / minor abuse",
         "child harm / kidnapping / custody"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/an-account-of-pushtimarg-vaishnavs-leaving-the-tradition.md"
+      "md_slug": "an-account-of-pushtimarg-vaishnavs-leaving-the-tradition"
     },
     {
-      "video_id": "EXpMGU2Y6Ys",
-      "youtube_url": "https://www.youtube.com/watch?v=EXpMGU2Y6Ys",
+      "youtube_id": "EXpMGU2Y6Ys",
       "title_gu": "પુષ્ટિમાર્ગીય સંવાદ ઉદ્દેશ્ય અને તેની અસર",
       "title_en": "The Purpose and Impact of Pushtimarg Dialogue",
       "language": "gu",
@@ -5172,11 +5077,10 @@
         "kotadi satsang / group sex ritual",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/the-purpose-and-impact-of-pushtimarg-dialogue.md"
+      "md_slug": "the-purpose-and-impact-of-pushtimarg-dialogue"
     },
     {
-      "video_id": "PR34BD93-ZI",
-      "youtube_url": "https://www.youtube.com/watch?v=PR34BD93-ZI",
+      "youtube_id": "PR34BD93-ZI",
       "title_gu": "यह कोन खेलवे की बानी",
       "title_en": "A Temple Story and Allegations About Nathdwara",
       "language": "gu",
@@ -5218,11 +5122,10 @@
         "sexual misconduct",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/a-temple-story-and-allegations-about-nathdwara.md"
+      "md_slug": "a-temple-story-and-allegations-about-nathdwara"
     },
     {
-      "video_id": "bb8m5Lw97ZU",
-      "youtube_url": "https://www.youtube.com/watch?v=bb8m5Lw97ZU",
+      "youtube_id": "bb8m5Lw97ZU",
       "title_gu": "Pushtimargiya Samvad is live",
       "title_en": "Claims About Marriage and Conduct in the Vaishnav Community",
       "language": "gu",
@@ -5274,11 +5177,10 @@
         "HIV / STD / pregnancy / abortion",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/claims-about-marriage-and-conduct-in-the-vaishnav-community.md"
+      "md_slug": "claims-about-marriage-and-conduct-in-the-vaishnav-community"
     },
     {
-      "video_id": "HeDDViJe4XA",
-      "youtube_url": "https://www.youtube.com/watch?v=HeDDViJe4XA",
+      "youtube_id": "HeDDViJe4XA",
       "title_gu": "વલ્લભ ના શરણે જઈએ રહીએ....",
       "title_en": "Allegations About Religious Service and Exploitation",
       "language": "gu",
@@ -5324,11 +5226,10 @@
         "family grooming / community pressure",
         "angikar / અંગીકાર / अंगीकार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-religious-service-and-exploitation.md"
+      "md_slug": "allegations-about-religious-service-and-exploitation"
     },
     {
-      "video_id": "74uonUkzDBI",
-      "youtube_url": "https://www.youtube.com/watch?v=74uonUkzDBI",
+      "youtube_id": "74uonUkzDBI",
       "title_gu": "હવેલી એટલે શું ? હવેલી એટલે મંદિર ₹ ₹? હવેલી એટલે નંદાલય ? હવેલી એટલે ઘર ? પુષ્ટિમાર્ગ માં શું સ્થાન",
       "title_en": "Allegations About Online Conduct and Religious Service",
       "language": "gu",
@@ -5368,11 +5269,10 @@
         "child sexual abuse / minor abuse",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-online-conduct-and-religious-service.md"
+      "md_slug": "allegations-about-online-conduct-and-religious-service"
     },
     {
-      "video_id": "Ax5REcFVY8c",
-      "youtube_url": "https://www.youtube.com/watch?v=Ax5REcFVY8c",
+      "youtube_id": "Ax5REcFVY8c",
       "title_gu": "हर शाख पर उल्लू बेठा है",
       "title_en": "Allegations About Religious Grooming",
       "language": "gu",
@@ -5420,11 +5320,10 @@
         "HIV / STD / pregnancy / abortion",
         "grooming"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-religious-grooming.md"
+      "md_slug": "allegations-about-religious-grooming"
     },
     {
-      "video_id": "9b77jOZx-Kk",
-      "youtube_url": "https://www.youtube.com/watch?v=9b77jOZx-Kk",
+      "youtube_id": "9b77jOZx-Kk",
       "title_gu": "ગો બા ઓ ના તંત્ર વિશે ની વાત- ભાગ 2",
       "title_en": "Claims About Tantra and Dreams",
       "language": "gu",
@@ -5462,11 +5361,10 @@
         "sexual misconduct",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/claims-about-tantra-and-dreams.md"
+      "md_slug": "claims-about-tantra-and-dreams"
     },
     {
-      "video_id": "4UcdNOFHtpc",
-      "youtube_url": "https://www.youtube.com/watch?v=4UcdNOFHtpc",
+      "youtube_id": "4UcdNOFHtpc",
       "title_gu": "નીજી વાત",
       "title_en": "Remarks on Religious Conduct and a Removed Video",
       "language": "gu",
@@ -5507,11 +5405,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-religious-conduct-and-a-removed-video.md"
+      "md_slug": "remarks-on-religious-conduct-and-a-removed-video"
     },
     {
-      "video_id": "YZ_wO0x23Uk",
-      "youtube_url": "https://www.youtube.com/watch?v=YZ_wO0x23Uk",
+      "youtube_id": "YZ_wO0x23Uk",
       "title_gu": "ભગવદ પ્રેમ પર પાશ્ચાત્ય કીચડ ના ઉછાળવા નો અનુરોધ",
       "title_en": "Remarks on Religious Initiation and Conduct",
       "language": "gu",
@@ -5553,11 +5450,10 @@
         "blackmail / extortion",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/remarks-on-religious-initiation-and-conduct.md"
+      "md_slug": "remarks-on-religious-initiation-and-conduct"
     },
     {
-      "video_id": "kKKa-CoLajM",
-      "youtube_url": "https://www.youtube.com/watch?v=kKKa-CoLajM",
+      "youtube_id": "kKKa-CoLajM",
       "title_gu": "કેહવતા વૈષ્ણવ સમાજ ને પ્રશ્ન ......તમારો ઉત્તર એ જ તમારું ભવિષ્ય",
       "title_en": "Questions About Goswami Conduct",
       "language": "gu",
@@ -5608,11 +5504,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/questions-about-goswami-conduct.md"
+      "md_slug": "questions-about-goswami-conduct"
     },
     {
-      "video_id": "ZuC4VSA7roI",
-      "youtube_url": "https://www.youtube.com/watch?v=ZuC4VSA7roI",
+      "youtube_id": "ZuC4VSA7roI",
       "title_gu": "કૃષ્ણાશ્રય થી અન્યાશ્રય ની કૂચ",
       "title_en": "Claims About Initiation and Religious Allegiance",
       "language": "gu",
@@ -5659,11 +5554,10 @@
         "grooming",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/claims-about-initiation-and-religious-allegiance.md"
+      "md_slug": "claims-about-initiation-and-religious-allegiance"
     },
     {
-      "video_id": "A1YMg-77HCI",
-      "youtube_url": "https://www.youtube.com/watch?v=A1YMg-77HCI",
+      "youtube_id": "A1YMg-77HCI",
       "title_gu": "Pushtimargiya Samvad is live!",
       "title_en": "Allegations of Manipulation in Religious Settings",
       "language": "gu",
@@ -5708,11 +5602,10 @@
         "family grooming / community pressure",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-manipulation-in-religious-settings.md"
+      "md_slug": "allegations-of-manipulation-in-religious-settings"
     },
     {
-      "video_id": "cFp-pU5VEVg",
-      "youtube_url": "https://www.youtube.com/watch?v=cFp-pU5VEVg",
+      "youtube_id": "cFp-pU5VEVg",
       "title_gu": "दिया तले अंधियारा । શ્રીમહાપ્રભુજી ના સિદ્ધાંતો નું કેટલું સ્વીકાર્ય",
       "title_en": "Allegations Concerning Conduct in the Pushtimarg Community",
       "language": "gu",
@@ -5766,11 +5659,10 @@
         "child sexual abuse / minor abuse",
         "kotadi satsang / group sex ritual"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-concerning-conduct-in-the-pushtimarg-community.md"
+      "md_slug": "allegations-concerning-conduct-in-the-pushtimarg-community"
     },
     {
-      "video_id": "qla6c5FYAVE",
-      "youtube_url": "https://www.youtube.com/watch?v=qla6c5FYAVE",
+      "youtube_id": "qla6c5FYAVE",
       "title_gu": "द्वंद कहां तक पाला जाए?",
       "title_en": "Conflict and Religious Violence",
       "language": "gu",
@@ -5812,11 +5704,10 @@
         "angikar / અંગીકાર / अंगीकार",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/conflict-and-religious-violence.md"
+      "md_slug": "conflict-and-religious-violence"
     },
     {
-      "video_id": "dFnfcDO4i0o",
-      "youtube_url": "https://www.youtube.com/watch?v=dFnfcDO4i0o",
+      "youtube_id": "dFnfcDO4i0o",
       "title_gu": "धर्म रक्षा अभियान",
       "title_en": "Religious Protection and Allegations of Exploitation",
       "language": "gu",
@@ -5870,11 +5761,10 @@
         "child harm / kidnapping / custody",
         "HIV / STD / pregnancy / abortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/religious-protection-and-allegations-of-exploitation.md"
+      "md_slug": "religious-protection-and-allegations-of-exploitation"
     },
     {
-      "video_id": "9yh0pzZZOco",
-      "youtube_url": "https://www.youtube.com/watch?v=9yh0pzZZOco",
+      "youtube_id": "9yh0pzZZOco",
       "title_gu": "जादू है..…नशा है...",
       "title_en": "Allegations About Photographs and Occult Practices",
       "language": "gu",
@@ -5912,11 +5802,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-photographs-and-occult-practices.md"
+      "md_slug": "allegations-about-photographs-and-occult-practices"
     },
     {
-      "video_id": "QqumaSprhQI",
-      "youtube_url": "https://www.youtube.com/watch?v=QqumaSprhQI",
+      "youtube_id": "QqumaSprhQI",
       "title_gu": "वसंत ऋतु आई फूलन फुले",
       "title_en": "Allegations About Sexual Conduct",
       "language": "gu",
@@ -5961,11 +5850,10 @@
         "HIV / STD / pregnancy / abortion",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-sexual-conduct.md"
+      "md_slug": "allegations-about-sexual-conduct"
     },
     {
-      "video_id": "YeCKtpP1nT0",
-      "youtube_url": "https://www.youtube.com/watch?v=YeCKtpP1nT0",
+      "youtube_id": "YeCKtpP1nT0",
       "title_gu": "શૃંગાર ના શોખીન યુવા વર્ગ ચેતો",
       "title_en": "Allegation of Sexual Exploitation of Boys",
       "language": "gu",
@@ -6010,11 +5898,10 @@
         "family grooming / community pressure",
         "angikar / અંગીકાર / अंगीकार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegation-of-sexual-exploitation-of-boys.md"
+      "md_slug": "allegation-of-sexual-exploitation-of-boys"
     },
     {
-      "video_id": "UqJ6ZfoQPEA",
-      "youtube_url": "https://www.youtube.com/watch?v=UqJ6ZfoQPEA",
+      "youtube_id": "UqJ6ZfoQPEA",
       "title_gu": "વૈષ્ણવ ને  સેવા માં શું નિષેધ છે ?",
       "title_en": "Household Worship and Ritual Order",
       "language": "gu",
@@ -6054,11 +5941,10 @@
         "sexual misconduct",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/household-worship-and-ritual-order.md"
+      "md_slug": "household-worship-and-ritual-order"
     },
     {
-      "video_id": "rR6jmfg-1P4",
-      "youtube_url": "https://www.youtube.com/watch?v=rR6jmfg-1P4",
+      "youtube_id": "rR6jmfg-1P4",
       "title_gu": "પુષ્ટિમાર્ગીય વૈષ્ણવો એ ફોન મેસેજ વોટ્સએપ સત્સંગ કરવા  ના વિવેક",
       "title_en": "Phone Calls, Religious Initiation, and a Warning",
       "language": "gu",
@@ -6098,11 +5984,10 @@
         "rape / બળાત્કાર / बलात्कार",
         "blackmail / extortion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/phone-calls-religious-initiation-and-a-warning.md"
+      "md_slug": "phone-calls-religious-initiation-and-a-warning"
     },
     {
-      "video_id": "upWu2VQusKc",
-      "youtube_url": "https://www.youtube.com/watch?v=upWu2VQusKc",
+      "youtube_id": "upWu2VQusKc",
       "title_gu": "ભગવદ સેવા માં બાળકો ના લીધે કલેશ ???",
       "title_en": "Children and Devotional Service",
       "language": "gu",
@@ -6135,11 +6020,10 @@
         "FIR / एफआईआर",
         "angikar / અંગીકાર / अंगीकार"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/children-and-devotional-service.md"
+      "md_slug": "children-and-devotional-service"
     },
     {
-      "video_id": "J9Tbi3JdQNU",
-      "youtube_url": "https://www.youtube.com/watch?v=J9Tbi3JdQNU",
+      "youtube_id": "J9Tbi3JdQNU",
       "title_gu": "દિક્ષેન ભાઈ દ્વારા ભાવેશભાઈ પરમાર (@Bhavesh-qv2yg) ને જવાબ",
       "title_en": "Allegations About Initiation and Conduct",
       "language": "gu",
@@ -6185,11 +6069,10 @@
         "sexual misconduct",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-initiation-and-conduct.md"
+      "md_slug": "allegations-about-initiation-and-conduct"
     },
     {
-      "video_id": "RQpbnBJm4Gg",
-      "youtube_url": "https://www.youtube.com/watch?v=RQpbnBJm4Gg",
+      "youtube_id": "RQpbnBJm4Gg",
       "title_gu": "કૃષ્ણ ની નિષ્કામ ભક્તિ માં સમલૈગીકતા નો પ્રચાર કેમ ? જાતીય સંબધો થી સમલૈગીકતા-અંગીકાર ના નવા આયામ",
       "title_en": "Allegations About Conduct Within a Religious Community",
       "language": "gu",
@@ -6232,11 +6115,10 @@
         "grooming",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-conduct-within-a-religious-community.md"
+      "md_slug": "allegations-about-conduct-within-a-religious-community"
     },
     {
-      "video_id": "Qqd7hwrkuW0",
-      "youtube_url": "https://www.youtube.com/watch?v=Qqd7hwrkuW0",
+      "youtube_id": "Qqd7hwrkuW0",
       "title_gu": "કૃષ્ણ ભક્તિમાર્ગમાં વધતી વિકૃતિઓ..ગે કલ્ચર, લેસ્બીયન , મલ્ટી પાર્ટનર SEX ,પ્રકૃતિ વિરુદ્ધ ના કૃત્ય",
       "title_en": "Allegations of Exploitation and Sexual Conduct",
       "language": "gu",
@@ -6283,11 +6165,10 @@
         "grooming",
         "family grooming / community pressure"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-of-exploitation-and-sexual-conduct.md"
+      "md_slug": "allegations-of-exploitation-and-sexual-conduct"
     },
     {
-      "video_id": "OOpzLQLh2x4",
-      "youtube_url": "https://www.youtube.com/watch?v=OOpzLQLh2x4",
+      "youtube_id": "OOpzLQLh2x4",
       "title_gu": "जन्माष्टमी उत्सव क्रम",
       "title_en": "Janmashtami Offerings and Celebrations",
       "language": "gu",
@@ -6321,11 +6202,10 @@
         "relatives",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/janmashtami-offerings-and-celebrations.md"
+      "md_slug": "janmashtami-offerings-and-celebrations"
     },
     {
-      "video_id": "iWK3SWONKHQ",
-      "youtube_url": "https://www.youtube.com/watch?v=iWK3SWONKHQ",
+      "youtube_id": "iWK3SWONKHQ",
       "title_gu": "निकुंज लीला के रहस्य-1",
       "title_en": "Interpretations of Nikunj Lila",
       "language": "gu",
@@ -6371,11 +6251,10 @@
         "sexual misconduct",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/interpretations-of-nikunj-lila.md"
+      "md_slug": "interpretations-of-nikunj-lila"
     },
     {
-      "video_id": "xje-LsqmZOg",
-      "youtube_url": "https://www.youtube.com/watch?v=xje-LsqmZOg",
+      "youtube_id": "xje-LsqmZOg",
       "title_gu": "નિંદા ન કરે કેની રે..વૈષ્ણવ જન તો....",
       "title_en": "Concerns About Religious Leaders and Girls",
       "language": "gu",
@@ -6426,11 +6305,10 @@
         "black magic / superstition / તંત્ર-મંત્ર",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-religious-leaders-and-girls.md"
+      "md_slug": "concerns-about-religious-leaders-and-girls"
     },
     {
-      "video_id": "sgbEZ1XJBHc",
-      "youtube_url": "https://www.youtube.com/watch?v=sgbEZ1XJBHc",
+      "youtube_id": "sgbEZ1XJBHc",
       "title_gu": "Pushtimargiya Samvad is live",
       "title_en": "A Discussion of Shravani Observance",
       "language": "gu",
@@ -6455,11 +6333,10 @@
         "Pushtimarg / પુષ્ટિમાર્ગ",
         "Sion"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/a-discussion-of-shravani-observance.md"
+      "md_slug": "a-discussion-of-shravani-observance"
     },
     {
-      "video_id": "6sB--2EHjA8",
-      "youtube_url": "https://www.youtube.com/watch?v=6sB--2EHjA8",
+      "youtube_id": "6sB--2EHjA8",
       "title_gu": "अधिकस्य अधिकं फलम्",
       "title_en": "Worship During Adhik Maas",
       "language": "gu",
@@ -6495,11 +6372,10 @@
         "angikar / અંગીકાર / अंगीकार",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/worship-during-adhik-maas.md"
+      "md_slug": "worship-during-adhik-maas"
     },
     {
-      "video_id": "ztdPSSbIxuc",
-      "youtube_url": "https://www.youtube.com/watch?v=ztdPSSbIxuc",
+      "youtube_id": "ztdPSSbIxuc",
       "title_gu": "એડવોકેટ મોહિની પટેલે ભાવેશ પરમાર ના આક્ષેપ નો કુચો વાળી દીધો. છે હિમત ભાવેશ પરમાર માંસામે આવવા ની  ?",
       "title_en": "Concerns About Religious Initiation",
       "language": "gu",
@@ -6545,11 +6421,10 @@
         "family grooming / community pressure",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-religious-initiation.md"
+      "md_slug": "concerns-about-religious-initiation"
     },
     {
-      "video_id": "CSjlhR8YNkA",
-      "youtube_url": "https://www.youtube.com/watch?v=CSjlhR8YNkA",
+      "youtube_id": "CSjlhR8YNkA",
       "title_gu": "सत्य अने संवाद (नाम परिवर्तन ) हेतु स्पष्टता 2",
       "title_en": "Concerns About Minors and Religious Leaders",
       "language": "gu",
@@ -6597,11 +6472,10 @@
         "family grooming / community pressure",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/concerns-about-minors-and-religious-leaders.md"
+      "md_slug": "concerns-about-minors-and-religious-leaders"
     },
     {
-      "video_id": "ujgXTwUeOuM",
-      "youtube_url": "https://www.youtube.com/watch?v=ujgXTwUeOuM",
+      "youtube_id": "ujgXTwUeOuM",
       "title_gu": "અસમાજિક તત્વો ની ધમકી",
       "title_en": "Threats Over Videos and Overseas Visits",
       "language": "hi",
@@ -6636,11 +6510,10 @@
         "blackmail / extortion",
         "cover-up / police refusal / victim silencing"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/threats-over-videos-and-overseas-visits.md"
+      "md_slug": "threats-over-videos-and-overseas-visits"
     },
     {
-      "video_id": "SadV9IwCmB4",
-      "youtube_url": "https://www.youtube.com/watch?v=SadV9IwCmB4",
+      "youtube_id": "SadV9IwCmB4",
       "title_gu": "स्वमार्ग  सेवा विषयक भाषा विवेक",
       "title_en": "Language and Devotional Service",
       "language": "hi",
@@ -6669,11 +6542,10 @@
         "Thakurji",
         "gopi"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/language-and-devotional-service.md"
+      "md_slug": "language-and-devotional-service"
     },
     {
-      "video_id": "T8Fhi2U-baE",
-      "youtube_url": "https://www.youtube.com/watch?v=T8Fhi2U-baE",
+      "youtube_id": "T8Fhi2U-baE",
       "title_gu": "अपनो जन प्रह्लाद उबार्यो",
       "title_en": "Narasimha and Threats of Police Complaints",
       "language": "gu",
@@ -6712,11 +6584,10 @@
         "sexual misconduct",
         "black magic / superstition / તંત્ર-મંત્ર"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/narasimha-and-threats-of-police-complaints.md"
+      "md_slug": "narasimha-and-threats-of-police-complaints"
     },
     {
-      "video_id": "kckXSi4rEyY",
-      "youtube_url": "https://www.youtube.com/watch?v=kckXSi4rEyY",
+      "youtube_id": "kckXSi4rEyY",
       "title_gu": "Pushtimargiya Samvad is live",
       "title_en": "Allegations About Activities Behind the Scenes",
       "language": "gu",
@@ -6744,11 +6615,10 @@
         "Pushtimarg / પુષ્ટિમાર્ગ",
         "sexual misconduct"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/allegations-about-activities-behind-the-scenes.md"
+      "md_slug": "allegations-about-activities-behind-the-scenes"
     },
     {
-      "video_id": "soo4MHWs5mM",
-      "youtube_url": "https://www.youtube.com/watch?v=soo4MHWs5mM",
+      "youtube_id": "soo4MHWs5mM",
       "title_gu": "मेघ तांडव",
       "title_en": "The Present Situation and Yamunaji’s Festival",
       "language": "gu",
@@ -6773,7 +6643,7 @@
         "Surat / सूरत",
         "Vadodara"
       ],
-      "md_url": "https://github.com/pushtiwatch/A/blob/main/the-present-situation-and-yamunajis-festival.md"
+      "md_slug": "the-present-situation-and-yamunajis-festival"
     }
   ]
 }
