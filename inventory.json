@@ -8,7 +8,8 @@
     "last_updated": "2026-11-26",
     "total_entries": 134,
     "disclaimer": "Public video-based claims only. Allegations are the speakers' own and are not independently verified. Named individuals are presumed innocent unless proven in court.",
-    "source": "https://github.com/pushtiwatch/A"
+    "source": "https://github.com/pushtiwatch/A",
+    "missing_fields": "A field left out of an entry has no value; a missing location means not stated."
   },
   "entries": [
     {
@@ -18,9 +19,6 @@
       "language": "gu",
       "published_date": "2025-02-19",
       "duration_seconds": 466,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "In this video, the speaker asks Vaishnavs not to question women who speak about angikar, and alleges that haveli associates and even her own guru use women.",
       "claims": [
         "Alleges that at two different havelis, people close to the Baba said they would do her two-and-a-half-year-old daughter's Naam Nivedan only if she took Brahma Sambandh again.",
@@ -545,9 +543,6 @@
       "language": "gu",
       "published_date": "2025-02-22",
       "duration_seconds": 126,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "In this video, the speaker alleges that a man did not spare sisters, made a video call to her daughter when she was alone, and says they will not do seva of Vallabh Kul.",
       "claims": [
         "Alleges that a man does not even spare anyone's sisters.",
@@ -650,9 +645,6 @@
       "language": "gu",
       "published_date": "2024-12-24",
       "duration_seconds": 326,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "In this video, the speaker alleges that an elderly Vaishnav turned a health visit into talk of angikar aimed at the speaker's wife, and urges support for those who speak against the practice.",
       "claims": [
         "Alleges that an elderly Vaishnav turned a health visit into talk of angikar aimed at the speaker's wife.",
@@ -700,9 +692,6 @@
       "language": "gu",
       "published_date": "2025-05-07",
       "duration_seconds": 1010,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a 16-year-old girl was raped and criticizes religious authorities and community members for defending alleged offenders and demanding photographic or video evidence.",
       "claims": [
         "Alleges that photographic or video evidence is demanded to establish sexual assault.",
@@ -749,9 +738,6 @@
       "language": "gu",
       "published_date": "2025-04-26",
       "duration_seconds": 9861,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a woman experienced forced confinement, repeated Angikar encounters involving a religious figure, and subsequent sexual exploitation by another man. The speaker also describes marital difficulties and pressure concerning childbirth.",
       "claims": [
         "Alleges that a woman was forcibly restrained and confined in a bathroom.",
@@ -806,9 +792,6 @@
       "language": "gu",
       "published_date": "2025-04-15",
       "duration_seconds": 1835,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that Angikar is defended as a religious practice despite harmful consequences for participants and insufficient community accountability. The discussion includes an account of Angikar involving married women and concerns about the values imparted to future generations.",
       "claims": [
         "Alleges that participants in Angikar do not receive adequate dignity or lifelong support.",
@@ -854,9 +837,6 @@
       "language": "hi",
       "published_date": "2023-11-28",
       "duration_seconds": 2040,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that the Angikar practice is being misused to manipulate Vaishnav families into exposing their daughters and daughters-in-law to sexual exploitation. The speaker urges the Vaishnav community to recognize and stop the alleged abuse.",
       "claims": [
         "Alleges that families are manipulated into sending their daughters for Angikar.",
@@ -912,9 +892,6 @@
       "language": "gu",
       "published_date": "2025-08-03",
       "duration_seconds": 410,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious imagery, claims of divine grace, and interpretations of Angikar and divine pastimes were used to manipulate her. She calls for greater community awareness to protect daughters and daughters-in-law.",
       "claims": [
         "Alleges that claims of divine grace are used to gradually manipulate devotees.",
@@ -958,9 +935,6 @@
       "language": "gu",
       "published_date": "2025-02-20",
       "duration_seconds": 1491,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges inappropriate physical contact, sexual misconduct, and manipulation associated with Angikar, including conduct involving male devotees. She also discusses alleged suicide threats and objects to describing such conduct using sacred religious terminology.",
       "claims": [
         "Alleges that inappropriate physical contact occurs during ritual prostration.",
@@ -1012,9 +986,6 @@
       "language": "gu",
       "published_date": "2025-05-05",
       "duration_seconds": 438,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious leaders engage in sexual activities with female followers under the pretext of Angikar. She claims that devotees have been misled about the practice.",
       "claims": [
         "Alleges that a religious leader engages in sexual activities with ten women simultaneously.",
@@ -1062,9 +1033,6 @@
       "language": "gu",
       "published_date": "2024-10-05",
       "duration_seconds": 3405,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that invoking the threat of extremism is being used to conceal wrongdoing within the Vaishnav community, with serious consequences for female followers. He also expresses fear of being murdered because of his disclosures.",
       "claims": [
         "Alleges that concerns exist regarding religious leaders' physical contact with daughters of devotees.",
@@ -1117,9 +1085,6 @@
       "language": "gu",
       "published_date": "2025-05-18",
       "duration_seconds": 1164,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a religious leader used intermediaries to persuade her to undergo Angikar without her understanding its intended purpose. She further alleges that women involved in these activities were preparing their teenage daughters to participate.",
       "claims": [
         "Alleges that a religious leader expressed a desire to sexually engage with her using indirect language.",
@@ -1169,9 +1134,6 @@
       "language": "gu",
       "published_date": "2025-05-04",
       "duration_seconds": 310,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker recounts an alleged historical incident in which a female friend persuaded her married sister to undergo Angikar with a religious leader while she was staying at her parental home. The speaker alleges that her sister subsequently became pregnant.",
       "claims": [
         "Alleges that a religious leader regularly visited their village.",
@@ -1210,9 +1172,6 @@
       "language": "gu",
       "published_date": "2025-02-18",
       "duration_seconds": 4997,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a caller told a tenth-grade student to send her mother out and take off her T-shirt. The speaker also recounts a separate allegation about a mother and daughter that they say they learned from a YouTube comment.",
       "claims": [
         "Alleges that the caller asked the student to send her mother out.",
@@ -1269,9 +1228,6 @@
       "language": "gu",
       "published_date": "2024-06-01",
       "duration_seconds": 5220,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that intermediaries pursued the speaker’s mother and that one conveyed an offer of Angikar. The speaker also alleges that someone claimed a right to have sexual relations with Vaishnav women and that turtles are killed during a Som Yajna.",
       "claims": [
         "Alleges that intermediaries pursued the speaker’s mother.",
@@ -1323,9 +1279,6 @@
       "language": "gu",
       "published_date": "2025-07-20",
       "duration_seconds": 3120,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that people arranging large Vaishnav gatherings seek money and sexual encounters, and that activities presented as Raas are used to initiate sexual encounters. The speaker also alleges that old cutouts are reused for Thakorji’s religious observances.",
       "claims": [
         "Alleges that attention or smiles are used to draw people into a Baithakji to give money or have sex.",
@@ -1378,9 +1331,6 @@
       "language": "gu",
       "published_date": "2025-04-21",
       "duration_seconds": 4060,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speakers discuss a video, a condition involving alcohol, and what may have been a child’s initiation. They also discuss whether someone placed a sacred form in another person’s mouth.",
       "claims": [
         "Alleges that someone made a video involving drinking water.",
@@ -1427,9 +1377,6 @@
       "language": "gu",
       "published_date": "2025-06-07",
       "duration_seconds": 6300,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that members of a religious leader’s group raped a woman after the leader left. The speaker also recounts a woman’s death by suicide and says that a mother and son were thrown out.",
       "claims": [
         "Alleges that people came out onto the road intent on taking someone to a religious leader.",
@@ -1488,9 +1435,6 @@
       "language": "gu",
       "published_date": "2025-04-21",
       "duration_seconds": 951,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that someone had already received Angikar and refers to other incidents a daughter-in-law might have been unaware of. The conversation also mentions a religious figure’s donation and a devotional offering.",
       "claims": [
         "Alleges that someone had already received Angikar.",
@@ -1533,9 +1477,6 @@
       "language": "gu",
       "published_date": "2024-04-13",
       "duration_seconds": 1555,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that girls and boys are singled out during Angikar and describes incidents of sexual exploitation involving minors.",
       "claims": [
         "Alleges that when it happens to young boys, to minors, it’s called child abuse, and this has been going on for a long time. You see, there are some Vaishnav devotees in the temple who are gay, and they look at these young boys with improper intentions and touch them in inappropriate….",
@@ -1629,9 +1570,6 @@
       "language": "gu",
       "published_date": "2024-06-24",
       "duration_seconds": 6024,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a religious leader asked for a tenth-grade girl to be sent to him alone. In a separate account, the speaker alleges that a woman was subjected to sexual misconduct by two men and blackmailed with video recordings before she died by suicide.",
       "claims": [
         "Alleges that a religious leader asked for a tenth-grade girl to be sent to him alone.",
@@ -1688,9 +1626,6 @@
       "language": "gu",
       "published_date": "2026-01-16",
       "duration_seconds": 4569,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that the teachings of the Shikshapatra are being set aside and questions how customs are applied. The speaker also uses a hypothetical five-crore-rupee payment to raise a question about personal access to Thakurji.",
       "claims": [
         "Alleges that the teachings of the Shikshapatra are being set aside.",
@@ -1730,9 +1665,6 @@
       "language": "gu",
       "published_date": "2025-04-15",
       "duration_seconds": 2377,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual misconduct and claims that different girls are invited to a woman’s home. The speaker also recounts an alleged remark by a friend about a CA exam.",
       "claims": [
         "Alleges that someone gradually established a presence after being encouraged to expand.",
@@ -1782,9 +1714,6 @@
       "language": "gu",
       "published_date": "2025-07-01",
       "duration_seconds": 1606,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that people seek sexual access to women and describes this as a method connected with angikar. The speaker also alleges that recordings are used for blackmail and makes accusations about sexual activity involving spouses.",
       "claims": [
         "Alleges that people seek sexual access to women through an angikar method.",
@@ -1834,9 +1763,6 @@
       "language": "gu",
       "published_date": "2024-09-03",
       "duration_seconds": 6255,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a woman became pregnant after an encounter with a Bawa and later died by suicide, and separately alleges that a woman and her daughter died by suicide. The speaker also claims to possess clips containing a woman’s statements about encounters with Vaishnavs and children.",
       "claims": [
         "Alleges that a woman was subjected to angikar and spent seven days with a Bawa.",
@@ -1892,9 +1818,6 @@
       "language": "hi",
       "published_date": "2023-11-30",
       "duration_seconds": 1285,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker criticizes people he describes as outwardly Vaishnav but inwardly tantric and discusses publicly revealing names. He also refers to a defamation case and urges people to speak with their daughters about pressure from mothers-in-law.",
       "claims": [
         "Alleges that some people present themselves as Vaishnav while following tantric practices.",
@@ -1944,9 +1867,6 @@
       "language": "gu",
       "published_date": "2024-05-23",
       "duration_seconds": 860,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some religious leaders have relationships with women other than their wives. He also questions how many have traveled to give Brahma Sambandh and criticizes people he associates with LGBTQ rights.",
       "claims": [
         "Alleges that some religious leaders have relationships with other people's wives.",
@@ -2036,9 +1956,6 @@
       "language": "gu",
       "published_date": "2025-02-17",
       "duration_seconds": 470,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious leaders have prompted people to request a victim’s identifying details and threatens legal action against those making the requests. The speaker also alleges that occult rituals were performed, including the sacrifice of buffaloes.",
       "claims": [
         "Alleges that religious leaders told people to post comments requesting details.",
@@ -2081,9 +1998,6 @@
       "language": "gu",
       "published_date": "2024-08-29",
       "duration_seconds": 5240,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious figures exploit followers and describes alleged sexual misconduct involving women and an 18-year-old girl. The speaker urges listeners to question the belief that these figures are Krishna.",
       "claims": [
         "Alleges that a religious figure pursued a devotional singer’s wife.",
@@ -2194,9 +2108,6 @@
       "language": "gu",
       "published_date": "2025-07-15",
       "duration_seconds": 4970,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that men had sex with 16-year-old girls while claiming a divine identity and promising their salvation. He also refers to an alleged victim and accuses others of sending girls to people’s homes.",
       "claims": [
         "Alleges that men had sex with 16-year-old girls while claiming to be Vallabh himself.",
@@ -2247,9 +2158,6 @@
       "language": "gu",
       "published_date": "2025-03-06",
       "duration_seconds": 3364,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that sexual misconduct occurs in religious gatherings and makes an allegation about sexual activity involving a young religious leader and a caretaker.",
       "claims": [
         "Alleges that men conducting religious gatherings engage in sexual activity with women attendees.",
@@ -2299,9 +2207,6 @@
       "language": "gu",
       "published_date": "2024-02-06",
       "duration_seconds": 2130,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious teachings are misused to encourage sexual conduct between family members and describes alleged sexual conduct at gatherings. The speaker also alleges that a person made a girl pregnant.",
       "claims": [
         "Alleges that religious texts are misused to encourage sexual relationships between family members.",
@@ -2407,9 +2312,6 @@
       "language": "gu",
       "published_date": "2025-04-29",
       "duration_seconds": 1285,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that impressionable girls are misled and subjected to psychological abuse and coercion. She also alleges that threats and repeated unwanted touching can cause lasting harm.",
       "claims": [
         "Alleges that impressionable girls are led to believe that what is happening is right.",
@@ -2464,9 +2366,6 @@
       "language": "gu",
       "published_date": "2025-07-22",
       "duration_seconds": 1883,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual abuse of girls and describes an alleged incident in Mandvi involving a girl. The captions also contain a warning about violence toward boys and a call to oppose abuse.",
       "claims": [
         "Alleges that girls aged 16 and under are subjected to sexual violence.",
@@ -2519,9 +2418,6 @@
       "language": "gu",
       "published_date": "2025-06-05",
       "duration_seconds": 2363,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a woman was asked to give up her home and was told not to return to the haveli after she refused. The speaker also makes accusations about the conduct and relationships of the people addressed.",
       "claims": [
         "Alleges that a woman was asked to hand over her home and told she could go wherever she wanted.",
@@ -2559,9 +2455,6 @@
       "language": "gu",
       "published_date": "2025-02-20",
       "duration_seconds": 4037,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker describes a campaign against the Angikar practice and alleges sexual abuse involving religious figures and their associates. The speaker also alleges that young women are offered to religious figures in parts of Kathiawar.",
       "claims": [
         "Alleges that campaign participants pressure Goswami children to state on video that they disagree with the practice.",
@@ -2617,9 +2510,6 @@
       "language": "gu",
       "published_date": "2025-08-22",
       "duration_seconds": 347,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a woman was described as an offering and condemns alleged sexual conduct carried out in the name of religion and Angikar. The speaker calls on people to speak out and questions the motives of those who criticize the campaign.",
       "claims": [
         "Alleges that a man’s wife was described as an offering.",
@@ -2655,9 +2545,6 @@
       "language": "gu",
       "published_date": "2025-08-09",
       "duration_seconds": 3113,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges misconduct involving young women who come to serve and criticizes a religious initiation involving a teenage girl and an older man. The excerpts also contain an incomplete account involving several young men.",
       "claims": [
         "Alleges that a man in Ahmedabad committed a wrongful act against a young woman from London.",
@@ -2711,9 +2598,6 @@
       "language": "gu",
       "published_date": "2025-06-16",
       "duration_seconds": 2827,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker says he is a witness and claims to possess information about children and other witnesses. He also warns those he addresses and makes threats of violence.",
       "claims": [
         "Alleges that audio clips exist from other witnesses concerning children.",
@@ -2760,9 +2644,6 @@
       "language": "gu",
       "published_date": "2024-09-18",
       "duration_seconds": 1726,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that girls have been exploited and refers to two alleged suicides. The speaker also recounts a student’s allegation that a religious scholar sought to abuse him.",
       "claims": [
         "Alleges that two girls died by suicide in a recent case.",
@@ -2811,9 +2692,6 @@
       "language": "gu",
       "published_date": "2025-05-14",
       "duration_seconds": 3099,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual abuse of a niece and criticizes the community’s response. The speaker also refers to a girl in Leicester and raises an unclear concern involving teenage girls and a religious figure.",
       "claims": [
         "Alleges that a man sexually abuses his niece.",
@@ -2867,9 +2745,6 @@
       "language": "hi",
       "published_date": "2023-10-18",
       "duration_seconds": 1705,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker recounts allegations of sexual exploitation linked to promises of spiritual experience. The speaker also alleges that videos connected with Angikar were used to threaten people, while parts of the captions are unclear.",
       "claims": [
         "Alleges that a girl was persuaded to have sex repeatedly through promises of a spiritual experience.",
@@ -2922,9 +2797,6 @@
       "language": "gu",
       "published_date": "2025-05-05",
       "duration_seconds": 1090,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that women have been trapped and sexually exploited, and calls for accountability. The speaker also urges men to consider women’s experiences.",
       "claims": [
         "Alleges that women have been forcibly trapped.",
@@ -2976,9 +2848,6 @@
       "language": "gu",
       "published_date": "2026-04-07",
       "duration_seconds": 2683,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some women have sexual relationships with religious figures without their husbands’ knowledge. The speaker also warns that religious figures and their sons may pose a threat to daughters.",
       "claims": [
         "Alleges that some women visit a religious figure for sex without their husbands’ knowledge.",
@@ -3033,9 +2902,6 @@
       "language": "gu",
       "published_date": "2025-08-01",
       "duration_seconds": 2059,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual wrongdoing involving a 16-year-old and calls for investigation into three reported suicides. The speaker also alleges that some members of a religious community lure women by claiming to be Krishna.",
       "claims": [
         "Alleges that sexual wrongdoing involving a 16-year-old and a 55-year-old man.",
@@ -3088,9 +2954,6 @@
       "language": "gu",
       "published_date": "2025-08-22",
       "duration_seconds": 3357,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges misconduct involving a ninth-grade girl and describes an incident involving a man’s ritual hair tuft. The speaker also alleges that Goswami religious figures issue death threats.",
       "claims": [
         "Alleges that a Goswami looked at a ninth-grade girl inappropriately.",
@@ -3138,9 +3001,6 @@
       "language": "gu",
       "published_date": "2025-07-05",
       "duration_seconds": 4910,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that sexually explicit gatherings and coercive practices occur in several places. The speaker also describes an alleged sexual assault of a 16-year-old and claims that young girls are brought to Goswami religious figures.",
       "claims": [
         "Alleges that a gathering involving extensive nudity takes place under the name Vrajyuvati Satsang.",
@@ -3196,9 +3056,6 @@
       "language": "gu",
       "published_date": "2025-04-22",
       "duration_seconds": 521,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that people used religious warnings and repeated persuasion to pressure the family into accepting initiation. The speaker says they also wanted to involve a daughter, but the family resisted.",
       "claims": [
         "Alleges that people warned the family of punishment and hell.",
@@ -3245,9 +3102,6 @@
       "language": "gu",
       "published_date": "2025-04-22",
       "duration_seconds": 406,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that people used religious gatherings and promises to try to draw Vaishnavs into sexual misconduct. She also alleges that one person threatened to abduct her after she refused his proposal.",
       "claims": [
         "Alleges that religious gatherings were used to try to draw Vaishnavs into sexual misconduct.",
@@ -3295,9 +3149,6 @@
       "language": "gu",
       "published_date": "2025-01-18",
       "duration_seconds": 1960,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that Vaishnav women and girls are being sexually exploited and calls for an end to sexual misconduct. The speaker says devotees may visit havelis where Goswamis provide darshan, accept offerings and refrain from such misconduct.",
       "claims": [
         "Alleges that vaishnav women and girls are being used and abandoned.",
@@ -3338,9 +3189,6 @@
       "language": "gu",
       "published_date": "2025-05-03",
       "duration_seconds": 2327,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that girls are groomed and taken to Goswamis and that women have reported sexual demands and encounters. The speaker also alleges instances of sacrifice and suicide and claims to have witnessed the practice.",
       "claims": [
         "Alleges that girls are gradually groomed and taken to Goswamis.",
@@ -3398,9 +3246,6 @@
       "language": "gu",
       "published_date": "2025-07-29",
       "duration_seconds": 1330,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that sexual misconduct has contributed to suicides and refers to the alleged rape of a 16-year-old girl. The speaker calls for Goswamis who engage in misconduct to be barred and says local trustees have not supported the campaign.",
       "claims": [
         "Alleges that sexual misconduct has contributed to an increase in suicides.",
@@ -3449,9 +3294,6 @@
       "language": "hi",
       "published_date": "2025-05-04",
       "duration_seconds": 127,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a man associated with a temple harmed her sister and made an inappropriate remark to her daughter during a video call.",
       "claims": [
         "Alleges that a temple-associated man did not spare her sister.",
@@ -3499,9 +3341,6 @@
       "language": "gu",
       "published_date": "2025-03-20",
       "duration_seconds": 5072,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker urges collective marriages for Vaishnav young people and criticizes what he describes as inappropriate attitudes toward girls. He also refers to threats and makes other remarks whose context is unclear.",
       "claims": [
         "Alleges that some people do not treat girls as their own daughters.",
@@ -3540,9 +3379,6 @@
       "language": "gu",
       "published_date": "2025-05-03",
       "duration_seconds": 995,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual misconduct and harmful attitudes toward girls within the community. He criticizes those he believes fail to protect girls’ dignity.",
       "claims": [
         "Alleges that a Goswami exploits his position to pursue sexual desires.",
@@ -3585,9 +3421,6 @@
       "language": "gu",
       "published_date": "2024-07-27",
       "duration_seconds": 4304,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges inappropriate conduct involving a pillow during a religious practice and makes accusations of sexual misconduct. The speaker warns that daughters could face serious harm, including suicide or sexually transmitted infections.",
       "claims": [
         "Alleges that a pillow is placed between figures during a ritual of putting them to bed.",
@@ -3640,9 +3473,6 @@
       "language": "gu",
       "published_date": "2025-02-28",
       "duration_seconds": 2605,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual misconduct involving religious figures and says evidence exists concerning a death in a Godhra case. The speaker also alleges misconduct involving children after religious initiation in other religious communities.",
       "claims": [
         "Alleges that sexual misconduct involving Goswami religious figures.",
@@ -3697,9 +3527,6 @@
       "language": "gu",
       "published_date": "2025-07-08",
       "duration_seconds": 2478,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a 16-year-old girl is sent for angikar and questions whether sexual activity between a minor and an older man can be justified. The speaker also makes a threat involving turpentine and a sheet.",
       "claims": [
         "Alleges that a 60-year-old man has sex with a 16-year-old girl.",
@@ -3804,9 +3631,6 @@
       "language": "gu",
       "published_date": "2024-12-23",
       "duration_seconds": 6731,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual misconduct involving people attending a satsang and a visiting religious figure. The speaker also refers to sending virgin girls to a place called the “doodhghar,” though the captioned account is fragmentary.",
       "claims": [
         "Alleges that couples attending a satsang engage in sexual activity with others.",
@@ -3864,9 +3688,6 @@
       "language": "gu",
       "published_date": "2025-07-04",
       "duration_seconds": 2915,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker questions stories about Thakorji and food offerings made in the name of a Goswami child. The speaker also alleges that people commit sexual misconduct in India and urges that it stop.",
       "claims": [
         "Alleges that a story claims Thakorji appeared to a girl, after which she stopped going outside.",
@@ -3917,9 +3738,6 @@
       "language": "gu",
       "published_date": "2025-07-16",
       "duration_seconds": 916,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that efforts to protect a girl were met with abuse and raises concerns about grooming and taking women somewhere. The speaker also discusses whether to delete a video and mentions a possible sting operation involving young people.",
       "claims": [
         "Alleges that efforts to prevent a girl from being drawn in are met with abuse.",
@@ -3969,9 +3787,6 @@
       "language": "gu",
       "published_date": "2025-05-08",
       "duration_seconds": 3250,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker discusses surrender and initiation, suggesting that true surrender keeps a devotee focused on God. The speaker also begins discussing devotional service and conduct toward the deity.",
       "claims": [
         "Alleges that surrender keeps the soul focused on God throughout the day.",
@@ -4007,9 +3822,6 @@
       "language": "gu",
       "published_date": "2025-08-27",
       "duration_seconds": 1740,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker describes devotees discussing worldly affairs and criticizes what the speaker sees as reluctance to serve the deity. The speaker also refers to worship and religious practices outside that service.",
       "claims": [
         "Alleges that devotees gather or use the phone to gossip about worldly affairs.",
@@ -4107,9 +3919,6 @@
       "language": "gu",
       "published_date": "2025-02-17",
       "duration_seconds": 3050,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker recounts an alleged invitation to embrace a religious figure and describes concerns about resistance and reputation. The speaker also recounts an allegation involving a girl and a religious figure.",
       "claims": [
         "Alleges that a religious figure invited a woman into his embrace.",
@@ -4163,9 +3972,6 @@
       "language": "gu",
       "published_date": "2024-02-11",
       "duration_seconds": 2314,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that an older man impregnated a young woman and arranged an abortion. The speaker also alleges that religious verses and gatherings are misused for sexual activity.",
       "claims": [
         "Alleges that an older man impregnated a young woman.",
@@ -4222,9 +4028,6 @@
       "language": "hi",
       "published_date": "2023-12-11",
       "duration_seconds": 2039,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker challenges certain conduct associated with Brahma Sambandh and questions the actions of religious figures. The captions are fragmentary, and some of their meaning is uncertain.",
       "claims": [
         "Alleges that the practice should be described and conducted openly.",
@@ -4269,9 +4072,6 @@
       "language": "gu",
       "published_date": "2024-07-22",
       "duration_seconds": 3620,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some religious figures engage in occult practices and recounts an alleged unwanted embrace during Brahma Sambandh. The speaker also refers to a video-call incident involving a schoolgirl, but the excerpt does not state what was said.",
       "claims": [
         "Alleges that some religious figures engage in occult practices.",
@@ -4321,9 +4121,6 @@
       "language": "gu",
       "published_date": "2024-03-21",
       "duration_seconds": 652,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual misconduct involving people associated with the Angikar practice and their followers. The speaker challenges them and says that old audio clips could be played publicly.",
       "claims": [
         "Alleges that people involved in the Angikar practice and their followers engage in sexual misconduct.",
@@ -4368,9 +4165,6 @@
       "language": "hi",
       "published_date": "2023-12-09",
       "duration_seconds": 1955,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker discusses Vaishnav religious practice and alleges that some religious figures perform rituals for money. The speaker also alleges a sexual motive behind some instances of Angikar.",
       "claims": [
         "Alleges that some religious figures perform chants and rituals in exchange for money.",
@@ -4418,9 +4212,6 @@
       "language": "gu",
       "published_date": "2026-05-12",
       "duration_seconds": 4005,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that sending a child to certain religious teachers could weaken the child’s devotion and expose the child to physical abuse. The speaker also discusses allowing children to play with a household deity and questions a devotional practice.",
       "claims": [
         "Alleges that sending a child to certain religious teachers could deprive the child of devotion.",
@@ -4463,9 +4254,6 @@
       "language": "gu",
       "published_date": "2026-05-02",
       "duration_seconds": 2412,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a religious teacher in his forties touched a boy inappropriately and that the boy told him about it. He also discusses alleged child exploitation and invokes compassion for potential victims.",
       "claims": [
         "Alleges that a religious teacher touched a boy inappropriately.",
@@ -4517,9 +4305,6 @@
       "language": "gu",
       "published_date": "2025-04-12",
       "duration_seconds": 960,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a religious figure could sexually pursue a young woman and calls for legal action against alleged abusers. He says that a person who commits rape remains a rapist regardless of their status as a guru.",
       "claims": [
         "Alleges that a religious figure might cast a predatory eye on a girl when she turns 18.",
@@ -4563,9 +4348,6 @@
       "language": "gu",
       "published_date": "2025-04-15",
       "duration_seconds": 3580,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious figures have sex with women under the pretext of receiving donations. He also refers to the potential abuse of a seven-year-old girl and describes alleged sexual conduct.",
       "claims": [
         "Alleges that people have sex with multiple women under the pretext of receiving donations.",
@@ -4616,9 +4398,6 @@
       "language": "gu",
       "published_date": "2025-08-01",
       "duration_seconds": 1253,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker criticizes what he describes as hypocrisy surrounding traditional dress and offerings. He alleges exploitation and warns against sending children to Goswami religious leaders.",
       "claims": [
         "Alleges that someone changes into traditional dress to create a misleading impression.",
@@ -4657,9 +4436,6 @@
       "language": "gu",
       "published_date": "2024-09-23",
       "duration_seconds": 1797,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that Vaishnav devotees are being groomed and warns that girls aged 17 and 18 are being targeted. The speaker also objects to a statement about Yashoda and the nature of her devotion.",
       "claims": [
         "Alleges that vaishnav devotees are being groomed.",
@@ -4706,9 +4482,6 @@
       "language": "gu",
       "published_date": "2024-09-28",
       "duration_seconds": 3389,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual misconduct involving Goswamis and children, and describes alleged sexual conduct during pilgrimages. The speaker also refers to a possible commission connected with a large pilgrimage.",
       "claims": [
         "Alleges that some Goswamis seek sexual relations with children.",
@@ -4751,9 +4524,6 @@
       "language": "gu",
       "published_date": "2024-03-05",
       "duration_seconds": 2282,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker rejects the idea that sex can purify a person or grant access to divine play, and discusses devotion and religious teachings. The speaker urges listeners to attend to foundational texts before discussing more advanced devotional themes.",
       "claims": [
         "Alleges that some people claim sex can purify them or grant access to divine play.",
@@ -4789,9 +4559,6 @@
       "language": "gu",
       "published_date": "2025-06-26",
       "duration_seconds": 2024,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that people have threatened him and describes allegations concerning an initiation ritual and other conduct. He also says he will show the accounts involved.",
       "claims": [
         "Alleges that a man threatened to break his legs.",
@@ -4843,9 +4610,6 @@
       "language": "gu",
       "published_date": "2025-04-29",
       "duration_seconds": 585,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges sexual misconduct and asks for names, addresses, and information about people he says are involved in the Angikar practice. He says he intends to involve police and take further action.",
       "claims": [
         "Alleges that people are involved in the Angikar practice.",
@@ -4888,9 +4652,6 @@
       "language": "gu",
       "published_date": "2025-04-29",
       "duration_seconds": 883,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that he heard of the sexual abuse of a 16-year-old girl by a 60-year-old man over two years. He also expresses concern that he could be made to disappear.",
       "claims": [
         "Alleges that people who block him enjoy the Angikar practice.",
@@ -4940,9 +4701,6 @@
       "language": "gu",
       "published_date": "2025-01-17",
       "duration_seconds": 3061,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some Goswami Balaks engage in sexual misconduct and look at women inappropriately. The speaker also criticizes trust-run havelis where no Goswami Balak presides.",
       "claims": [
         "Alleges that some Goswami Balaks engage in sexual misconduct.",
@@ -4990,9 +4748,6 @@
       "language": "gu",
       "published_date": "2024-12-20",
       "duration_seconds": 2096,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker recounts a parent’s allegation that a man in his forties or fifties stared inappropriately at their 16-year-old daughter during a sermon. The speaker also alleges that similar misconduct occurs abroad and says a woman slapped a Goswami Balak there.",
       "claims": [
         "Alleges that a man in his forties or fifties stared inappropriately at a 16-year-old girl during a sermon.",
@@ -5030,9 +4785,6 @@
       "language": "gu",
       "published_date": "2024-09-30",
       "duration_seconds": 2750,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker recounts suspicions about intermediaries bringing girls in connection with Angikar and about the use of sex in tantric practice. The speaker also describes alleged inappropriate attention toward teenage girls and questions what action listeners took after a girl died by suicide.",
       "claims": [
         "Alleges that intermediaries may have brought girls in connection with Angikar.",
@@ -5131,9 +4883,6 @@
       "language": "gu",
       "published_date": "2025-04-25",
       "duration_seconds": 1296,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that female foeticide and the handing over of daughters to Goswami religious figures contribute to difficulties finding brides. The speaker also condemns what he describes as sexual misconduct associated with angikar.",
       "claims": [
         "Alleges that families face difficulty finding brides for their sons.",
@@ -5235,9 +4984,6 @@
       "language": "gu",
       "published_date": "2026-03-13",
       "duration_seconds": 3480,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a young man engaged in sexual misconduct involving boys and created a new profile after his chats were discovered. The speaker also alleges that a religious service was taught incorrectly and that someone threatened them.",
       "claims": [
         "Alleges that a young man was caught engaging in conduct involving boys.",
@@ -5278,9 +5024,6 @@
       "language": "gu",
       "published_date": "2024-09-21",
       "duration_seconds": 1270,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious ideas are used to groom and sexually exploit girls. The captions refer to a 17-year-old and to exploitation lasting several years.",
       "claims": [
         "Alleges that religious ideas are used to groom girls.",
@@ -5329,9 +5072,6 @@
       "language": "gu",
       "published_date": "2025-03-05",
       "duration_seconds": 1330,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker recounts a woman’s allegation that a Goswami used tantra on her, causing recurring dreams and thoughts about him. The speaker attributes this to a lack of refuge in God.",
       "claims": [
         "Alleges that a woman reported being subjected to tantra by a Goswami.",
@@ -5370,9 +5110,6 @@
       "language": "gu",
       "published_date": "2025-04-03",
       "duration_seconds": 2630,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that people seeking to turn illicit money into legitimate funds placed Mahaprabhuji on the road. The speaker also alludes to alleged misconduct and says a video was removed following a copyright claim.",
       "claims": [
         "Alleges that people seeking to convert illicit money placed Mahaprabhuji on the road.",
@@ -5414,9 +5151,6 @@
       "language": "gu",
       "published_date": "2025-02-15",
       "duration_seconds": 3788,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some people support objectionable conduct and describes a mantra initiation involving a woman. The speaker also criticizes a card-playing video and comments on devotees’ interactions with Goswami children.",
       "claims": [
         "Alleges that some people support objectionable conduct.",
@@ -5459,9 +5193,6 @@
       "language": "gu",
       "published_date": "2026-03-24",
       "duration_seconds": 2140,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that Goswamis entice girls and use the language of devotion and surrender in connection with them. The speaker also recounts an alleged suicide following a husband’s accusation about a pregnancy.",
       "claims": [
         "Alleges that a Goswami entices a girl to come close to him.",
@@ -5513,9 +5244,6 @@
       "language": "gu",
       "published_date": "2024-10-07",
       "duration_seconds": 1235,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that sexual acts are presented to women as a means of spiritual salvation and initiation. The speaker also describes a young Vallabhkul child being pressured to have “Om” marked on his tongue to bring him under another religious allegiance.",
       "claims": [
         "Alleges that sexual intercourse is presented as a means of salvation.",
@@ -5563,9 +5291,6 @@
       "language": "gu",
       "published_date": "2025-04-23",
       "duration_seconds": 655,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that girls are manipulated into becoming attracted to a Goswami through repeated praise and religious claims. The speaker warns that such conduct could extend to men if people are prevented from speaking about incidents.",
       "claims": [
         "Alleges that girls are brainwashed.",
@@ -5611,9 +5336,6 @@
       "language": "gu",
       "published_date": "2025-02-04",
       "duration_seconds": 3995,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges wrongdoing in religious practice and describes accounts of relationships involving religious figures and married women. The speaker also recounts an allegation that a religious figure asked a father to bring his adult daughter.",
       "claims": [
         "Alleges that serious wrongdoing toward Thakorji in contemporary religious practice.",
@@ -5668,9 +5390,6 @@
       "language": "gu",
       "published_date": "2025-04-23",
       "duration_seconds": 1110,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that Hindu victims were targeted because of their religion and that some were left alive to remember the killings. The speaker also refers to a girl experiencing an unspecified incident and asks whether anyone is prepared to die for Hinduism.",
       "claims": [
         "Alleges that something happened to a girl.",
@@ -5713,9 +5432,6 @@
       "language": "gu",
       "published_date": "2024-08-20",
       "duration_seconds": 2965,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that women and girls are being trapped and sexually exploited, and accuses intermediaries of helping facilitate it. The speaker threatens to target those intermediaries first.",
       "claims": [
         "Alleges that girls may be trapped and sexually exploited.",
@@ -5770,9 +5486,6 @@
       "language": "gu",
       "published_date": "2025-04-19",
       "duration_seconds": 751,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that certain Goswami youths ensnare women and use their photographs for sexual gratification and black magic. The speaker says he has eight names and threatens to have a raid conducted.",
       "claims": [
         "Alleges that eight Goswami youths are involved in tantric practices.",
@@ -5811,9 +5524,6 @@
       "language": "gu",
       "published_date": "2024-02-09",
       "duration_seconds": 2251,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some religious figures have multiple sexual partners, experience sexually transmitted illnesses, and take Viagra before seeking women. The speaker also recounts receiving a message involving a woman and her husband, though the account is incomplete.",
       "claims": [
         "Alleges that some religious figures have multiple sexual partners.",
@@ -5907,9 +5617,6 @@
       "language": "gu",
       "published_date": "2026-06-23",
       "duration_seconds": 2917,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker argues that household worship can be adapted to circumstances and kept private. The speaker also criticizes people who object to how others dress and serve their deity.",
       "claims": [
         "Alleges that household offerings and dressing rituals can be adapted to circumstances.",
@@ -5950,9 +5657,6 @@
       "language": "gu",
       "published_date": "2025-04-18",
       "duration_seconds": 1618,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker complains about late-night calls and makes a personal allegation involving a Goswami. The speaker also threatens violence against Goswami initiators caught performing angikar.",
       "claims": [
         "Alleges that people call the speaker at two or two-thirty in the morning.",
@@ -5993,9 +5697,6 @@
       "language": "gu",
       "published_date": "2026-04-19",
       "duration_seconds": 3246,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker discusses reactions when children touch a deity and criticizes adults who deny children tulsi for prayer until they receive Brahma Sambandh. The speaker also describes a woman becoming a Pushtimargiya Vaishnav.",
       "claims": [
         "Alleges that some adults become distressed when a child tries to touch or pull the deity.",
@@ -6029,9 +5730,6 @@
       "language": "gu",
       "published_date": "2026-05-04",
       "duration_seconds": 1221,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker discusses alleged misconduct associated with religious initiation and refers to a death by suicide. He also describes alleged pressure on women and physical closeness with a religious leader.",
       "claims": [
         "Alleges that a young woman from Godhra died by suicide following an unspecified incident.",
@@ -6078,9 +5776,6 @@
       "language": "gu",
       "published_date": "2026-04-10",
       "duration_seconds": 1163,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that religious leaders exploit young people and describes alleged sexual propositions and interactions. He also claims that such encounters made some young men gay.",
       "claims": [
         "Alleges that a religious leader takes young women who come alone.",
@@ -6124,9 +5819,6 @@
       "language": "gu",
       "published_date": "2026-03-26",
       "duration_seconds": 2099,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a young Goswami exploits a girl until her youth fades and then abandons her. The speaker also describes alleged sexual conduct during gatherings.",
       "claims": [
         "Alleges that families send their daughters to a Goswami.",
@@ -6174,9 +5866,6 @@
       "language": "gu",
       "published_date": "2024-08-22",
       "duration_seconds": 3965,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker describes welcoming the Lord and preparing offerings for Janmashtami. The speaker also discusses the motives behind Annakut celebrations and encourages listeners to persuade others to offer sakhdi.",
       "claims": [
         "Alleges that the Janmashtami mahābhog includes foods similar to those offered at Annakut.",
@@ -6211,9 +5900,6 @@
       "language": "gu",
       "published_date": "2026-04-01",
       "duration_seconds": 1864,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker describes an interpretation of divine conduct toward the gopis and alleges that women tried to persuade his mother about Nikunj Lila. He recalls a discussion involving the heart, a seat for Thakorji, and attention to the breast.",
       "claims": [
         "Alleges that an interpretation describes the deity pressing the gopis’ breasts.",
@@ -6260,9 +5946,6 @@
       "language": "gu",
       "published_date": "2025-04-15",
       "duration_seconds": 1414,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that a religious leader looks at schoolgirls with inappropriate intent and warns that girls may be touched or sexually exploited. The speaker urges listeners to take wrongdoing seriously and refers to the rape of a girl as an example.",
       "claims": [
         "Alleges that a religious leader looks at ninth- and tenth-grade girls with inappropriate intent.",
@@ -6314,16 +5997,12 @@
       "language": "gu",
       "published_date": "2025-08-06",
       "duration_seconds": 560,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker discusses performing machki on Shravani with the devotional intention that the Lord be present. The speaker also begins to mention the types of materials.",
       "claims": [
         "Alleges that machki can be performed on Shravani with the intention that the Lord be present.",
         "Alleges that a person may perform machki if they wish.",
         "Alleges that it may not be possible later."
       ],
-      "tags": [],
       "flags": [
         "first_hand"
       ],
@@ -6342,9 +6021,6 @@
       "language": "gu",
       "published_date": "2026-05-03",
       "duration_seconds": 3716,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker urges devotees not to turn Adhik Maas worship into a spectacle. The speaker also recounts a temple decoration that attracted ants.",
       "claims": [
         "Alleges that some devotees turn Adhik Maas worship into a spectacle.",
@@ -6381,9 +6057,6 @@
       "language": "gu",
       "published_date": "2026-05-05",
       "duration_seconds": 905,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some girls have begun refusing religious participation after being taken there by family members. The speaker also discusses possible past experiences and says they are working to stop practices they associate with initiation.",
       "claims": [
         "Alleges that families previously took girls to religious gatherings.",
@@ -6430,9 +6103,6 @@
       "language": "gu",
       "published_date": "2026-05-03",
       "duration_seconds": 2205,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker describes a hypothetical situation involving a minor and a religious leader and raises concerns about potential harm. The speaker also refers to allegations of child abuse against a prominent member of a religious community without naming him.",
       "claims": [
         "Alleges that a minor could be placed in the care of an older religious leader.",
@@ -6481,9 +6151,6 @@
       "language": "hi",
       "published_date": "2024-01-23",
       "duration_seconds": 280,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that threats were made to stop the videos and refers to visits abroad by members of the Vallabh family. The speaker says they will decide what to do and will not offer further explanations.",
       "claims": [
         "Alleges that threats were made in connection with the videos.",
@@ -6519,9 +6186,6 @@
       "language": "hi",
       "published_date": "2023-11-04",
       "duration_seconds": 2093,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker discusses using respectful language for devotional objects and describes aspects of worship and service. The speaker also refers to the care of a damaged image and to devotion associated with Shri Yamunaji.",
       "claims": [
         "Alleges that respectful language should be used when speaking about the Lord and devotional objects.",
@@ -6551,9 +6215,6 @@
       "language": "gu",
       "published_date": "2025-05-11",
       "duration_seconds": 875,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker recounts the appearance of Narasimha and alleges wrongdoing involving agents and intermediaries. The speaker threatens to write to husbands and report those involved to the police.",
       "claims": [
         "Alleges that agents and intermediaries are involved in wrongdoing.",
@@ -6593,9 +6254,6 @@
       "language": "gu",
       "published_date": "2024-09-25",
       "duration_seconds": 995,
-      "location": [
-        "not stated"
-      ],
       "summary_en": "The speaker alleges that some people engage in wrongdoing, scams, and prostitution behind the scenes. The speaker also refers to the names of Swamiji and the Sakhis.",
       "claims": [
         "Alleges that certain people engage in wrongdoing behind the scenes.",
@@ -6634,7 +6292,6 @@
         "Alleges that the current situation can be shown to the audience.",
         "Alleges that the day is regarded as a festival of Shri Yamunaji."
       ],
-      "tags": [],
       "flags": [
         "first_hand"
       ],
